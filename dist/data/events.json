@@ -1,5 +1,36 @@
 [
   {
+    "id": "bint-2026-10-04-thai-taste-thai-fest",
+    "date": "2026-10-04",
+    "end_date": null,
+    "start_time": "14:00",
+    "end_time": "16:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Thai Taste Thai Fest 2026 • Bint & Pui Noon",
+      "th": "ไทยฟุ้ง ปรุงไทย 2026 • บิ๊นท์และปุยนุ่น",
+      "zh": "Thai Taste Thai Fest 2026 • Bint 与 Pui Noon"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Thailand Cultural Centre",
+      "th": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+      "zh": "泰国文化中心"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon’s appearance is scheduled for 14:00–16:00 Thai time. Admission arrangements are not specified on the supplied poster.",
+      "th": "บิ๊นท์และปุยนุ่นมีกำหนดร่วมงานเวลา 14:00–16:00 น. ตามเวลาประเทศไทย โปสเตอร์ไม่ได้ระบุรายละเอียดการเข้าร่วมงาน",
+      "zh": "Bint与Pui Noon的活动时段为泰国时间14:00–16:00。所提供海报未注明入场安排。"
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://x.com/pnrwara",
+    "source_poster": "assets/posters/IMG_9681.jpeg"
+  },
+  {
     "id": "bint-2026-09-03-y-entertain-awards",
     "date": "2026-09-03",
     "end_date": null,
@@ -720,15 +751,15 @@
       "zh": "地点待定"
     },
     "notes": {
-      "en": "",
-      "th": "",
-      "zh": ""
+      "en": "Closed event. Fans are asked not to attend or follow the artist to the venue. Time and venue have not been announced.",
+      "th": "งานปิด งดติดตามศิลปินหรือเดินทางไปหน้างาน ยังไม่ประกาศเวลาและสถานที่",
+      "zh": "非公开活动。请粉丝勿前往现场或跟随艺人到场地。时间及地点尚未公布。"
     },
-    "access": "tbc",
-    "status": "details_tbc",
+    "access": "closed",
+    "status": "confirmed",
     "platform": null,
     "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source_poster": "assets/posters/IMG_9680.jpeg"
   },
   {
     "id": "bint-09-14-23",
