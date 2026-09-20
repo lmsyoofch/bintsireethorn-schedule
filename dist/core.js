@@ -36,3 +36,10 @@ export function calendarURL(e,title,description){
 export function filteredEvents(events,{year,month,category,country}){
   return events.filter(e=>(year==='all'||e.date.slice(0,4)===year)&&(month==='all'||e.date.slice(5,7)===month)&&(category==='all'||e.category===category)&&(country==='all'||(e.country||'tbc')===country));
 }
+
+export function relativeEventDay(e,now=new Date()) {
+  if (!e.timezone || ['cancelled','postponed'].includes(e.status) || isPast(e,now)) return null;
+  const today=dateInZone(now,e.timezone);
+  if (e.date<=today && (e.end_date||e.date)>=today) return 'today';
+  return e.date===nextDay(today)?'tomorrow':null;
+}

@@ -265,9 +265,9 @@
     "country": "TH",
     "city": "Bangkok",
     "title": {
-      "en": "Mayors for Peace art exhibition",
-      "th": "นิทรรศการศิลปะนานาชาติ Mayors for Peace",
-      "zh": "Mayors for Peace 国际艺术展"
+      "en": "UNHCR • Mayors for Peace international art exhibition",
+      "th": "UNHCR • นิทรรศการศิลปะนานาชาติ Mayors for Peace",
+      "zh": "UNHCR • Mayors for Peace 国际艺术展"
     },
     "category": "other",
     "venue": {
@@ -276,9 +276,9 @@
       "zh": "EmSphere，2楼 Sphere Gallery"
     },
     "notes": {
-      "en": "",
-      "th": "",
-      "zh": ""
+      "en": "Bint and Pui Noon are listed on the Star Hunter Entertainment schedule for the UNHCR Mayors for Peace international art exhibition and a special campaign for world peace marking World Refugee Day. Fan attendance arrangements are not specified in this poster.",
+      "th": "ตารางงานของ Star Hunter Entertainment ระบุว่าบิ๊นท์และปุยนุ่นร่วมงาน UNHCR นิทรรศการศิลปะนานาชาติ Mayors for Peace และแคมเปญพิเศษเพื่อสันติภาพโลก เนื่องในวันผู้ลี้ภัยโลก โปสเตอร์นี้ไม่ได้ระบุรายละเอียดการเข้าร่วมของแฟนคลับ",
+      "zh": "Star Hunter Entertainment 行程海报列出 Bint 与 Pui Noon 出席 UNHCR Mayors for Peace 国际艺术展及为世界难民日举办的世界和平特别活动。海报未说明粉丝参与安排。"
     },
     "access": "tbc",
     "status": "confirmed",
@@ -697,7 +697,10 @@
     "platform": null,
     "source": "https://www.instagram.com/starhunter_entertainment/",
     "source_poster": "assets/posters/IMG_9657.jpeg",
-    "source_posters": ["assets/posters/IMG_9657.jpeg", "assets/posters/IMG_9658.jpeg"]
+    "source_posters": [
+      "assets/posters/IMG_9657.jpeg",
+      "assets/posters/IMG_9658.jpeg"
+    ]
   },
   {
     "id": "bint-09-08-21",
