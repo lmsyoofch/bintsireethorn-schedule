@@ -33,3 +33,4 @@ dialog{border:1px solid #ae839b88;border-radius:22px;background:linear-gradient(
 
 .chart-year{color:var(--gold);font-size:14px;font-weight:600;margin:-12px 0 18px;text-align:center}
 .profile-disclaimer{max-width:34rem;margin:14px auto 0;text-align:center}.profile-unofficial{margin:0;color:#c8ae89;font-size:12px;font-weight:500;line-height:1.5}.profile-notice{margin:3px 0 0;padding:0;border:0;color:var(--muted);font-size:12px;line-height:1.5;text-wrap:balance}footer{margin-top:28px}
+.footer-hashtags{margin:12px 0 0;line-height:2}.footer-hashtags .hashtag{margin:0 4px;white-space:nowrap}
