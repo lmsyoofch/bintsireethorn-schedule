@@ -32,3 +32,4 @@ dialog{border:1px solid #ae839b88;border-radius:22px;background:linear-gradient(
 .monthly{gap:8px}.month-column{min-width:24px;font-size:10px}.month-column .month-bar{flex-shrink:0}
 
 .chart-year{color:var(--gold);font-size:14px;font-weight:600;margin:-12px 0 18px;text-align:center}
+.profile-unofficial{margin:8px 0 12px;color:var(--gold);font-size:14px;line-height:1.5}.profile-notice{max-width:38rem;margin:16px auto 0;padding-top:14px;border-top:1px solid #73506666;color:#d9c09d;font-size:14px;line-height:1.6}footer{margin-top:28px}
