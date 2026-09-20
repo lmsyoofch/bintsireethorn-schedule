@@ -1,0 +1,1031 @@
+[
+  {
+    "id": "bint-05-09-01",
+    "date": "2026-05-09",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "18:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "FENDI fashion show",
+      "th": "เดินแบบ FENDI",
+      "zh": "FENDI 时装秀"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "Emporium (BTS Phrom Phong)",
+      "th": "เอ็มโพเรียม (BTS พร้อมพงษ์)",
+      "zh": "Emporium 商场（BTS Phrom Phong）"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "meet",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9076.jpeg"
+  },
+  {
+    "id": "bint-05-24-02",
+    "date": "2026-05-24",
+    "end_date": null,
+    "start_time": "09:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Khom Khlang blessing ceremony",
+      "th": "บวงสรวงซีรีส์ข่มขลัง",
+      "zh": "《Khom Khlang》开机祈福仪式"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Ganesha Shrine, centralwOrld (BTS Chit Lom)",
+      "th": "ศาลพระพิฆเนศ CentralWorld (BTS ชิดลม)",
+      "zh": "centralwOrld 象神庙（BTS Chit Lom）"
+    },
+    "notes": {
+      "en": "From 09:00. End time not announced.",
+      "th": "เริ่ม 09:00 น. ยังไม่ประกาศเวลาสิ้นสุด",
+      "zh": "09:00 起，结束时间未公布。"
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9076.jpeg"
+  },
+  {
+    "id": "bint-05-27-03",
+    "date": "2026-05-27",
+    "end_date": null,
+    "start_time": "16:00",
+    "end_time": "18:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "22nd Kom Chad Luek Awards",
+      "th": "คมชัดลึก อวอร์ด ครั้งที่ 22",
+      "zh": "第22届 Kom Chad Luek 颁奖典礼"
+    },
+    "category": "awards",
+    "venue": {
+      "en": "ICONSIAM Hall, 7th floor",
+      "th": "ไอคอนสยาม ฮอลล์ ชั้น 7",
+      "zh": "ICONSIAM Hall，7楼"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "meet",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9076.jpeg"
+  },
+  {
+    "id": "bint-06-04-04",
+    "date": "2026-06-04",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Harper’s BAZAAR High Tea",
+      "th": "Harper’s BAZAAR High Tea",
+      "zh": "Harper’s BAZAAR 下午茶活动"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "invite",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9635.jpeg"
+  },
+  {
+    "id": "bint-06-05-05",
+    "date": "2026-06-05",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Thailand International LGBT+ Film & TV Festival 2026",
+      "th": "Thailand International LGBT+ Film & TV Festival 2026",
+      "zh": "2026泰国国际 LGBT+ 影视节"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Paragon Hall foyer, 5th floor, Siam Paragon",
+      "th": "Foyer Paragon Hall ชั้น 5 สยามพารากอน",
+      "zh": "Siam Paragon，5楼 Paragon Hall 前厅"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "meet",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9635.jpeg"
+  },
+  {
+    "id": "bint-06-16-06",
+    "date": "2026-06-16",
+    "end_date": null,
+    "start_time": "09:30",
+    "end_time": "11:30",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "ELEMIS Pro-Collagen Ultra-Smart Collection",
+      "th": "Pro-Collagen Ultra-Smart Collection by ELEMIS",
+      "zh": "ELEMIS Pro-Collagen Ultra-Smart 系列活动"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "Devarana Spa, Dusit Thani Bangkok",
+      "th": "เทวารัณย์ สปา ดุสิตธานี กรุงเทพฯ",
+      "zh": "曼谷都喜天丽酒店 Devarana Spa"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9634.jpeg"
+  },
+  {
+    "id": "bint-06-23-07",
+    "date": "2026-06-23",
+    "end_date": null,
+    "start_time": "14:30",
+    "end_time": "17:30",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Mayors for Peace art exhibition",
+      "th": "นิทรรศการศิลปะนานาชาติ Mayors for Peace",
+      "zh": "Mayors for Peace 国际艺术展"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Sphere Gallery, 2nd floor, EmSphere",
+      "th": "ชั้น 2 โซน Sphere Gallery ศูนย์การค้าเอ็มสเฟียร์",
+      "zh": "EmSphere，2楼 Sphere Gallery"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9634.jpeg"
+  },
+  {
+    "id": "bint-07-07-08",
+    "date": "2026-07-07",
+    "end_date": "2026-07-08",
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming",
+      "th": "ถ่ายทำข่มขลัง",
+      "zh": "《Khom Khlang》拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9074.jpeg"
+  },
+  {
+    "id": "bint-07-09-09",
+    "date": "2026-07-09",
+    "end_date": null,
+    "start_time": "14:00",
+    "end_time": "14:30",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "LISH Thailand",
+      "th": "LISH Thailand",
+      "zh": "LISH Thailand 活动"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "TCDC, Bang Rak",
+      "th": "TCDC บางรัก",
+      "zh": "Bang Rak，TCDC"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9074.jpeg"
+  },
+  {
+    "id": "bint-07-12-10",
+    "date": "2026-07-12",
+    "end_date": null,
+    "start_time": "16:50",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Praew Talk 2026: Stage of Stories",
+      "th": "Praew Talk 2026: Stage of Stories",
+      "zh": "Praew Talk 2026：Stage of Stories"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Eden Zone, 1st floor, centralwOrld",
+      "th": "โซน Eden ชั้น 1 CentralWorld",
+      "zh": "centralwOrld，1楼 Eden 区"
+    },
+    "notes": {
+      "en": "The event-specific poster names the Eden Zone. Fan gathering after the event.",
+      "th": "โปสเตอร์เฉพาะงานระบุโซน Eden มีรวมพลหลังจบงาน",
+      "zh": "单独活动海报注明 Eden 区。活动结束后有粉丝集合。"
+    },
+    "access": "after",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9636.jpeg"
+  },
+  {
+    "id": "bint-07-23-11",
+    "date": "2026-07-23",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": "21:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Thailand Y Content Awards 2025",
+      "th": "Thailand Y Content Awards 2025",
+      "zh": "Thailand Y Content Awards 2025"
+    },
+    "category": "awards",
+    "venue": {
+      "en": "MCC Hall, The Mall Lifestore Bangkapi",
+      "th": "MCC Hall เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
+      "zh": "The Mall Lifestore Bangkapi，MCC Hall"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "after",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9074.jpeg"
+  },
+  {
+    "id": "bint-08-03-12",
+    "date": "2026-08-03",
+    "end_date": "2026-08-05",
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming",
+      "th": "ถ่ายทำข่มขลัง",
+      "zh": "《Khom Khlang》拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-08-07-13",
+    "date": "2026-08-07",
+    "end_date": null,
+    "start_time": "20:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Shopee Live Thailand",
+      "th": "Shopee Live Thailand",
+      "zh": "Shopee 泰国直播"
+    },
+    "category": "live",
+    "venue": {
+      "en": "Shopee Live Thailand",
+      "th": "Shopee Live ประเทศไทย",
+      "zh": "Shopee 泰国直播"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "Shopee",
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-08-08-14",
+    "date": "2026-08-08",
+    "end_date": null,
+    "start_time": "18:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Sup’tar Pha Shop • Thairath",
+      "th": "ซุปตาร์พาช้อป ไทยรัฐ",
+      "zh": "Thairath《明星带你购物》"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Thairath",
+      "th": "ไทยรัฐ",
+      "zh": "Thairath"
+    },
+    "notes": {
+      "en": "The monthly poster lists 18:00. Viewing details were not supplied.",
+      "th": "โปสเตอร์รายเดือนระบุเวลา 18:00 น. ยังไม่มีรายละเอียดการรับชม",
+      "zh": "月度海报注明18:00，未提供观看详情。"
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-08-10-15",
+    "date": "2026-08-10",
+    "end_date": "2026-08-12",
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming",
+      "th": "ถ่ายทำข่มขลัง",
+      "zh": "《Khom Khlang》拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-08-15-16",
+    "date": "2026-08-15",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "HYROX",
+      "th": "HYROX",
+      "zh": "HYROX 体能赛"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Queen Sirikit National Convention Center (QSNCC)",
+      "th": "ศูนย์ประชุมแห่งชาติสิริกิติ์ (QSNCC)",
+      "zh": "诗丽吉王后国家会议中心（QSNCC）"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-08-21-17",
+    "date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "start_time": null,
+    "end_time": null,
+    "timezone": null,
+    "country": null,
+    "city": null,
+    "title": {
+      "en": "Confidential activity",
+      "th": "กิจกรรมที่ยังไม่เปิดเผย",
+      "zh": "未公开行程"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "Published as “Confidential” with a travel icon. Destination not announced.",
+      "th": "ระบุว่า Confidential พร้อมสัญลักษณ์เดินทาง ยังไม่ประกาศจุดหมาย",
+      "zh": "海报标注“Confidential”及旅行图标，目的地未公布。"
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9072.jpeg"
+  },
+  {
+    "id": "bint-09-03-18",
+    "date": "2026-09-03",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming • Q18",
+      "th": "ข่มขลัง Q18",
+      "zh": "《Khom Khlang》拍摄 • Q18"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-04-19",
+    "date": "2026-09-04",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": null,
+    "country": null,
+    "city": null,
+    "title": {
+      "en": "Confidential filming",
+      "th": "ถ่ายทำงานที่ยังไม่เปิดเผย",
+      "zh": "未公开项目拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-07-20",
+    "date": "2026-09-07",
+    "end_date": null,
+    "start_time": "18:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Khom Khlang grand premiere",
+      "th": "ข่มขลัง Grand Premiere ตอนแรก",
+      "zh": "《Khom Khlang》首集首映礼"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Central Court Zone, 1st floor (glass elevator lobby), centralWorld",
+      "th": "Central Court Zone ชั้น 1 (โถงลิฟต์แก้ว) centralWorld",
+      "zh": "centralWorld一楼Central Court Zone（玻璃电梯大堂）"
+    },
+    "notes": {
+      "en": "Press conference at 18:00 Thai time at Central Court Zone, 1st floor (glass elevator lobby), centralWorld. Standing-position reservations: 11:00–16:00, first come, first served; no reservations on behalf of others. Reserved attendees enter their assigned zones at 17:00. The grand premiere also includes an EP1 screening at World Max Cinema, 7th floor, centralWorld; screening time and admission conditions are not specified in these notices. Follow staff instructions, stay in your assigned zone, keep exits and walkways clear and respect other attendees. No queue-cutting, pushing or overcrowding. Keep the venue clean and take care of property. Organisers may adjust entry procedures and zones for safety. See the attached official posters for full guidance.",
+      "th": "งานแถลงข่าวเริ่ม 18:00 น. ณ Central Court Zone ชั้น 1 (โถงลิฟต์แก้ว) centralWorld เปิดจองจุดยืน 11:00–16:00 น. ตามลำดับก่อนหลัง ห้ามจองแทนผู้อื่น ผู้จองเข้าพื้นที่ตามโซนที่กำหนดเวลา 17:00 น. งาน Grand Premiere ยังมีการชม EP1 ที่ World Max Cinema ชั้น 7 centralWorld โดยประกาศนี้ไม่ได้ระบุเวลาและเงื่อนไขเข้าชมภาพยนตร์ โปรดปฏิบัติตามเจ้าหน้าที่ อยู่ในโซนที่กำหนด ไม่กีดขวางทางเข้าออกและทางเดิน ไม่แซงคิว ผลักหรือเบียดเสียด เคารพผู้อื่น รักษาความสะอาดและทรัพย์สิน ผู้จัดอาจปรับขั้นตอนและโซนเพื่อความปลอดภัย ดูรายละเอียดครบถ้วนในประกาศที่แนบ",
+      "zh": "新闻发布会于泰国时间18:00在centralWorld一楼Central Court Zone（玻璃电梯大堂）开始。11:00–16:00可预约站位，先到先得，不可代他人预约；已预约观众于17:00进入指定区域。首映礼另设EP1观影，地点为centralWorld七楼World Max Cinema；这两份公告未注明观影时间及入场条件。请遵从工作人员指引，留在指定区域，保持出入口及通道畅通，尊重其他观众，不插队、推挤或造成拥堵。保持场地清洁，爱护财物。主办方可因安全需要调整入场流程及区域。完整规则请查看所附官方公告。"
+    },
+    "access": "public",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9657.jpeg",
+    "source_posters": ["assets/posters/IMG_9657.jpeg", "assets/posters/IMG_9658.jpeg"]
+  },
+  {
+    "id": "bint-09-08-21",
+    "date": "2026-09-08",
+    "end_date": "2026-09-10",
+    "start_time": null,
+    "end_time": null,
+    "timezone": null,
+    "country": null,
+    "city": null,
+    "title": {
+      "en": "Confidential filming",
+      "th": "ถ่ายทำงานที่ยังไม่เปิดเผย",
+      "zh": "未公开项目拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-11-22",
+    "date": "2026-09-11",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Cetaphil event",
+      "th": "อีเวนต์ Cetaphil",
+      "zh": "Cetaphil 活动"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "details_tbc",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-14-23",
+    "date": "2026-09-14",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming • Q19",
+      "th": "ข่มขลัง Q19",
+      "zh": "《Khom Khlang》拍摄 • Q19"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-16-24",
+    "date": "2026-09-16",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "15:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Shopee Live",
+      "th": "Shopee Live",
+      "zh": "Shopee 直播"
+    },
+    "category": "live",
+    "venue": {
+      "en": "Shopee Live",
+      "th": "Shopee Live",
+      "zh": "Shopee 直播"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "Shopee",
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-17-25",
+    "date": "2026-09-17",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang press tour",
+      "th": "เดินสายประชาสัมพันธ์ซีรีส์ข่มขลัง",
+      "zh": "《Khom Khlang》媒体宣传"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "The monthly poster lists 17–18 September. The announced 18 September appearances are listed separately.",
+      "th": "โปสเตอร์รายเดือนระบุวันที่ 17–18 กันยายน กิจกรรมวันที่ 18 กันยายนที่ประกาศแล้วแยกรายการไว้",
+      "zh": "月度海报列出9月17至18日。已公布的9月18日活动另行列出。"
+    },
+    "access": "tbc",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-18-26",
+    "date": "2026-09-18",
+    "end_date": null,
+    "start_time": "10:30",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang • Thairath TikTok Live",
+      "th": "ข่มขลัง • TikTok Live ไทยรัฐ",
+      "zh": "《Khom Khlang》• Thairath TikTok 直播"
+    },
+    "category": "media",
+    "venue": {
+      "en": "TikTok @Thairath_ent",
+      "th": "TikTok @Thairath_ent",
+      "zh": "TikTok @Thairath_ent"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "TikTok",
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9625.jpeg"
+  },
+  {
+    "id": "bint-09-18-27",
+    "date": "2026-09-18",
+    "end_date": null,
+    "start_time": "13:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang • Khaosod Live",
+      "th": "ข่มขลัง • ไลฟ์ข่าวสด",
+      "zh": "《Khom Khlang》• Khaosod 直播"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Facebook: Khaosod • TikTok: Khaosodonline",
+      "th": "Facebook: Khaosod - ข่าวสด • TikTok: ข่าวสด Khaosodonline",
+      "zh": "Facebook：Khaosod • TikTok：Khaosodonline"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "Facebook / TikTok",
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9625.jpeg"
+  },
+  {
+    "id": "bint-09-18-28",
+    "date": "2026-09-18",
+    "end_date": null,
+    "start_time": "20:30",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "MAHIRA grand opening • TikTok Live",
+      "th": "เปิดตัว MAHIRA • TikTok Live",
+      "zh": "MAHIRA 开幕 • TikTok 直播"
+    },
+    "category": "live",
+    "venue": {
+      "en": "TikTok @bintsireethorn",
+      "th": "TikTok @bintsireethorn",
+      "zh": "TikTok @bintsireethorn"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "TikTok",
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9625.jpeg"
+  },
+  {
+    "id": "bint-09-19-29",
+    "date": "2026-09-19",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "NAREE 10th Anniversary: Shine in Every Moment",
+      "th": "NAREE ครบรอบ 10 ปี: Shine in Every Moment",
+      "zh": "NAREE 十周年：Shine in Every Moment"
+    },
+    "category": "brand",
+    "venue": {
+      "en": "The Storeys Square, One Bangkok",
+      "th": "The Storeys Square, One Bangkok",
+      "zh": "One Bangkok，The Storeys Square"
+    },
+    "notes": {
+      "en": "Open event. Fans may support around the venue; no fan gathering.",
+      "th": "งานเปิด สามารถให้กำลังใจรอบงานได้ ไม่มีรวมพล",
+      "zh": "公开活动，可在场地周边应援；没有粉丝集合。"
+    },
+    "access": "public",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-21-30",
+    "date": "2026-09-21",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang filming • Q20, final day",
+      "th": "ข่มขลัง Q20 (ปิดกล้อง)",
+      "zh": "《Khom Khlang》拍摄 • Q20，杀青"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-2026-09-22-elle-press-conference",
+    "date": "2026-09-22",
+    "end_date": null,
+    "start_time": "15:30",
+    "end_time": "18:30",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "ELLE Fashion Week 2026 • Press conference",
+      "th": "งานแถลงข่าว ELLE Fashion Week 2026",
+      "zh": "ELLE Fashion Week 2026 新闻发布会"
+    },
+    "category": "media",
+    "venue": {
+      "en": "River Park, G floor, ICONSIAM",
+      "th": "ริเวอร์ พาร์ค ชั้น G ไอคอนสยาม",
+      "zh": "ICONSIAM，G层 River Park"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon join the Star Hunter Entertainment line-up. Fans may show their support around the event area; space is limited. Poster dress code: casual chic.",
+      "th": "บิ๊นท์และปุยนุ่นร่วมงานกับทัพนักแสดง Star Hunter Entertainment แฟน ๆ สามารถให้กำลังใจได้บริเวณรอบพื้นที่งาน พื้นที่มีจำนวนจำกัด การแต่งกายตามโปสเตอร์: Casual Chic",
+      "zh": "Bint 与 Pui Noon 将随 Star Hunter Entertainment 艺人阵容出席。粉丝可在活动区域周边应援，空间有限。海报着装要求：Casual Chic（休闲时尚）。"
+    },
+    "access": "perimeter",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/ohstarhunter/",
+    "source_poster": "assets/posters/IMG_9643.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9643.jpeg",
+      "assets/posters/IMG_9641.jpeg",
+      "assets/posters/IMG_9642.jpeg"
+    ]
+  },
+  {
+    "id": "bint-09-24-31",
+    "date": "2026-09-24",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": null,
+    "country": null,
+    "city": null,
+    "title": {
+      "en": "Confidential filming",
+      "th": "ถ่ายทำงานที่ยังไม่เปิดเผย",
+      "zh": "未公开项目拍摄"
+    },
+    "category": "filming",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  },
+  {
+    "id": "bint-09-27-32",
+    "date": "2026-09-27",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Event • details TBC",
+      "th": "อีเวนต์ • รอยืนยันรายละเอียด",
+      "zh": "活动 • 详情待定"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Venue TBC",
+      "th": "รอยืนยันสถานที่",
+      "zh": "地点待定"
+    },
+    "notes": {
+      "en": "",
+      "th": "",
+      "zh": ""
+    },
+    "access": "tbc",
+    "status": "tentative",
+    "platform": null,
+    "source": "https://www.instagram.com/bintoupdate/",
+    "source_poster": "assets/posters/IMG_9626.jpeg"
+  }
+]

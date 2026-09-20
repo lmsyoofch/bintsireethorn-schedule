@@ -1,0 +1,13 @@
+{
+  "name": "bint-schedule",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bint Sireethorn multilingual fan schedule. Static files in dist.",
+  "devDependencies": {
+    "vite": "^8.3.0"
+  },
+  "scripts": {
+    "dev": "vite --config vite.config.js"
+  }
+}

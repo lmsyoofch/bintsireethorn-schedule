@@ -1,0 +1,65 @@
+[
+  {
+    "id": "brand",
+    "label": {
+      "en": "Brand events",
+      "th": "อีเวนต์แบรนด์",
+      "zh": "品牌活动"
+    },
+    "colour": "#be3977"
+  },
+  {
+    "id": "live",
+    "label": {
+      "en": "Livestreams",
+      "th": "ไลฟ์สด",
+      "zh": "直播"
+    },
+    "colour": "#944b92"
+  },
+  {
+    "id": "filming",
+    "label": {
+      "en": "Filming",
+      "th": "ถ่ายทำ",
+      "zh": "拍摄"
+    },
+    "colour": "#526887"
+  },
+  {
+    "id": "media",
+    "label": {
+      "en": "Media & PR",
+      "th": "สื่อและประชาสัมพันธ์",
+      "zh": "媒体宣传"
+    },
+    "colour": "#9c6830"
+  },
+  {
+    "id": "awards",
+    "label": {
+      "en": "Awards",
+      "th": "งานประกาศรางวัล",
+      "zh": "颁奖典礼"
+    },
+    "colour": "#a07920"
+  },
+  {
+    "id": "fan",
+    "label": {
+      "en": "Fan events",
+      "th": "กิจกรรมแฟนคลับ",
+      "zh": "粉丝活动"
+    },
+    "colour": "#b54555"
+  },
+  {
+    "id": "other",
+    "label": {
+      "en": "Other activities",
+      "th": "กิจกรรมอื่น ๆ",
+      "zh": "其他活动"
+    },
+    "colour": "#61746a"
+  }
+]
