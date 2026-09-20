@@ -1,5 +1,36 @@
 [
   {
+    "id": "bint-2026-09-03-y-entertain-awards",
+    "date": "2026-09-03",
+    "end_date": null,
+    "start_time": "16:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Y Entertain Awards 2026",
+      "th": "Y Entertain Awards 2026",
+      "zh": "Y Entertain Awards 2026 颁奖典礼"
+    },
+    "category": "awards",
+    "venue": {
+      "en": "ICONSIAM Hall, ICONSIAM",
+      "th": "ICONSIAM Hall ไอคอนสยาม",
+      "zh": "ICONSIAM Hall，ICONSIAM"
+    },
+    "notes": {
+      "en": "Admission to the event is for ticket holders only. Fans may show support outside the event entrance, where space is limited. End time is unannounced.",
+      "th": "งานปิดเฉพาะผู้ที่มีบัตร สามารถให้กำลังใจบริเวณหน้างานได้ แต่พื้นที่มีจำกัด ยังไม่ประกาศเวลาสิ้นสุด",
+      "zh": "活动仅限持票者入场。粉丝可在活动入口外应援，但空间有限。结束时间尚未公布。"
+    },
+    "access": "perimeter",
+    "status": "confirmed",
+    "platform": null,
+    "source": null,
+    "source_poster": "assets/posters/IMG_9669.jpeg"
+  },
+  {
     "id": "bint-05-09-01",
     "date": "2026-05-09",
     "end_date": null,
