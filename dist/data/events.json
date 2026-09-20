@@ -65,8 +65,8 @@
     "id": "bint-05-24-02",
     "date": "2026-05-24",
     "end_date": null,
-    "start_time": "09:00",
-    "end_time": null,
+    "start_time": "08:00",
+    "end_time": "12:00",
     "timezone": "Asia/Bangkok",
     "country": "TH",
     "city": "Bangkok",
@@ -82,22 +82,26 @@
       "zh": "centralwOrld 象神庙（BTS Chit Lom）"
     },
     "notes": {
-      "en": "From 09:00. End time not announced.",
-      "th": "เริ่ม 09:00 น. ยังไม่ประกาศเวลาสิ้นสุด",
-      "zh": "09:00 起，结束时间未公布。"
+      "en": "08:00–12:00, following the Star Hunter Entertainment May schedule.",
+      "th": "เวลา 08:00–12:00 น. ตามตารางงานเดือนพฤษภาคมของ Star Hunter Entertainment",
+      "zh": "按 Star Hunter Entertainment 五月行程表，时间为08:00–12:00。"
     },
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9076.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9678.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9678.jpeg",
+      "assets/posters/IMG_9076.jpeg"
+    ]
   },
   {
     "id": "bint-05-27-03",
     "date": "2026-05-27",
     "end_date": null,
-    "start_time": "16:00",
-    "end_time": "18:00",
+    "start_time": "15:00",
+    "end_time": null,
     "timezone": "Asia/Bangkok",
     "country": "TH",
     "city": "Bangkok",
@@ -113,15 +117,19 @@
       "zh": "ICONSIAM Hall，7楼"
     },
     "notes": {
-      "en": "",
-      "th": "",
-      "zh": ""
+      "en": "From 15:00, following the Star Hunter Entertainment May schedule. End time is unannounced.",
+      "th": "เริ่ม 15:00 น. ตามตารางงานเดือนพฤษภาคมของ Star Hunter Entertainment ยังไม่ประกาศเวลาสิ้นสุด",
+      "zh": "按 Star Hunter Entertainment 五月行程表，15:00开始，结束时间未公布。"
     },
     "access": "meet",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9076.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9678.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9678.jpeg",
+      "assets/posters/IMG_9076.jpeg"
+    ]
   },
   {
     "id": "bint-06-04-04",
@@ -244,8 +252,12 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9634.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9677.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9677.jpeg",
+      "assets/posters/IMG_9634.jpeg"
+    ]
   },
   {
     "id": "bint-07-07-08",
@@ -368,8 +380,13 @@
     "access": "after",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9074.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9676.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9676.jpeg",
+      "assets/posters/IMG_9679.jpeg",
+      "assets/posters/IMG_9074.jpeg"
+    ]
   },
   {
     "id": "bint-08-03-12",
@@ -903,7 +920,7 @@
     "id": "bint-09-19-29",
     "date": "2026-09-19",
     "end_date": null,
-    "start_time": null,
+    "start_time": "16:30",
     "end_time": null,
     "timezone": "Asia/Bangkok",
     "country": "TH",
@@ -927,8 +944,12 @@
     "access": "public",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9675.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9675.jpeg",
+      "assets/posters/IMG_9626.jpeg"
+    ]
   },
   {
     "id": "bint-09-21-30",
@@ -989,9 +1010,10 @@
     "access": "perimeter",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/ohstarhunter/",
-    "source_poster": "assets/posters/IMG_9643.jpeg",
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9674.jpeg",
     "source_posters": [
+      "assets/posters/IMG_9674.jpeg",
       "assets/posters/IMG_9643.jpeg",
       "assets/posters/IMG_9641.jpeg",
       "assets/posters/IMG_9642.jpeg"
@@ -1032,31 +1054,35 @@
     "id": "bint-09-27-32",
     "date": "2026-09-27",
     "end_date": null,
-    "start_time": null,
+    "start_time": "16:00",
     "end_time": null,
     "timezone": "Asia/Bangkok",
     "country": "TH",
-    "city": null,
+    "city": "Bangkok",
     "title": {
-      "en": "Event • details TBC",
-      "th": "อีเวนต์ • รอยืนยันรายละเอียด",
-      "zh": "活动 • 详情待定"
+      "en": "FEED Awards 2026",
+      "th": "FEED Awards 2026",
+      "zh": "FEED Awards 2026 颁奖典礼"
     },
-    "category": "other",
+    "category": "awards",
     "venue": {
-      "en": "Venue TBC",
-      "th": "รอยืนยันสถานที่",
-      "zh": "地点待定"
+      "en": "ICONSIAM Hall, 7th floor, ICONSIAM",
+      "th": "ICONSIAM Hall ชั้น 7 ไอคอนสยาม",
+      "zh": "ICONSIAM，7楼 ICONSIAM Hall"
     },
     "notes": {
-      "en": "",
-      "th": "",
-      "zh": ""
+      "en": "Bint and Pui Noon join the announced Star Hunter Entertainment line-up. End time and attendance arrangements are unannounced.",
+      "th": "บิ๊นท์และปุยนุ่นมีรายชื่อในตารางงานของ Star Hunter Entertainment ยังไม่ประกาศเวลาสิ้นสุดและรายละเอียดการเข้าร่วม",
+      "zh": "Bint与Pui Noon均列于Star Hunter Entertainment公布的出席名单。结束时间及参与方式尚未公布。"
     },
     "access": "tbc",
-    "status": "tentative",
+    "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/starhunter_entertainment/",
+    "source_poster": "assets/posters/IMG_9673.jpeg",
+    "source_posters": [
+      "assets/posters/IMG_9673.jpeg",
+      "assets/posters/IMG_9626.jpeg"
+    ]
   }
 ]
