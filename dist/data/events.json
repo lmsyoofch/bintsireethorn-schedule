@@ -1085,6 +1085,41 @@
     "source": "https://www.instagram.com/bintoupdate/"
   },
   {
+    "id": "bint-09-26-aerobics",
+    "date": "2026-09-26",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": "21:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Aerobics with Pui Noon and Bint",
+      "th": "นำเต้นแอโรบิค · ปุยนุ่นและบิ๊นท์",
+      "zh": "Pui Noon 与 Bint 有氧健身舞活动"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Liab Duan Dan Neramit Market (ตลาดเลียบด่วนแดนเนรมิต)",
+      "th": "ตลาดเลียบด่วนแดนเนรมิต",
+      "zh": "Liab Duan Dan Neramit 市场（ตลาดเลียบด่วนแดนเนรมิต）"
+    },
+    "notes": {
+      "en": "Pui Noon and Bint lead aerobics, according to the September schedule from @THEPNB_TH. Event time: 17:00–21:00 Thailand time. Fans are welcome to attend and show their support. There will be no post-event gathering and gifts will not be accepted.",
+      "th": "ปุยนุ่นและบิ๊นท์นำเต้นแอโรบิค ตามตารางเดือนกันยายนจาก @THEPNB_TH เวลา 17:00–21:00 น. ตามเวลาประเทศไทย แฟน ๆ สามารถเข้าไปให้กำลังใจบริเวณงานได้ ไม่มีรวมพลหลังจบงาน และไม่รับของขวัญ",
+      "zh": "根据 @THEPNB_TH 发布的9月行程，Pui Noon 与 Bint 将带领有氧健身舞活动，时间为泰国时间17:00–21:00。欢迎粉丝到场应援。活动结束后不设聚会，也不接受礼物。"
+    },
+    "access": "public",
+    "access_label": {
+      "en": "Fans welcome",
+      "th": "แฟน ๆ ร่วมให้กำลังใจได้",
+      "zh": "欢迎粉丝到场应援"
+    },
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://x.com/THEPNB_TH"
+  },
+  {
     "id": "bint-09-27-32",
     "date": "2026-09-27",
     "end_date": null,
