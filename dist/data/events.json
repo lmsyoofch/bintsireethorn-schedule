@@ -990,6 +990,71 @@
     "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
+    "id": "bint-09-23-komchadluek",
+    "date": "2026-09-23",
+    "end_date": null,
+    "start_time": "11:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang Media Visit Day 2 · Kom Chad Luek Exclusive Live",
+      "th": "ข่มขลัง Media Visit Day 2 · คมชัดลึก Exclusive Live",
+      "zh": "《Khom Khlang》媒体宣传第2天 · Kom Chad Luek 独家直播"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Kom Chad Luek (คมชัดลึก) Facebook and TikTok",
+      "th": "Facebook และ TikTok: คมชัดลึก",
+      "zh": "Kom Chad Luek（คมชัดลึก）Facebook 和 TikTok"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon promote WeTV Original Khom Khlang The Series as part of Media Visit Day 2. Watch live at 11:00 Thailand time on Kom Chad Luek’s Facebook and TikTok. End time and in-person attendance arrangements have not been announced.",
+      "th": "บิ๊นท์และปุยนุ่นประชาสัมพันธ์ WeTV Original ข่มขลัง ใน Media Visit Day 2 รับชมสดเวลา 11:00 น. ตามเวลาประเทศไทย ทาง Facebook และ TikTok คมชัดลึก ยังไม่ประกาศเวลาสิ้นสุดหรือรายละเอียดการเข้าร่วม ณ สถานที่จริง",
+      "zh": "Bint 与 Pui Noon 参加 WeTV Original《Khom Khlang》媒体宣传第2天活动。泰国时间11:00在 Kom Chad Luek 的 Facebook 和 TikTok 观看直播。结束时间及现场参与安排尚未公布。"
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "Facebook / TikTok",
+    "source": "https://x.com/Khomkhlang_STH"
+  },
+  {
+    "id": "bint-09-23-apor-today",
+    "date": "2026-09-23",
+    "end_date": null,
+    "start_time": "13:30",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang Media Visit Day 2 · APOR Today",
+      "th": "ข่มขลัง Media Visit Day 2 · APOR Today",
+      "zh": "《Khom Khlang》媒体宣传第2天 · APOR Today"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Amarin TV 34HD",
+      "th": "อมรินทร์ทีวี 34HD",
+      "zh": "Amarin TV 34HD"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon appear on APOR Today for WeTV Original Khom Khlang The Series, as part of Media Visit Day 2. Broadcast live at 13:30 Thailand time on Amarin TV 34HD. End time and in-person attendance arrangements have not been announced.",
+      "th": "บิ๊นท์และปุยนุ่นร่วมรายการ APOR Today เพื่อประชาสัมพันธ์ WeTV Original ข่มขลัง ใน Media Visit Day 2 ออกอากาศสดเวลา 13:30 น. ตามเวลาประเทศไทย ทางอมรินทร์ทีวี 34HD ยังไม่ประกาศเวลาสิ้นสุดหรือรายละเอียดการเข้าร่วม ณ สถานที่จริง",
+      "zh": "Bint 与 Pui Noon 参加 APOR Today，宣传 WeTV Original《Khom Khlang》，属于媒体宣传第2天活动。泰国时间13:30在 Amarin TV 34HD 直播。结束时间及现场参与安排尚未公布。"
+    },
+    "access": "online",
+    "access_label": {
+      "en": "Watch on TV",
+      "th": "รับชมทางโทรทัศน์",
+      "zh": "电视观看"
+    },
+    "status": "confirmed",
+    "platform": "Amarin TV 34HD",
+    "source": "https://x.com/Khomkhlang_STH"
+  },
+  {
     "id": "bint-09-24-31",
     "date": "2026-09-24",
     "end_date": null,
