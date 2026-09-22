@@ -28,7 +28,6 @@ Open **dist/data/events.json**, click Edit, change the relevant entry and commit
 | `status` | `confirmed`, `tentative`, `details_tbc`, `cancelled`, `postponed` or `completed` |
 | `access` | `public`, `closed`, `invite`, `online`, `meet`, `after`, `perimeter` or `tbc` |
 | `source` | Original public announcement URL or the source account URL |
-| `source_poster` | Optional local poster path, for example `assets/posters/new-poster.jpeg` |
 
 To move an event to another country, update its date, times, country, venue and IANA time zone together. The local-time switch and Google Calendar links then convert its confirmed time automatically, including daylight saving where applicable. A local date and time within a daylight-saving clock-change gap or repeated hour should be checked before publication.
 
@@ -53,9 +52,9 @@ Edit **dist/data/categories.json**. Each entry has an `id`, a translated `label`
 - `dist/app.js`: translated interface, filters, dashboard and event details
 - `dist/core.js`: date conversion and Google Calendar generation
 - `dist/data/`: editable events and categories
-- `dist/assets/`: supplied portrait and original source posters
+- `dist/assets/`: profile portrait only; event screenshots are not included
 
-The supplied photographs and posters retain their original ownership. Source credit does not transfer copyright.
+The supplied profile photograph retains its original ownership. Source credit does not transfer copyright.
 
 ## Local development
 
