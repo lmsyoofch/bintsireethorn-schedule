@@ -19,7 +19,7 @@ export function isPast(e,now=new Date()){
   if(e.status==='completed')return true;
   if(['cancelled','postponed'].includes(e.status))return false;
   if(e.end_time&&e.timezone)return zonedDate(e.end_date||e.date,e.end_time,e.timezone)<now;
-  return (e.end_date||e.date)<dateInZone(now,e.timezone||'UTC');
+  return (e.end_date||e.date)<dateInZone(now,e.timezone||'Asia/Bangkok');
 }
 export function calendarURL(e,title,description){
   if(['cancelled','postponed'].includes(e.status))return null;
@@ -38,8 +38,8 @@ export function filteredEvents(events,{year,month,category,country}){
 }
 
 export function relativeEventDay(e,now=new Date()) {
-  if (!e.timezone || ['cancelled','postponed'].includes(e.status) || isPast(e,now)) return null;
-  const today=dateInZone(now,e.timezone);
+  if (['cancelled','postponed'].includes(e.status) || isPast(e,now)) return null;
+  const today=dateInZone(now,e.timezone||'Asia/Bangkok');
   if (e.date<=today && (e.end_date||e.date)>=today) return 'today';
   return e.date===nextDay(today)?'tomorrow':null;
 }
