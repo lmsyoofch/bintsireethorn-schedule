@@ -27,8 +27,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://x.com/pnrwara",
-    "source_poster": "assets/posters/IMG_9681.jpeg"
+    "source": "https://x.com/pnrwara"
   },
   {
     "id": "bint-2026-09-03-y-entertain-awards",
@@ -58,8 +57,7 @@
     "access": "perimeter",
     "status": "confirmed",
     "platform": null,
-    "source": null,
-    "source_poster": "assets/posters/IMG_9669.jpeg"
+    "source": null
   },
   {
     "id": "bint-05-09-01",
@@ -89,8 +87,7 @@
     "access": "meet",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9076.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-05-24-02",
@@ -120,12 +117,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9678.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9678.jpeg",
-      "assets/posters/IMG_9076.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-05-27-03",
@@ -155,12 +147,7 @@
     "access": "meet",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9678.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9678.jpeg",
-      "assets/posters/IMG_9076.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-06-04-04",
@@ -190,8 +177,7 @@
     "access": "invite",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9635.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-06-05-05",
@@ -221,8 +207,7 @@
     "access": "meet",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9635.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-06-16-06",
@@ -252,8 +237,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9634.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-06-23-07",
@@ -283,12 +267,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9677.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9677.jpeg",
-      "assets/posters/IMG_9634.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-07-07-08",
@@ -318,8 +297,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9074.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-07-09-09",
@@ -349,8 +327,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9074.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-07-12-10",
@@ -380,8 +357,7 @@
     "access": "after",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9636.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-07-23-11",
@@ -411,13 +387,7 @@
     "access": "after",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9676.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9676.jpeg",
-      "assets/posters/IMG_9679.jpeg",
-      "assets/posters/IMG_9074.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-08-03-12",
@@ -447,8 +417,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-08-07-13",
@@ -478,8 +447,7 @@
     "access": "online",
     "status": "confirmed",
     "platform": "Shopee",
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-08-08-14",
@@ -509,8 +477,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-08-10-15",
@@ -540,8 +507,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-08-15-16",
@@ -571,8 +537,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-08-21-17",
@@ -602,8 +567,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9072.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-03-18",
@@ -633,8 +597,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-04-19",
@@ -664,8 +627,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-07-20",
@@ -695,12 +657,7 @@
     "access": "public",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9657.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9657.jpeg",
-      "assets/posters/IMG_9658.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-09-08-21",
@@ -730,8 +687,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-11-22",
@@ -761,8 +717,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9680.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-14-23",
@@ -792,8 +747,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-16-24",
@@ -823,8 +777,7 @@
     "access": "online",
     "status": "confirmed",
     "platform": "Shopee",
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-17-25",
@@ -854,8 +807,7 @@
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-18-26",
@@ -885,8 +837,7 @@
     "access": "online",
     "status": "confirmed",
     "platform": "TikTok",
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9625.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-18-27",
@@ -916,8 +867,7 @@
     "access": "online",
     "status": "confirmed",
     "platform": "Facebook / TikTok",
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9625.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-18-28",
@@ -947,8 +897,7 @@
     "access": "online",
     "status": "confirmed",
     "platform": "TikTok",
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9625.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-09-19-29",
@@ -978,12 +927,7 @@
     "access": "public",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9675.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9675.jpeg",
-      "assets/posters/IMG_9626.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
   },
   {
     "id": "bint-09-21-30",
@@ -1013,8 +957,7 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
   },
   {
     "id": "bint-2026-09-22-elle-press-conference",
@@ -1044,14 +987,72 @@
     "access": "perimeter",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9674.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9674.jpeg",
-      "assets/posters/IMG_9643.jpeg",
-      "assets/posters/IMG_9641.jpeg",
-      "assets/posters/IMG_9642.jpeg"
-    ]
+    "source": "https://www.instagram.com/starhunter_entertainment/"
+  },
+  {
+    "id": "bint-09-23-komchadluek",
+    "date": "2026-09-23",
+    "end_date": null,
+    "start_time": "11:00",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang Media Visit Day 2 · Kom Chad Luek Exclusive Live",
+      "th": "ข่มขลัง Media Visit Day 2 · คมชัดลึก Exclusive Live",
+      "zh": "《Khom Khlang》媒体宣传第2天 · Kom Chad Luek 独家直播"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Kom Chad Luek (คมชัดลึก) Facebook and TikTok",
+      "th": "Facebook และ TikTok: คมชัดลึก",
+      "zh": "Kom Chad Luek（คมชัดลึก）Facebook 和 TikTok"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon promote WeTV Original Khom Khlang The Series as part of Media Visit Day 2. Watch live at 11:00 Thailand time on Kom Chad Luek’s Facebook and TikTok. End time and in-person attendance arrangements have not been announced.",
+      "th": "บิ๊นท์และปุยนุ่นประชาสัมพันธ์ WeTV Original ข่มขลัง ใน Media Visit Day 2 รับชมสดเวลา 11:00 น. ตามเวลาประเทศไทย ทาง Facebook และ TikTok คมชัดลึก ยังไม่ประกาศเวลาสิ้นสุดหรือรายละเอียดการเข้าร่วม ณ สถานที่จริง",
+      "zh": "Bint 与 Pui Noon 参加 WeTV Original《Khom Khlang》媒体宣传第2天活动。泰国时间11:00在 Kom Chad Luek 的 Facebook 和 TikTok 观看直播。结束时间及现场参与安排尚未公布。"
+    },
+    "access": "online",
+    "status": "confirmed",
+    "platform": "Facebook / TikTok",
+    "source": "https://x.com/Khomkhlang_STH"
+  },
+  {
+    "id": "bint-09-23-apop-today",
+    "date": "2026-09-23",
+    "end_date": null,
+    "start_time": "13:30",
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Khom Khlang Media Visit Day 2 · APOP Today",
+      "th": "ข่มขลัง Media Visit Day 2 · APOP Today",
+      "zh": "《Khom Khlang》媒体宣传第2天 · APOP Today"
+    },
+    "category": "media",
+    "venue": {
+      "en": "Amarin TV 34HD",
+      "th": "อมรินทร์ทีวี 34HD",
+      "zh": "Amarin TV 34HD"
+    },
+    "notes": {
+      "en": "Bint and Pui Noon appear on APOP Today for WeTV Original Khom Khlang The Series, as part of Media Visit Day 2. Broadcast live at 13:30 Thailand time on Amarin TV 34HD. End time and in-person attendance arrangements have not been announced.",
+      "th": "บิ๊นท์และปุยนุ่นร่วมรายการ APOP Today เพื่อประชาสัมพันธ์ WeTV Original ข่มขลัง ใน Media Visit Day 2 ออกอากาศสดเวลา 13:30 น. ตามเวลาประเทศไทย ทางอมรินทร์ทีวี 34HD ยังไม่ประกาศเวลาสิ้นสุดหรือรายละเอียดการเข้าร่วม ณ สถานที่จริง",
+      "zh": "Bint 与 Pui Noon 参加 APOP Today，宣传 WeTV Original《Khom Khlang》，属于媒体宣传第2天活动。泰国时间13:30在 Amarin TV 34HD 直播。结束时间及现场参与安排尚未公布。"
+    },
+    "access": "online",
+    "access_label": {
+      "en": "Watch on TV",
+      "th": "รับชมทางโทรทัศน์",
+      "zh": "电视观看"
+    },
+    "status": "confirmed",
+    "platform": "Amarin TV 34HD",
+    "source": "https://x.com/Khomkhlang_STH"
   },
   {
     "id": "bint-09-24-31",
@@ -1081,8 +1082,42 @@
     "access": "closed",
     "status": "confirmed",
     "platform": null,
-    "source": "https://www.instagram.com/bintoupdate/",
-    "source_poster": "assets/posters/IMG_9626.jpeg"
+    "source": "https://www.instagram.com/bintoupdate/"
+  },
+  {
+    "id": "bint-09-26-aerobics",
+    "date": "2026-09-30",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": "21:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Aerobics with Pui Noon and Bint",
+      "th": "นำเต้นแอโรบิค · ปุยนุ่นและบิ๊นท์",
+      "zh": "Pui Noon 与 Bint 有氧健身舞活动"
+    },
+    "category": "other",
+    "venue": {
+      "en": "Liab Duan Dan Neramit Market (ตลาดเลียบด่วนแดนเนรมิต)",
+      "th": "ตลาดเลียบด่วนแดนเนรมิต",
+      "zh": "Liab Duan Dan Neramit 市场（ตลาดเลียบด่วนแดนเนรมิต）"
+    },
+    "notes": {
+      "en": "Moved from 26 to 30 September, according to @bintoupdate’s update dated 23 September 2026. Pui Noon and Bint lead aerobics. The previously announced time (17:00–21:00 Thailand time), venue and fan arrangements are retained; the date-change notice does not announce revisions to these details. Fans are welcome to attend and show their support. There will be no post-event gathering and gifts will not be accepted.",
+      "th": "เปลี่ยนจากวันที่ 26 เป็น 30 กันยายน ตามประกาศ @bintoupdate วันที่ 23 กันยายน 2026 ปุยนุ่นและบิ๊นท์นำเต้นแอโรบิค คงเวลาเดิมที่ประกาศไว้ 17:00–21:00 น. ตามเวลาประเทศไทย สถานที่และเงื่อนไขการเข้าร่วมเดิม เนื่องจากประกาศเปลี่ยนวันไม่ได้ระบุการแก้ไขรายละเอียดเหล่านี้ แฟน ๆ สามารถเข้าไปให้กำลังใจบริเวณงานได้ ไม่มีรวมพลหลังจบงาน และไม่รับของขวัญ",
+      "zh": "根据 @bintoupdate 于2026年9月23日发布的通知，活动由9月26日改至9月30日。Pui Noon 与 Bint 将带领有氧健身舞活动。保留此前公布的时间（泰国时间17:00–21:00）、地点及粉丝参与安排；改期通知未说明这些信息有变动。欢迎粉丝到场应援。活动结束后不设聚会，也不接受礼物。"
+    },
+    "access": "public",
+    "access_label": {
+      "en": "Fans welcome",
+      "th": "แฟน ๆ ร่วมให้กำลังใจได้",
+      "zh": "欢迎粉丝到场应援"
+    },
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://x.com/bintoupdate"
   },
   {
     "id": "bint-09-27-32",
@@ -1105,18 +1140,53 @@
       "zh": "ICONSIAM，7楼 ICONSIAM Hall"
     },
     "notes": {
-      "en": "Bint and Pui Noon join the announced Star Hunter Entertainment line-up. End time and attendance arrangements are unannounced.",
-      "th": "บิ๊นท์และปุยนุ่นมีรายชื่อในตารางงานของ Star Hunter Entertainment ยังไม่ประกาศเวลาสิ้นสุดและรายละเอียดการเข้าร่วม",
-      "zh": "Bint与Pui Noon均列于Star Hunter Entertainment公布的出席名单。结束时间及参与方式尚未公布。"
+      "en": "Bint and Pui Noon are confirmed in Star Hunter Entertainment’s official line-up for FEED Awards 2026 on Sunday 27 September at 16:00 (Thailand time), ICONSIAM Hall, 7th floor, ICONSIAM. The poster does not specify an end time or fan entry arrangements.",
+      "th": "Star Hunter Entertainment ยืนยันบิ๊นท์และปุยนุ่นร่วมงาน FEED Awards 2026 วันอาทิตย์ที่ 27 กันยายน เวลา 16:00 น. ณ ICONSIAM Hall ชั้น 7 ไอคอนสยาม โปสเตอร์ไม่ได้ระบุเวลาสิ้นสุดหรือรายละเอียดการเข้าร่วมของแฟนคลับ",
+      "zh": "Star Hunter Entertainment 官方行程确认 Bint 与 Pui Noon 将出席 FEED Awards 2026，时间为9月27日（星期日）泰国时间16:00，地点为 ICONSIAM 7楼 ICONSIAM Hall。海报未说明结束时间或粉丝入场安排。"
     },
     "access": "tbc",
     "status": "confirmed",
     "platform": null,
     "source": "https://www.instagram.com/starhunter_entertainment/",
-    "source_poster": "assets/posters/IMG_9673.jpeg",
-    "source_posters": [
-      "assets/posters/IMG_9673.jpeg",
-      "assets/posters/IMG_9626.jpeg"
-    ]
+    "access_label": {
+      "en": "Fan access TBC",
+      "th": "รอยืนยันการเข้าร่วมของแฟนคลับ",
+      "zh": "粉丝入场安排待公布"
+    }
+  },
+  {
+    "id": "bint-10-05-khom-khlang-special-ep5",
+    "date": "2026-10-05",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Khom Khlang Special Episode 5 Screening",
+      "th": "ข่มขลัง Special Episode 5",
+      "zh": "《Khom Khlang》第5集特别观影活动"
+    },
+    "category": "fan",
+    "venue": {
+      "en": "Siam Pavalai Royal Grand Theatre, Paragon Cineplex, 6th floor, Siam Paragon",
+      "th": "โรงภาพยนตร์สยามภาวลัย รอยัล แกรนด์ เธียเตอร์ พารากอน ซีนีเพล็กซ์ ชั้น 6 สยามพารากอน",
+      "zh": "Siam Paragon 6楼，Paragon Cineplex，Siam Pavalai Royal Grand Theatre"
+    },
+    "notes": {
+      "en": "Special Episode 5 screening on 5 October 2026. Event start time has not been announced. Tickets go on sale through Ticketmelon on 28 September 2026 at 11:00 Thailand time (GMT+7). Zone A: THB 2,500, Zone B: THB 1,500, Zone C: THB 900. All ticket tiers include Hi-Bye. THB 2,500: group photo 2:2 for all, signed official poster and photo card. THB 1,500: group photo 2:5 for 150 randomly selected seats and official poster with digital signatures for all. THB 900: group photo 2:10 for 50 randomly selected seats and official poster with digital signatures for all.",
+      "th": "กิจกรรมชมข่มขลัง Special Episode 5 วันที่ 5 ตุลาคม 2026 ยังไม่ประกาศเวลาเริ่มงาน เปิดจำหน่ายบัตรทาง Ticketmelon วันที่ 28 กันยายน 2026 เวลา 11:00 น. ตามเวลาประเทศไทย (GMT+7) โซน A ราคา 2,500 บาท โซน B ราคา 1,500 บาท โซน C ราคา 900 บาท บัตรทุกระดับได้รับสิทธิ์ Hi-Bye บัตร 2,500 บาท: ถ่ายภาพกลุ่ม 2:2 ทุกที่นั่ง โปสเตอร์พร้อมลายเซ็นและโฟโต้การ์ด บัตร 1,500 บาท: สุ่มถ่ายภาพกลุ่ม 2:5 จำนวน 150 ที่นั่ง และโปสเตอร์พร้อมลายเซ็นดิจิทัลทุกที่นั่ง บัตร 900 บาท: สุ่มถ่ายภาพกลุ่ม 2:10 จำนวน 50 ที่นั่ง และโปสเตอร์พร้อมลายเซ็นดิจิทัลทุกที่นั่ง",
+      "zh": "《Khom Khlang》第5集特别观影活动于2026年10月5日举行，活动开始时间尚未公布。门票于2026年9月28日泰国时间11:00（GMT+7）通过 Ticketmelon 开售。A区2,500泰铢，B区1,500泰铢，C区900泰铢。所有票档均含 Hi-Bye。2,500泰铢：全员享有2:2合影、亲笔签名官方海报及照片卡。1,500泰铢：随机抽选150个座位享有2:5合影，全员获电子签名官方海报。900泰铢：随机抽选50个座位享有2:10合影，全员获电子签名官方海报。"
+    },
+    "access": "ticketed",
+    "access_label": {
+      "en": "Ticket required",
+      "th": "ต้องมีบัตรเข้าร่วมงาน",
+      "zh": "凭票入场"
+    },
+    "status": "confirmed",
+    "platform": null,
+    "source": "https://x.com/Khomkhlang_STH"
   }
 ]
