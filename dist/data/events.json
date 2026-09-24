@@ -1152,6 +1152,41 @@
       "en": "Fan access TBC",
       "th": "รอยืนยันการเข้าร่วมของแฟนคลับ",
       "zh": "粉丝入场安排待公布"
-    }
+    },
+    {
+  "id": "bint-10-05-khom-khlang-special-ep5",
+  "date": "2026-10-05",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Khom Khlang Special Episode 5 Screening",
+    "th": "ข่มขลัง Special Episode 5",
+    "zh": "《Khom Khlang》第5集特别观影活动"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Siam Pavalai Royal Grand Theatre, Paragon Cineplex, 6th floor, Siam Paragon",
+    "th": "โรงภาพยนตร์สยามภาวลัย รอยัล แกรนด์ เธียเตอร์ พารากอน ซีนีเพล็กซ์ ชั้น 6 สยามพารากอน",
+    "zh": "Siam Paragon 6楼，Paragon Cineplex，Siam Pavalai Royal Grand Theatre"
+  },
+  "notes": {
+    "en": "Special Episode 5 screening on 5 October 2026. Event start time has not been announced. Tickets go on sale through Ticketmelon on 28 September 2026 at 11:00 Thailand time (GMT+7). Zone A: THB 2,500, Zone B: THB 1,500, Zone C: THB 900. All ticket tiers include Hi-Bye. THB 2,500: group photo 2:2 for all, signed official poster and photo card. THB 1,500: group photo 2:5 for 150 randomly selected seats and official poster with digital signatures for all. THB 900: group photo 2:10 for 50 randomly selected seats and official poster with digital signatures for all.",
+    "th": "กิจกรรมชมข่มขลัง Special Episode 5 วันที่ 5 ตุลาคม 2026 ยังไม่ประกาศเวลาเริ่มงาน เปิดจำหน่ายบัตรทาง Ticketmelon วันที่ 28 กันยายน 2026 เวลา 11:00 น. ตามเวลาประเทศไทย (GMT+7) โซน A ราคา 2,500 บาท โซน B ราคา 1,500 บาท โซน C ราคา 900 บาท บัตรทุกระดับได้รับสิทธิ์ Hi-Bye บัตร 2,500 บาท: ถ่ายภาพกลุ่ม 2:2 ทุกที่นั่ง โปสเตอร์พร้อมลายเซ็นและโฟโต้การ์ด บัตร 1,500 บาท: สุ่มถ่ายภาพกลุ่ม 2:5 จำนวน 150 ที่นั่ง และโปสเตอร์พร้อมลายเซ็นดิจิทัลทุกที่นั่ง บัตร 900 บาท: สุ่มถ่ายภาพกลุ่ม 2:10 จำนวน 50 ที่นั่ง และโปสเตอร์พร้อมลายเซ็นดิจิทัลทุกที่นั่ง",
+    "zh": "《Khom Khlang》第5集特别观影活动于2026年10月5日举行，活动开始时间尚未公布。门票于2026年9月28日泰国时间11:00（GMT+7）通过 Ticketmelon 开售。A区2,500泰铢，B区1,500泰铢，C区900泰铢。所有票档均含 Hi-Bye。2,500泰铢：全员享有2:2合影、亲笔签名官方海报及照片卡。1,500泰铢：随机抽选150个座位享有2:5合影，全员获电子签名官方海报。900泰铢：随机抽选50个座位享有2:10合影，全员获电子签名官方海报。"
+  },
+  "access": "ticketed",
+  "access_label": {
+    "en": "Ticket required",
+    "th": "ต้องมีบัตรเข้าร่วมงาน",
+    "zh": "凭票入场"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/Khomkhlang_STH"
+}
   }
 ]
