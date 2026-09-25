@@ -1,5 +1,40 @@
 [
   {
+  "id": "bint-2026-11-khom-khlang-elite",
+  "date": "2026-11-24",
+  "end_date": "2026-11-25",
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Chiang Mai",
+  "title": {
+    "en": "Khom Khlang The Series Elite Experience · Appearance date TBC",
+    "th": "Khom Khlang The Series Elite Experience · รอยืนยันวันที่ร่วมงาน",
+    "zh": "Khom Khlang The Series Elite Experience · 出席日期待定"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Miracle Land, Mae Taeng, Chiang Mai",
+    "th": "Miracle Land แม่แตง เชียงใหม่",
+    "zh": "Miracle Land，Mae Taeng，清迈"
+  },
+  "notes": {
+    "en": "Join Bint and the Khom Khlang cast at CNX Loy Krathong Sky Lantern Festival 2026. The dates shown, 24–25 November, are the festival dates and do not confirm Bint's attendance on both days. Her appearance day and time are TBC. The Khom Khlang The Series Elite Experience costs THB 9,800 and is limited to 300 seats. Listed as not yet on sale in the supplied update; ticket-sale date TBC. Includes three sky lanterns, unlimited food at all booths, Premium VIP-zone seating, VIP entrance lane, VIP shuttle and a full souvenir set. This cast package is separate from the regular Elite Experience.",
+    "th": "ร่วมงานกับบิ๊นท์และนักแสดงข่มขลังใน CNX Loy Krathong Sky Lantern Festival 2026 วันที่แสดง 24–25 พฤศจิกายนเป็นวันจัดเทศกาล ไม่ใช่การยืนยันว่าบิ๊นท์ร่วมงานทั้งสองวัน ยังรอยืนยันวันและเวลาที่บิ๊นท์ร่วมงาน แพ็กเกจ Khom Khlang The Series Elite Experience ราคา 9,800 บาท จำกัด 300 ที่นั่ง ตามข้อมูลที่ได้รับยังไม่เปิดจำหน่าย และยังไม่ระบุวันเปิดขาย รวมโคมลอย 3 ลูก อาหารฟรีไม่อั้นทุกบูธ ที่นั่ง Premium VIP ช่องทางเข้า VIP รถรับส่ง VIP และของที่ระลึกครบชุด เป็นแพ็กเกจร่วมกับนักแสดงข่มขลัง แยกจาก Elite Experience ปกติ",
+    "zh": "与 Bint 及《Khom Khlang》演员共同参加 CNX Loy Krathong Sky Lantern Festival 2026。所显示的11月24日至25日是节庆日期，并不代表 Bint 两天都会出席。她的具体出席日期及时间待公布。Khom Khlang The Series Elite Experience 套餐售价9,800泰铢，限300席。所提供资料显示尚未开售，开售日期待公布。包含3盏天灯、各摊位无限量餐食、Premium VIP区座位、VIP入场通道、VIP接驳车及全套纪念品。本套餐为《Khom Khlang》演员专属体验，与普通 Elite Experience 套餐不同。"
+  },
+  "access": "ticketed",
+  "access_label": {
+    "en": "Ticket required · Sale date TBC",
+    "th": "ต้องมีบัตร · รอยืนยันวันเปิดขาย",
+    "zh": "凭票入场 · 开售日期待定"
+  },
+  "status": "details_tbc",
+  "platform": null,
+  "source": "https://cnxmiracleland.com/"
+},
+  {
     "id": "bint-2026-10-04-thai-taste-thai-fest",
     "date": "2026-10-04",
     "end_date": null,
