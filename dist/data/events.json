@@ -1,5 +1,110 @@
 [
   {
+  "id": "bint-2026-09-29-manager-online",
+  "date": "2026-09-29",
+  "end_date": null,
+  "start_time": "13:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Khom Khlang Media Visit · Manager Online",
+    "th": "ข่มขลัง Media Visit · Manager Online",
+    "zh": "Khom Khlang 媒体宣传 · Manager Online"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Facebook Live · ซีทรู",
+    "th": "Facebook Live · ซีทรู",
+    "zh": "Facebook 直播 · ซีทรู"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint promote WeTV Original Khom Khlang The Series. Watch live on the ซีทรู Facebook page at 13:00 Thailand time. End time not announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมโปรโมต WeTV Original ข่มขลัง รับชมไลฟ์ทาง Facebook ซีทรู เวลา 13.00 น. ตามเวลาประเทศไทย ยังไม่ระบุเวลาสิ้นสุด",
+    "zh": "Pui Noon 与 Bint 宣传 WeTV Original《Khom Khlang The Series》。泰国时间13:00在 Facebook 页面 ซีทรู 观看直播，结束时间尚未公布。"
+  },
+  "access": "online",
+  "access_label": {
+    "en": "Watch online",
+    "th": "รับชมออนไลน์",
+    "zh": "在线观看"
+  },
+  "status": "confirmed",
+  "platform": "Facebook",
+  "source": "https://www.instagram.com/starhunter_entertainment/"
+},
+{
+  "id": "bint-2026-09-29-maya-tv",
+  "date": "2026-09-29",
+  "end_date": null,
+  "start_time": "13:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Khom Khlang Media Visit · Maya TV",
+    "th": "ข่มขลัง Media Visit · Maya TV",
+    "zh": "Khom Khlang 媒体宣传 · Maya TV"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube Live · Maya TV",
+    "th": "YouTube Live · Maya TV",
+    "zh": "YouTube 直播 · Maya TV"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint promote WeTV Original Khom Khlang The Series. Watch live on the Maya TV YouTube channel at 13:00 Thailand time. End time not announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมโปรโมต WeTV Original ข่มขลัง รับชมไลฟ์ทาง YouTube ช่อง Maya TV เวลา 13.00 น. ตามเวลาประเทศไทย ยังไม่ระบุเวลาสิ้นสุด",
+    "zh": "Pui Noon 与 Bint 宣传 WeTV Original《Khom Khlang The Series》。泰国时间13:00在 YouTube 频道 Maya TV 观看直播，结束时间尚未公布。"
+  },
+  "access": "online",
+  "access_label": {
+    "en": "Watch online",
+    "th": "รับชมออนไลน์",
+    "zh": "在线观看"
+  },
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://www.instagram.com/starhunter_entertainment/"
+},
+{
+  "id": "bint-2026-09-29-sudsapda-live",
+  "date": "2026-09-29",
+  "end_date": null,
+  "start_time": "17:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Sudsapda Live · Pui Noon & Bint",
+    "th": "Sudsapda Live กับ ปุยนุ่น–บิ๊นท์",
+    "zh": "Sudsapda 直播 · Pui Noon 与 Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube Live · sudsapda tv",
+    "th": "YouTube Live · sudsapda tv",
+    "zh": "YouTube 直播 · sudsapda tv"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint join Sudsapda Live as part of the Khom Khlang The Series media visit. Watch live on the sudsapda tv YouTube channel at 17:00 Thailand time. End time not announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ Sudsapda Live ในคิว Media Visit ข่มขลัง รับชมไลฟ์ทาง YouTube ช่อง sudsapda tv เวลา 17.00 น. ตามเวลาประเทศไทย ยังไม่ระบุเวลาสิ้นสุด",
+    "zh": "Pui Noon 与 Bint 参加 Sudsapda 直播，宣传《Khom Khlang The Series》。泰国时间17:00在 YouTube 频道 sudsapda tv 观看直播，结束时间尚未公布。"
+  },
+  "access": "online",
+  "access_label": {
+    "en": "Watch online",
+    "th": "รับชมออนไลน์",
+    "zh": "在线观看"
+  },
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://www.instagram.com/starhunter_entertainment/"
+},
+  {
   "id": "bint-2026-11-khom-khlang-elite",
   "date": "2026-11-24",
   "end_date": "2026-11-25",
