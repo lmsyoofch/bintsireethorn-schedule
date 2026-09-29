@@ -1294,41 +1294,41 @@
     "platform": null,
     "source": "https://www.instagram.com/bintoupdate/"
   },
-  {
-    "id": "bint-09-26-aerobics",
-    "date": "2026-09-30",
-    "end_date": null,
-    "start_time": "17:00",
-    "end_time": "21:00",
-    "timezone": "Asia/Bangkok",
-    "country": "TH",
-    "city": null,
-    "title": {
-      "en": "Aerobics with Pui Noon and Bint",
-      "th": "นำเต้นแอโรบิค · ปุยนุ่นและบิ๊นท์",
-      "zh": "Pui Noon 与 Bint 有氧健身舞活动"
-    },
-    "category": "other",
-    "venue": {
-      "en": "Liab Duan Dan Neramit Market (ตลาดเลียบด่วนแดนเนรมิต)",
-      "th": "ตลาดเลียบด่วนแดนเนรมิต",
-      "zh": "Liab Duan Dan Neramit 市场（ตลาดเลียบด่วนแดนเนรมิต）"
-    },
-    "notes": {
-      "en": "Moved from 26 to 30 September, according to @bintoupdate’s update dated 23 September 2026. Pui Noon and Bint lead aerobics. The previously announced time (17:00–21:00 Thailand time), venue and fan arrangements are retained; the date-change notice does not announce revisions to these details. Fans are welcome to attend and show their support. There will be no post-event gathering and gifts will not be accepted.",
-      "th": "เปลี่ยนจากวันที่ 26 เป็น 30 กันยายน ตามประกาศ @bintoupdate วันที่ 23 กันยายน 2026 ปุยนุ่นและบิ๊นท์นำเต้นแอโรบิค คงเวลาเดิมที่ประกาศไว้ 17:00–21:00 น. ตามเวลาประเทศไทย สถานที่และเงื่อนไขการเข้าร่วมเดิม เนื่องจากประกาศเปลี่ยนวันไม่ได้ระบุการแก้ไขรายละเอียดเหล่านี้ แฟน ๆ สามารถเข้าไปให้กำลังใจบริเวณงานได้ ไม่มีรวมพลหลังจบงาน และไม่รับของขวัญ",
-      "zh": "根据 @bintoupdate 于2026年9月23日发布的通知，活动由9月26日改至9月30日。Pui Noon 与 Bint 将带领有氧健身舞活动。保留此前公布的时间（泰国时间17:00–21:00）、地点及粉丝参与安排；改期通知未说明这些信息有变动。欢迎粉丝到场应援。活动结束后不设聚会，也不接受礼物。"
-    },
-    "access": "public",
-    "access_label": {
-      "en": "Fans welcome",
-      "th": "แฟน ๆ ร่วมให้กำลังใจได้",
-      "zh": "欢迎粉丝到场应援"
-    },
-    "status": "confirmed",
-    "platform": null,
-    "source": "https://x.com/bintoupdate"
+ {
+  "id": "bint-09-26-aerobics",
+  "date": "2026-09-30",
+  "end_date": null,
+  "start_time": "16:00",
+  "end_time": "18:45",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Move with Movies · Aerobics with Bint",
+    "th": "ขยับไปกับหนัง เต้นแอโรบิค",
+    "zh": "跟着电影动起来 · 与 Bint 一起跳健身操"
   },
+  "category": "fan",
+  "venue": {
+    "en": "Liab Duan Dan Neramit Market, Bangkok",
+    "th": "ตลาดเลียบด่วน แดนเนรมิต กรุงเทพฯ",
+    "zh": "曼谷 Liab Duan Dan Neramit Market"
+  },
+  "notes": {
+    "en": "Rescheduled from 26 to 30 September 2026. Registration: 16:00–17:00. Aerobics activity: 17:30–18:45. All times are Thailand time (GMT+7). The displayed 16:00 start is registration. Fans may come to support Bint around the event area. There will be no post-event gathering. These updated timings replace the earlier 17:00–21:00 listing.",
+    "th": "เลื่อนจากวันที่ 26 เป็นวันที่ 30 กันยายน 2569 ลงทะเบียนเข้างานเวลา 16.00–17.00 น. กิจกรรมแอโรบิคเวลา 17.30–18.45 น. เวลาทั้งหมดเป็นเวลาประเทศไทย (GMT+7) เวลาเริ่ม 16.00 น. ที่แสดงคือเวลาเริ่มลงทะเบียน สามารถมาให้กำลังใจบิ๊นท์รอบ ๆ งานได้ ไม่มีรวมพลหลังงาน กำหนดการใหม่นี้แทนเวลาเดิม 17.00–21.00 น.",
+    "zh": "活动由2026年9月26日改至9月30日。签到时间：16:00–17:00。健身操活动：17:30–18:45。以上均为泰国时间（GMT+7）。页面显示的16:00为签到开始时间。粉丝可在活动周边为 Bint 应援，活动结束后不设粉丝集合环节。本次公布的时间取代此前的17:00–21:00安排。"
+  },
+  "access": "public",
+  "access_label": {
+    "en": "Fan support around venue · No post-event gathering",
+    "th": "ให้กำลังใจรอบงานได้ · ไม่มีรวมพลหลังงาน",
+    "zh": "可在活动周边应援 · 无散场后集合"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/bintoupdate"
+},
   {
     "id": "bint-09-27-32",
     "date": "2026-09-27",
