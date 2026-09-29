@@ -1,5 +1,40 @@
 [
   {
+  "id": "bint-2026-10-14-destiny-clinic",
+  "date": "2026-10-14",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Destiny Clinic · Pui Noon & Bint",
+    "th": "Destiny Clinic · ปุยนุ่น–บิ๊นท์",
+    "zh": "Destiny Clinic · Pui Noon 与 Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Central Rama 2, Bangkok",
+    "th": "เซ็นทรัล พระราม 2 กรุงเทพฯ",
+    "zh": "曼谷 Central Rama 2"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint appear at the Destiny Clinic event on 14 October 2026 at 18:00 Thailand time (GMT+7). End time and fan access TBC.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมงาน Destiny Clinic วันที่ 14 ตุลาคม 2569 เวลา 18.00 น. ตามเวลาประเทศไทย (GMT+7) ยังรอยืนยันเวลาสิ้นสุดและรายละเอียดการเข้าร่วมสำหรับแฟนคลับ",
+    "zh": "Pui Noon 与 Bint 将于2026年10月14日泰国时间18:00（GMT+7）出席 Destiny Clinic 活动。结束时间及粉丝入场安排待公布。"
+  },
+  "access": "tbc",
+  "access_label": {
+    "en": "Fan access TBC",
+    "th": "รอยืนยันการเข้าร่วมของแฟนคลับ",
+    "zh": "粉丝入场安排待确认"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/destinyclinic/"
+},
+  {
   "id": "bint-2026-10-01-bazaar-art",
   "date": "2026-10-01",
   "end_date": null,
