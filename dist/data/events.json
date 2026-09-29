@@ -142,37 +142,72 @@
   {
   "id": "bint-2026-11-khom-khlang-elite",
   "date": "2026-11-24",
-  "end_date": "2026-11-25",
+  "end_date": null,
   "start_time": null,
   "end_time": null,
   "timezone": "Asia/Bangkok",
   "country": "TH",
   "city": "Chiang Mai",
   "title": {
-    "en": "Khom Khlang The Series Elite Experience · Appearance date TBC",
-    "th": "Khom Khlang The Series Elite Experience · รอยืนยันวันที่ร่วมงาน",
-    "zh": "Khom Khlang The Series Elite Experience · 出席日期待定"
+    "en": "Khom Khlang Elite Experience · Loy Krathong",
+    "th": "ข่มขลัง ชวนแอ่วเหนือ · Khom Khlang Elite Experience",
+    "zh": "Khom Khlang Elite Experience · 水灯节"
   },
   "category": "fan",
   "venue": {
     "en": "Miracle Land, Mae Taeng, Chiang Mai",
     "th": "Miracle Land แม่แตง เชียงใหม่",
-    "zh": "Miracle Land，Mae Taeng，清迈"
+    "zh": "清迈 Mae Taeng，Miracle Land"
   },
   "notes": {
-    "en": "Join Bint and the Khom Khlang cast at CNX Loy Krathong Sky Lantern Festival 2026. The dates shown, 24–25 November, are the festival dates and do not confirm Bint's attendance on both days. Her appearance day and time are TBC. The Khom Khlang The Series Elite Experience costs THB 9,800 and is limited to 300 seats. Listed as not yet on sale in the supplied update; ticket-sale date TBC. Includes three sky lanterns, unlimited food at all booths, Premium VIP-zone seating, VIP entrance lane, VIP shuttle and a full souvenir set. This cast package is separate from the regular Elite Experience.",
-    "th": "ร่วมงานกับบิ๊นท์และนักแสดงข่มขลังใน CNX Loy Krathong Sky Lantern Festival 2026 วันที่แสดง 24–25 พฤศจิกายนเป็นวันจัดเทศกาล ไม่ใช่การยืนยันว่าบิ๊นท์ร่วมงานทั้งสองวัน ยังรอยืนยันวันและเวลาที่บิ๊นท์ร่วมงาน แพ็กเกจ Khom Khlang The Series Elite Experience ราคา 9,800 บาท จำกัด 300 ที่นั่ง ตามข้อมูลที่ได้รับยังไม่เปิดจำหน่าย และยังไม่ระบุวันเปิดขาย รวมโคมลอย 3 ลูก อาหารฟรีไม่อั้นทุกบูธ ที่นั่ง Premium VIP ช่องทางเข้า VIP รถรับส่ง VIP และของที่ระลึกครบชุด เป็นแพ็กเกจร่วมกับนักแสดงข่มขลัง แยกจาก Elite Experience ปกติ",
-    "zh": "与 Bint 及《Khom Khlang》演员共同参加 CNX Loy Krathong Sky Lantern Festival 2026。所显示的11月24日至25日是节庆日期，并不代表 Bint 两天都会出席。她的具体出席日期及时间待公布。Khom Khlang The Series Elite Experience 套餐售价9,800泰铢，限300席。所提供资料显示尚未开售，开售日期待公布。包含3盏天灯、各摊位无限量餐食、Premium VIP区座位、VIP入场通道、VIP接驳车及全套纪念品。本套餐为《Khom Khlang》演员专属体验，与普通 Elite Experience 套餐不同。"
+    "en": "Pui Noon and Bint are confirmed to join sky lantern release and krathong floating activities on 24 November 2026. The special Khom Khlang Elite Experience zone is limited to 300 participants. Time and ticket-sale arrangements are TBC. Earlier package information listed THB 9,800, including three sky lanterns, unlimited food at all booths, Premium VIP-zone seating, VIP entrance lane, VIP shuttle and a full souvenir set. The new announcement confirms the appearance date but does not restate the price or package benefits. Follow CNX Miracle Land Festival for the latest booking details. This is separate from the parade appearance on 25 November.",
+    "th": "ยืนยันปุยนุ่นและบิ๊นท์ร่วมกิจกรรมปล่อยโคมลอยและลอยกระทงวันที่ 24 พฤศจิกายน 2569 ในโซนพิเศษ Khom Khlang Elite Experience จำกัด 300 สิทธิ์ ยังรอยืนยันเวลาและรายละเอียดการจำหน่ายบัตร ข้อมูลแพ็กเกจก่อนหน้านี้ระบุราคา 9,800 บาท รวมโคมลอย 3 ลูก อาหารฟรีไม่อั้นทุกบูธ ที่นั่ง Premium VIP ช่องทางเข้า VIP รถรับส่ง VIP และของที่ระลึกครบชุด ประกาศใหม่นี้ยืนยันวันที่ร่วมงาน แต่ไม่ได้ระบุราคาและสิทธิประโยชน์ซ้ำ ติดตามรายละเอียดการจองล่าสุดจาก CNX Miracle Land Festival กิจกรรมนี้แยกจากการร่วมขบวนรถกระทงวันที่ 25 พฤศจิกายน",
+    "zh": "已确认 Pui Noon 与 Bint 将于2026年11月24日参加放天灯及放水灯活动。Khom Khlang Elite Experience 特别区域限300名参与者。活动时间及售票安排待公布。此前套餐资料标价9,800泰铢，包含3盏天灯、各摊位无限量餐食、Premium VIP区座位、VIP入场通道、VIP接驳车及全套纪念品。最新公告确认了出席日期，但未重申价格及套餐福利。请关注 CNX Miracle Land Festival 获取最新订票信息。本活动与11月25日的花车巡游为两个独立行程。"
   },
   "access": "ticketed",
   "access_label": {
-    "en": "Ticket required · Sale date TBC",
-    "th": "ต้องมีบัตร · รอยืนยันวันเปิดขาย",
-    "zh": "凭票入场 · 开售日期待定"
+    "en": "Ticket required · Limited to 300",
+    "th": "ต้องมีบัตร · จำกัด 300 สิทธิ์",
+    "zh": "凭票参加 · 限300名"
   },
-  "status": "details_tbc",
+  "status": "confirmed",
   "platform": null,
-  "source": "https://cnxmiracleland.com/"
+  "source": "https://www.instagram.com/miracleland_cnx/"
+},
+{
+  "id": "bint-2026-11-25-yi-peng-parade",
+  "date": "2026-11-25",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Chiang Mai",
+  "title": {
+    "en": "Chiang Mai Yi Peng · Krathong Float Parade",
+    "th": "ร่วมขบวนรถกระทง งานประเพณีลอยกระทงยี่เป็งเชียงใหม่",
+    "zh": "清迈 Yi Peng 水灯节花车巡游"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Chiang Mai · Parade route TBC",
+    "th": "เชียงใหม่ · รอยืนยันเส้นทางขบวน",
+    "zh": "清迈 · 巡游路线待公布"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint are confirmed to ride on a krathong float in the Chiang Mai Loy Krathong and Yi Peng festival parade on 25 November 2026. Appearance time, parade route and fan viewing arrangements have not yet been announced. Follow Star Hunter Entertainment for further details. This is a separate appearance from the ticketed Khom Khlang Elite Experience on 24 November.",
+    "th": "ยืนยันปุยนุ่นและบิ๊นท์ร่วมนั่งขบวนรถกระทงในงานประเพณีลอยกระทงยี่เป็งเชียงใหม่ วันที่ 25 พฤศจิกายน 2569 ยังไม่ประกาศเวลา เส้นทางขบวน และรายละเอียดจุดรับชมสำหรับแฟนคลับ ติดตามรายละเอียดเพิ่มเติมผ่าน Star Hunter Entertainment เป็นคนละกิจกรรมกับ Khom Khlang Elite Experience ที่ต้องมีบัตรในวันที่ 24 พฤศจิกายน",
+    "zh": "已确认 Pui Noon 与 Bint 将于2026年11月25日乘坐水灯花车，参加清迈水灯节及 Yi Peng 节巡游。亮相时间、巡游路线及粉丝观看安排尚未公布，请关注 Star Hunter Entertainment 的后续公告。本行程与11月24日需购票参加的 Khom Khlang Elite Experience 为独立活动。"
+  },
+  "access": "tbc",
+  "access_label": {
+    "en": "Viewing arrangements TBC",
+    "th": "รอยืนยันรายละเอียดการรับชม",
+    "zh": "观看安排待公布"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/starhunter_entertainment/"
 },
   {
     "id": "bint-2026-10-04-thai-taste-thai-fest",
