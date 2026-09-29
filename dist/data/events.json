@@ -1,5 +1,40 @@
 [
   {
+  "id": "bint-2026-10-01-bazaar-art",
+  "date": "2026-10-01",
+  "end_date": null,
+  "start_time": "18:30",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "BAZAAR ART 2026",
+    "th": "BAZAAR ART 2026",
+    "zh": "BAZAAR ART 2026"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "G Floor, Central Embassy, Bangkok",
+    "th": "ชั้น G เซ็นทรัล เอ็มบาสซี กรุงเทพฯ",
+    "zh": "曼谷 Central Embassy，G层"
+  },
+  "notes": {
+    "en": "BAZAAR ART 2026 presented by Central Embassy, celebrating the intersection of art, fashion and culture. Starts at 18:30 Thailand time, with no end time announced. Bint shared the invitation on her Instagram Story with the message “See you na kaa” and tagged @bazaarthailand. Fan access and her individual appearance time have not been specified.",
+    "th": "BAZAAR ART 2026 นำเสนอโดย Central Embassy กับการผสมผสานศิลปะ แฟชั่น และวัฒนธรรม เริ่มเวลา 18.30 น. ตามเวลาประเทศไทย ยังไม่ระบุเวลาสิ้นสุด บิ๊นท์แชร์บัตรเชิญผ่าน Instagram Story พร้อมข้อความ “See you na kaa” และแท็ก @bazaarthailand ยังไม่ระบุรายละเอียดการเข้าร่วมสำหรับแฟนคลับและเวลาปรากฏตัวของบิ๊นท์",
+    "zh": "由 Central Embassy 呈献的 BAZAAR ART 2026，融合艺术、时尚与文化。活动于泰国时间18:30开始，结束时间尚未公布。Bint 在 Instagram 限时动态分享邀请函，配文“See you na kaa”并标记 @bazaarthailand。粉丝入场安排及 Bint 的具体亮相时间尚未说明。"
+  },
+  "access": "tbc",
+  "access_label": {
+    "en": "Fan access TBC",
+    "th": "รอยืนยันการเข้าร่วมของแฟนคลับ",
+    "zh": "粉丝入场安排待确认"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/bintsireethorn/"
+},
+  {
   "id": "bint-2026-09-29-manager-online",
   "date": "2026-09-29",
   "end_date": null,
