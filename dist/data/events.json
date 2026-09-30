@@ -1,5 +1,75 @@
 [
   {
+  "id": "puinoon-2026-10-03-devy-travel-expo",
+  "date": "2026-10-03",
+  "end_date": null,
+  "start_time": "14:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "DEVY Travel Expo · Puinoon",
+    "th": "DEVY Travel Expo · ปุยนุ่น",
+    "zh": "DEVY 旅游展 · Puinoon"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "M Grand Hall, G Floor, The Mall Lifestore Bangkae",
+    "th": "M GRAND HALL ชั้น G เดอะมอลล์ไลฟ์สโตร์ บางแค",
+    "zh": "The Mall Lifestore Bangkae，G层 M Grand Hall"
+  },
+  "notes": {
+    "en": "Puinoon appears at THIS IS THE FINAL CALL TRAVEL EXPO BY DEVY for the MAKE IT FUN activity on 3 October 2026 at 14:00 Thailand time (GMT+7). This is a Puinoon-only appearance. Fans are invited to attend and show their support. Specific activity participation conditions and the end time are not stated.",
+    "th": "พบกับปุยนุ่น วรางค์ศิริ ในกิจกรรม MAKE IT FUN ชั่วโมงสุดฟิน ภายในงาน THIS IS THE FINAL CALL TRAVEL EXPO BY DEVY วันที่ 3 ตุลาคม 2569 เวลา 14.00 น. ตามเวลาประเทศไทย (GMT+7) เป็นงานเดี่ยวของปุยนุ่น แฟนคลับสามารถมาให้กำลังใจได้ ยังไม่ระบุเงื่อนไขการร่วมกิจกรรมโดยละเอียดและเวลาสิ้นสุด",
+    "zh": "Puinoon 将于2026年10月3日泰国时间14:00（GMT+7）出席 THIS IS THE FINAL CALL TRAVEL EXPO BY DEVY 的 MAKE IT FUN 活动。本次为 Puinoon 单人行程。主办方邀请粉丝到场支持，具体互动参与条件及结束时间尚未说明。"
+  },
+  "access": "public",
+  "access_label": {
+    "en": "Fans welcome · Activity terms TBC",
+    "th": "มาให้กำลังใจได้ · รอยืนยันเงื่อนไขกิจกรรม",
+    "zh": "欢迎粉丝到场 · 互动参与条件待确认"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+{
+  "id": "puinoon-2026-10-18-brand-viva",
+  "date": "2026-10-18",
+  "end_date": null,
+  "start_time": "15:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Pathum Thani",
+  "title": {
+    "en": "Brand Viva Event · Puinoon",
+    "th": "งานแบรนด์ Viva · ปุยนุ่น",
+    "zh": "Viva 品牌活动 · Puinoon"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Alive Park Hall, Future Park Rangsit",
+    "th": "Alive Park Hall ฟิวเจอร์พาร์ค รังสิต",
+    "zh": "Future Park Rangsit，Alive Park Hall"
+  },
+  "notes": {
+    "en": "Puinoon appears at the Brand Viva event on 18 October 2026 at 15:00 Thailand time (GMT+7). This is a Puinoon-only appearance. End time, fan access and any fan gathering arrangements are TBC.",
+    "th": "ปุยนุ่นร่วมงานแบรนด์ Viva วันที่ 18 ตุลาคม 2569 เวลา 15.00 น. ตามเวลาประเทศไทย (GMT+7) เป็นงานเดี่ยวของปุยนุ่น ยังรอยืนยันเวลาสิ้นสุด รายละเอียดการเข้าร่วมของแฟนคลับ และการรวมพล",
+    "zh": "Puinoon 将于2026年10月18日泰国时间15:00（GMT+7）出席 Viva 品牌活动。本次为 Puinoon 单人行程。结束时间、粉丝入场及集合安排待公布。"
+  },
+  "access": "tbc",
+  "access_label": {
+    "en": "Fan access TBC",
+    "th": "รอยืนยันการเข้าร่วมของแฟนคลับ",
+    "zh": "粉丝入场安排待确认"
+  },
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/Khomkhlang_STH"
+},
+  {
   "id": "bint-2026-10-10-boh-bioheal-live",
   "date": "2026-10-10",
   "end_date": null,
