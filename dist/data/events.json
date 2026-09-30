@@ -1,5 +1,75 @@
 [
   {
+  "id": "bint-2026-10-10-boh-bioheal-live",
+  "date": "2026-10-10",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": "19:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "BOH Bioheal TikTok Live · Pui Noon & Bint",
+    "th": "BOH Bioheal TikTok Live · ปุยนุ่น–บิ๊นท์",
+    "zh": "BOH Bioheal TikTok直播 · Pui Noon 与 Bint"
+  },
+  "category": "live",
+  "venue": {
+    "en": "TikTok · BOH official brand account",
+    "th": "TikTok · บัญชีทางการของแบรนด์ BOH",
+    "zh": "TikTok · BOH品牌官方账号"
+  },
+  "notes": {
+    "en": "Pui Noon and Bint join BOH Bioheal Live on the brand's official TikTok account from 18:00 to 19:00 Thailand time (GMT+7). The schedule marks the on-site activity as private. Fans can watch online. The exact account handle has not been provided.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์ BOH Bioheal ทางบัญชี TikTok ทางการของแบรนด์ เวลา 18.00–19.00 น. ตามเวลาประเทศไทย (GMT+7) ตารางระบุเป็นงานปิด แฟนคลับสามารถรับชมออนไลน์ได้ ยังไม่ระบุชื่อบัญชี TikTok ที่แน่นอน",
+    "zh": "Pui Noon 与 Bint 将于泰国时间18:00–19:00（GMT+7）在BOH品牌官方TikTok账号直播。行程表标注现场为私人活动，粉丝可在线观看。具体账号名称尚未提供。"
+  },
+  "access": "online",
+  "access_label": {
+    "en": "Watch online · Private venue",
+    "th": "รับชมออนไลน์ · งานปิด",
+    "zh": "在线观看 · 现场不开放"
+  },
+  "status": "confirmed",
+  "platform": "TikTok",
+  "source": "https://x.com/Khomkhlang_STH"
+},
+{
+  "id": "bint-2026-10-16-tefal-live",
+  "date": "2026-10-16",
+  "end_date": null,
+  "start_time": "19:00",
+  "end_time": "21:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Tefal TikTok Live · Bint",
+    "th": "Tefal TikTok Live · บิ๊นท์",
+    "zh": "Tefal TikTok直播 · Bint"
+  },
+  "category": "live",
+  "venue": {
+    "en": "TikTok · @bintsireethorn",
+    "th": "TikTok · @bintsireethorn",
+    "zh": "TikTok · @bintsireethorn"
+  },
+  "notes": {
+    "en": "Bint joins a Tefal livestream on her TikTok account @bintsireethorn from 19:00 to 21:00 Thailand time (GMT+7).",
+    "th": "บิ๊นท์ร่วมไลฟ์ Tefal ทางบัญชี TikTok @bintsireethorn เวลา 19.00–21.00 น. ตามเวลาประเทศไทย (GMT+7)",
+    "zh": "Bint 将于泰国时间19:00–21:00（GMT+7）在自己的TikTok账号 @bintsireethorn 进行Tefal直播。"
+  },
+  "access": "online",
+  "access_label": {
+    "en": "Watch online",
+    "th": "รับชมออนไลน์",
+    "zh": "在线观看"
+  },
+  "status": "confirmed",
+  "platform": "TikTok",
+  "source": "https://x.com/Khomkhlang_STH"
+},
+  {
   "id": "bint-2026-10-14-destiny-clinic",
   "date": "2026-10-14",
   "end_date": null,
