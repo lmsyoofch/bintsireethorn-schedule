@@ -1,5 +1,95 @@
 [
   {
+  "id": "bint-2026-10-02-confidential",
+  "date": "2026-10-02",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": null,
+  "city": null,
+  "title": {
+    "en": "Confidential activity",
+    "th": "งานที่ยังไม่เปิดเผยรายละเอียด",
+    "zh": "保密活动"
+  },
+  "category": "other",
+  "venue": {
+    "en": "Undisclosed",
+    "th": "ยังไม่เปิดเผย",
+    "zh": "未公开"
+  },
+  "notes": {
+    "en": "Listed as Confidential in Bint’s updated October schedule. Time, location and attendance arrangements have not been announced.",
+    "th": "ระบุว่า Confidential ในตารางงานเดือนตุลาคมฉบับอัปเดตของบิ๊นท์ ยังไม่ประกาศเวลา สถานที่ และรายละเอียดการเข้าร่วม",
+    "zh": "Bint更新的十月行程中标注为保密活动。时间、地点及参与安排尚未公布。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/bintoupdate/"
+},
+{
+  "id": "bint-2026-10-09-confidential-shooting",
+  "date": "2026-10-09",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": null,
+  "city": null,
+  "title": {
+    "en": "Confidential shooting",
+    "th": "ถ่ายงานที่ยังไม่เปิดเผยรายละเอียด",
+    "zh": "保密拍摄"
+  },
+  "category": "filming",
+  "venue": {
+    "en": "Undisclosed",
+    "th": "ยังไม่เปิดเผย",
+    "zh": "未公开"
+  },
+  "notes": {
+    "en": "Listed as Shooting Confidential in Bint’s updated October schedule. Project, time and location have not been announced. No fan attendance arrangements have been announced.",
+    "th": "ระบุว่า Shooting Confidential ในตารางงานเดือนตุลาคมฉบับอัปเดตของบิ๊นท์ ยังไม่เปิดเผยโปรเจกต์ เวลา และสถานที่ และยังไม่มีประกาศเกี่ยวกับการเข้าร่วมของแฟนคลับ",
+    "zh": "Bint更新的十月行程中标注为保密拍摄。项目、时间及地点尚未公开，也未公布粉丝参与安排。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/bintoupdate/"
+},
+{
+  "id": "bint-2026-10-15-confidential-shooting",
+  "date": "2026-10-15",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": null,
+  "city": null,
+  "title": {
+    "en": "Confidential shooting",
+    "th": "ถ่ายงานที่ยังไม่เปิดเผยรายละเอียด",
+    "zh": "保密拍摄"
+  },
+  "category": "filming",
+  "venue": {
+    "en": "Undisclosed",
+    "th": "ยังไม่เปิดเผย",
+    "zh": "未公开"
+  },
+  "notes": {
+    "en": "Listed as Shooting Confidential in Bint’s updated October schedule. Project, time and location have not been announced. No fan attendance arrangements have been announced.",
+    "th": "ระบุว่า Shooting Confidential ในตารางงานเดือนตุลาคมฉบับอัปเดตของบิ๊นท์ ยังไม่เปิดเผยโปรเจกต์ เวลา และสถานที่ และยังไม่มีประกาศเกี่ยวกับการเข้าร่วมของแฟนคลับ",
+    "zh": "Bint更新的十月行程中标注为保密拍摄。项目、时间及地点尚未公开，也未公布粉丝参与安排。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/bintoupdate/"
+},
+  {
   "id": "bint-2026-10-10-boh-bioheal-live",
   "date": "2026-10-10",
   "end_date": null,
