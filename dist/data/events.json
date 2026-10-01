@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-24-dr-skinne-love-spell",
+  "date": "2026-10-24",
+  "end_date": null,
+  "start_time": "14:00",
+  "end_time": "16:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "DR.SKINNE’ × Puinoon–Bint: Under Your Love Spell",
+    "th": "DR.SKINNE’ × ปุยนุ่น–บิ๊นท์: Under Your Love Spell",
+    "zh": "DR.SKINNE’ × Puinoon–Bint：Under Your Love Spell"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Venue to be announced",
+    "th": "รอประกาศสถานที่",
+    "zh": "地点待公布"
+  },
+  "notes": {
+    "en": "Exclusive event with Puinoon and Bint for 50 selected Lucky Fans. Purchase eligible DR.SKINNE’ Sunscreen Series products from participating channels between 30 September and 12 October 2026 (purchases close at 23:59 Thai time). Submit registration and receipt evidence by 13 October at 23:59 Thai time. Winners announced on 16 October and must confirm their place during 16–18 October. Allocation: DR.SKINNE’ Official 30 places, EVEANDBOY 10 and BEAUTRIUM 10. Benefits: numbers 1–30 receive a signed Polaroid photo opportunity; numbers 31–50 receive a 2:5 group photo. Ten attendees will be randomly selected for stage games. Venue has not been announced.",
+    "th": "กิจกรรมพิเศษกับปุยนุ่นและบิ๊นท์ สำหรับ Lucky Fans ผู้ได้รับสิทธิ์ 50 คน ซื้อผลิตภัณฑ์ DR.SKINNE’ กลุ่ม Sunscreen Series ที่ร่วมรายการผ่านช่องทางที่กำหนด ระหว่างวันที่ 30 กันยายน–12 ตุลาคม 2569 โดยปิดรับยอดซื้อเวลา 23:59 น. ลงทะเบียนพร้อมหลักฐานใบเสร็จภายในวันที่ 13 ตุลาคม เวลา 23:59 น. ประกาศรายชื่อวันที่ 16 ตุลาคม และยืนยันสิทธิ์วันที่ 16–18 ตุลาคม แบ่งเป็น DR.SKINNE’ Official 30 สิทธิ์ EVEANDBOY 10 สิทธิ์ และ BEAUTRIUM 10 สิทธิ์ สิทธิประโยชน์: ลำดับ 1–30 ถ่ายภาพโพลารอยด์พร้อมลายเซ็น ลำดับ 31–50 ถ่ายภาพหมู่ 2:5 และสุ่มผู้ร่วมงาน 10 คนเล่นเกมบนเวที เวลาทั้งหมดเป็นเวลาประเทศไทย ยังไม่ประกาศสถานที่",
+    "zh": "Puinoon与Bint共同出席的专属活动，限50名获选幸运粉丝参加。于2026年9月30日至10月12日通过指定渠道购买参与活动的DR.SKINNE’ Sunscreen Series产品，购买截止时间为泰国时间23:59。须于10月13日泰国时间23:59前提交报名资料及收据。10月16日公布名单，获选者须于10月16日至18日确认资格。名额分配：DR.SKINNE’ Official 30名、EVEANDBOY 10名、BEAUTRIUM 10名。福利：编号1–30享签名拍立得拍照机会；编号31–50享2:5合照；另随机抽选10名参加舞台游戏。活动地点尚未公布。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-02-confidential",
   "date": "2026-10-02",
   "end_date": null,
