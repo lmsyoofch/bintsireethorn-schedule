@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-03-sian-studio-puinoonbint",
+  "date": "2026-10-03",
+  "end_date": null,
+  "start_time": "07:30",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Sian Studio × PuinoonBint | YouTube Release",
+    "th": "เซียน Studio × ปุยนุ่น–บิ๊นท์ | เผยแพร่ทาง YouTube",
+    "zh": "Sian Studio × PuinoonBint | YouTube节目上线"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube: เซียน Studio",
+    "th": "YouTube: เซียน Studio",
+    "zh": "YouTube：เซียน Studio"
+  },
+  "notes": {
+    "en": "YouTube episode featuring Puinoon and Bint enjoying countryside life, food and outings with the Sian Hang team. Released at 07:30 Thai time (08:30 Malaysia time). Fan hashtag activity starts at 07:15 Thai time. Keyword: SIAN STUDIO X PUINOONBINT. Hashtag: #เซียนหรั่งxปุยนุ่นบิ๊นท์. Online programme release, not an in-person fan event. Duration not announced.",
+    "th": "พบปุยนุ่นและบิ๊นท์กับวิถีไทบ้าน กิน เที่ยว และสนุกไปกับทีมเซียนหรั่ง ทาง YouTube: เซียน Studio วันที่ 3 ตุลาคม 2569 เวลา 07:30 น. เริ่มใช้แท็กเวลา 07:15 น. ตามเวลาประเทศไทย คีย์เวิร์ด: SIAN STUDIO X PUINOONBINT แฮชแท็ก: #เซียนหรั่งxปุยนุ่นบิ๊นท์ เป็นการเผยแพร่รายการออนไลน์ ไม่ใช่งานพบแฟนคลับ ณ สถานที่จริง ยังไม่ประกาศความยาวรายการ",
+    "zh": "Puinoon与Bint和เซียนหรั่ง团队一起体验乡村生活、美食及出游。节目于2026年10月3日泰国时间07:30（马来西亚时间08:30）在YouTube频道เซียน Studio上线。粉丝话题活动于泰国时间07:15开始。关键词：SIAN STUDIO X PUINOONBINT。话题：#เซียนหรั่งxปุยนุ่นบิ๊นท์。本活动为线上节目发布，并非线下粉丝活动。节目时长尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://x.com/Khomkhlang_STH"
+},
+  {
   "id": "bint-2026-10-24-dr-skinne-love-spell",
   "date": "2026-10-24",
   "end_date": null,
