@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-09-big-camera-big-bonus",
+  "date": "2026-10-09",
+  "end_date": null,
+  "start_time": "13:00",
+  "end_time": "15:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "BIG CAMERA BIG BONUS 2026",
+    "th": "BIG CAMERA BIG BONUS 2026",
+    "zh": "BIG CAMERA BIG BONUS 2026"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "BIG Camera (Galleria), 4th floor, centralwOrld",
+    "th": "BIG Camera (Galleria) ชั้น 4 เซ็นทรัลเวิลด์",
+    "zh": "centralwOrld购物中心4楼，BIG Camera (Galleria)"
+  },
+  "notes": {
+    "en": "Bint’s appearance at BIG CAMERA BIG BONUS 2026. Scheduled for 13:00–15:00 Thai time (14:00–16:00 Malaysia time). The announcement specifies no fan gathering. General admission arrangements are not stated.",
+    "th": "บิ๊นท์ร่วมงาน BIG CAMERA BIG BONUS 2026 เวลา 13:00–15:00 น. ตามเวลาประเทศไทย ประกาศระบุว่าไม่มีรวมพล และไม่ได้ระบุรายละเอียดการเข้าร่วมงานทั่วไป",
+    "zh": "Bint出席BIG CAMERA BIG BONUS 2026，时间为泰国时间13:00–15:00（马来西亚时间14:00–16:00）。公告注明不设粉丝集合，未说明一般入场安排。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://www.instagram.com/starhunter_entertainment/"
+},
+  {
   "id": "bint-2026-10-03-sian-studio-puinoonbint",
   "date": "2026-10-03",
   "end_date": null,
