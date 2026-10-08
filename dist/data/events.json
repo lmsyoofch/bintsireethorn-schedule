@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-15-katanyu-tonight",
+  "date": "2026-10-15",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": "20:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Katanyu Tonight | Guest confirmation pending",
+    "th": "Katanyu Tonight | รอยืนยันแขกรับเชิญ",
+    "zh": "Katanyu Tonight | 嘉宾待确认"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Katanyu Tonight building, 3rd floor, Soi Chula 15, Pathum Wan",
+    "th": "ตึก Katanyu Tonight ชั้น 3 ซอยจุฬา 15 เขตปทุมวัน",
+    "zh": "Katanyu Tonight大楼3楼，朱拉15巷，巴吞旺区"
+  },
+  "notes": {
+    "en": "Show recording scheduled for 15 October 2026, 18:00–20:00 Thai time (19:00–21:00 Malaysia time). Free attendance with registration. The supplied teaser does not name the guests, so Bint and Puinoon’s participation remains unconfirmed. The post says the guest reveal and registration opening are at 18:00 on the day of the announcement. Check the linked official post for updates.",
+    "th": "ถ่ายทำรายการวันที่ 15 ตุลาคม 2569 เวลา 18:00–20:00 น. ตามเวลาประเทศไทย เข้าร่วมฟรีโดยลงทะเบียน โพสต์ทีเซอร์ยังไม่ระบุชื่อแขกรับเชิญ จึงยังไม่ยืนยันการเข้าร่วมของบิ๊นท์และปุยนุ่น โพสต์ระบุว่าจะเฉลยแขกรับเชิญพร้อมเปิดลงทะเบียนเวลา 18:00 น. ในวันที่ประกาศ โปรดติดตามข้อมูลล่าสุดจากโพสต์ทางการ",
+    "zh": "节目录制时间为2026年10月15日泰国时间18:00–20:00（马来西亚时间19:00–21:00）。免费入场，须报名。所提供预告尚未公布嘉宾姓名，因此Bint与Puinoon的参与仍待确认。帖文表示将在公告当天泰国时间18:00揭晓嘉宾并开放报名。请查看官方原帖获取更新。"
+  },
+  "access": "tbc",
+  "status": "tentative",
+  "platform": null,
+  "source": "https://x.com/katanyu_tonight/status/2108108887530627410"
+},
+  {
   "id": "bint-2026-10-09-big-camera-big-bonus",
   "date": "2026-10-09",
   "end_date": null,
