@@ -1,34 +1,22 @@
 [
   {
-  "id": "bint-2026-10-04-daradaily-weekend",
-  "date": "2026-10-04",
+  "id": "bint-2026-10-17-pepsi-movie-mania",
+  "date": "2026-10-17",
   "end_date": null,
-  "start_time": "13:00",
+  "start_time": "12:00",
   "end_time": null,
   "timezone": "Asia/Bangkok",
   "country": "TH",
-  "city": null,
+  "city": "Bangkok",
   "title": {
-    "en": "Daradaily Entertainment Weekend × Puinoon–Bint",
-    "th": "ดาราเดลี่บันเทิง Weekend × ปุยนุ่น–บิ๊นท์",
-    "zh": "Daradaily周末娱乐节目 × Puinoon–Bint"
+    "en": "Pepsi Movie Mania Special Screening × Puinoon–Bint",
+    "th": "Pepsi Movie Mania รอบพิเศษ × ปุยนุ่น–บิ๊นท์",
+    "zh": "Pepsi Movie Mania特别观影场 × Puinoon–Bint"
   },
-  "category": "media",
+  "category": "fan",
   "venue": {
-    "en": "Facebook: Daradaily.com",
-    "th": "Facebook: Daradaily.com",
-    "zh": "Facebook：Daradaily.com"
-  },
-  "notes": {
-    "en": "Puinoon and Bint share behind-the-scenes stories from Khom Khlang The Series and reveal what tattoo designs they would choose for each other. Programme starts at 13:00 Thai time on Facebook: Daradaily.com. Their interview segment’s exact time and duration are not specified. The programme is advertised as LIVE, but the interview may be pre-recorded. Broadcast date entered as 4 October 2026 based on the date this announcement was shared; the supplied poster does not state a date.",
-    "th": "ปุยนุ่นและบิ๊นท์เล่าเบื้องหลังข่มขลัง พร้อมเผยว่าหากเลือกได้อยากสักรูปอะไรให้กัน รายการเริ่มเวลา 13:00 น. ตามเวลาประเทศไทย ทาง Facebook: Daradaily.com ยังไม่ระบุเวลาและความยาวของช่วงสัมภาษณ์ แม้รายการระบุว่า LIVE แต่ช่วงสัมภาษณ์อาจเป็นเทปบันทึกไว้ ลงวันที่ออกอากาศเป็น 4 ตุลาคม 2569 ตามวันที่ได้รับประกาศ โดยโปสเตอร์ที่ให้มาไม่ได้ระบุวันที่",
-    "zh": "Puinoon与Bint分享《Khom Khlang The Series》的幕后故事，并透露会为彼此选择什么纹身图案。节目于泰国时间13:00在Facebook：Daradaily.com播出。采访环节的具体时间及长度未注明。节目标注为LIVE，但采访可能为预录内容。根据分享公告的日期，暂录播出日期为2026年10月4日；所提供海报未注明日期。"
-  },
-  "access": "online",
-  "status": "tentative",
-  "platform": "Facebook",
-  "source": "https://x.com/daradaily"
-},
+    "en": "GLS auditorium, Major Ratchayothin",
+    "th": "
   {
   "id": "bint-2026-10-15-katanyu-tonight",
   "date": "2026-10-15",
