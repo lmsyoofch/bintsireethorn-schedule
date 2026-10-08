@@ -1,5 +1,5 @@
 [
-  {
+{
   "id": "bint-2026-10-17-pepsi-movie-mania",
   "date": "2026-10-17",
   "end_date": null,
@@ -13,6 +13,22 @@
     "th": "Pepsi Movie Mania รอบพิเศษ × ปุยนุ่น–บิ๊นท์",
     "zh": "Pepsi Movie Mania特别观影场 × Puinoon–Bint"
   },
+  "category": "fan",
+  "venue": {
+    "en": "GLS auditorium, Major Ratchayothin",
+    "th": "โรงภาพยนตร์ GLS เมเจอร์ รัชโยธิน",
+    "zh": "Major Ratchayothin影院，GLS影厅"
+  },
+  "notes": {
+    "en": "Special cinema screening with Puinoon and Bint on 17 October 2026. Schedule in Thai time: registration outside the GLS auditorium 11:00–12:30; pre-screening talk 12:00; film starts 12:10; activities at the front of the auditorium begin at 14:30. Event finish time is unannounced. All seat types cost THB 800, including one 64 oz popcorn and one 32 oz soft drink. Ten lucky winners receive a 2:1 Polaroid photo opportunity with the artists. Tickets go on sale on 12 October 2026 at 10:00 Thai time through the Major app and www.majorcineplex.com. Bring a paper cinema ticket for registration; exchange an e-ticket for a paper ticket beforehand. Promotions, discounts, vouchers, complimentary tickets and M GEN/M Pass privileges are excluded.",
+    "th": "ชมภาพยนตร์รอบพิเศษกับปุยนุ่นและบิ๊นท์ วันที่ 17 ตุลาคม 2569 กำหนดการตามเวลาประเทศไทย: ลงทะเบียนหน้าโรง GLS เวลา 11:00–12:30 น. พูดคุยก่อนชมภาพยนตร์ 12:00 น. ภาพยนตร์เริ่ม 12:10 น. และเริ่มกิจกรรมหน้าจอเวลา 14:30 น. ยังไม่ประกาศเวลาสิ้นสุดงาน ที่นั่งทุกประเภท 800 บาท รวมป๊อปคอร์น 64 ออนซ์ 1 กล่อง และน้ำอัดลม 32 ออนซ์ 1 แก้ว พร้อมลุ้นถ่ายภาพโพลารอยด์ 2:1 กับศิลปิน จำนวน 10 รางวัล เปิดจำหน่ายบัตรวันที่ 12 ตุลาคม 2569 เวลา 10:00 น. ทาง Major App และ www.majorcineplex.com กรุณาเตรียมบัตรชมภาพยนตร์แบบกระดาษเพื่อลงทะเบียน โดยนำ E-ticket ไปแลกบัตรกระดาษก่อน งดใช้โปรโมชั่น ส่วนลด Voucher บัตรฟรีทุกประเภท รวมถึงสิทธิ์ M GEN และ M Pass",
+    "zh": "Puinoon与Bint出席的特别观影活动，日期为2026年10月17日。泰国时间安排：11:00–12:30在GLS影厅外签到；12:00映前交流；12:10电影开始；14:30开始银幕前活动。结束时间尚未公布。所有座位票价均为800泰铢，包含一份64盎司爆米花及一杯32盎司汽水。另抽出10名幸运观众，获得与艺人拍摄2:1拍立得合照的机会。门票于2026年10月12日泰国时间10:00通过Major App及www.majorcineplex.com开售。签到须出示纸质电影票，电子票须提前兑换纸质票。不适用促销、折扣、优惠券、赠票及M GEN或M Pass权益。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
   "category": "fan",
   "venue": {
     "en": "GLS auditorium, Major Ratchayothin",
