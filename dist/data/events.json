@@ -29,11 +29,7 @@
   "platform": null,
   "source": null
 },
-  "category": "fan",
-  "venue": {
-    "en": "GLS auditorium, Major Ratchayothin",
-    "th": "
-  {
+{
   "id": "bint-2026-10-15-katanyu-tonight",
   "date": "2026-10-15",
   "end_date": null,
@@ -49,14 +45,14 @@
   },
   "category": "media",
   "venue": {
-    "en": "Katanyu Tonight building, 3rd floor, Soi Chula 15, Pathum Wan",
-    "th": "ตึก Katanyu Tonight ชั้น 3 ซอยจุฬา 15 เขตปทุมวัน",
-    "zh": "Katanyu Tonight大楼3楼，朱拉15巷，巴吞旺区"
+    "en": "Katanyu Tonight building, 3rd floor, Soi Chula 15, Pathum Wan, Bangkok",
+    "th": "ตึก Katanyu Tonight ชั้น 3 ซอยจุฬา 15 เขตปทุมวัน กรุงเทพฯ",
+    "zh": "曼谷巴吞旺区朱拉15巷，Katanyu Tonight大楼3楼"
   },
   "notes": {
-    "en": "Show recording scheduled for 15 October 2026, 18:00–20:00 Thai time (19:00–21:00 Malaysia time). Free attendance with registration. The supplied teaser does not name the guests, so Bint and Puinoon’s participation remains unconfirmed. The post says the guest reveal and registration opening are at 18:00 on the day of the announcement. Check the linked official post for updates.",
-    "th": "ถ่ายทำรายการวันที่ 15 ตุลาคม 2569 เวลา 18:00–20:00 น. ตามเวลาประเทศไทย เข้าร่วมฟรีโดยลงทะเบียน โพสต์ทีเซอร์ยังไม่ระบุชื่อแขกรับเชิญ จึงยังไม่ยืนยันการเข้าร่วมของบิ๊นท์และปุยนุ่น โพสต์ระบุว่าจะเฉลยแขกรับเชิญพร้อมเปิดลงทะเบียนเวลา 18:00 น. ในวันที่ประกาศ โปรดติดตามข้อมูลล่าสุดจากโพสต์ทางการ",
-    "zh": "节目录制时间为2026年10月15日泰国时间18:00–20:00（马来西亚时间19:00–21:00）。免费入场，须报名。所提供预告尚未公布嘉宾姓名，因此Bint与Puinoon的参与仍待确认。帖文表示将在公告当天泰国时间18:00揭晓嘉宾并开放报名。请查看官方原帖获取更新。"
+    "en": "Show recording on 15 October 2026 from 18:00 to 20:00 Thailand time (GMT+7). Free audience admission with registration. The teaser announces a guest reveal and registration opening on 8 October at 18:00. The supplied announcement does not name the guests, so Bint and Puinoon's attendance remains unconfirmed. Registration details and guest confirmation are available through the organiser's official announcements.",
+    "th": "บันทึกเทปรายการวันที่ 15 ตุลาคม 2569 เวลา 18:00–20:00 น. ตามเวลาประเทศไทย (GMT+7) เข้าชมฟรีโดยต้องลงทะเบียน โพสต์ทีเซอร์ระบุว่าจะเฉลยแขกรับเชิญพร้อมเปิดลงทะเบียนวันที่ 8 ตุลาคม เวลา 18:00 น. ประกาศที่ได้รับยังไม่ระบุชื่อแขกรับเชิญ จึงยังไม่ยืนยันการเข้าร่วมของบิ๊นท์และปุยนุ่น โปรดติดตามการยืนยันแขกรับเชิญและรายละเอียดการลงทะเบียนจากผู้จัด",
+    "zh": "节目录制时间为2026年10月15日18:00–20:00，泰国时间（GMT+7）。观众可免费入场，但须提前登记。预告表示将于10月8日18:00公布嘉宾并开放登记。所提供的公告尚未列出嘉宾姓名，因此Bint与Puinoon的出席仍待确认。嘉宾确认及登记详情请留意主办方官方公告。"
   },
   "access": "tbc",
   "status": "tentative",
