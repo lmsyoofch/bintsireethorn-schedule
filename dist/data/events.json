@@ -1,10 +1,10 @@
 [
-  {
+{
   "id": "bint-2026-10-10-mahira-shopee-skin-talk",
   "date": "2026-10-10",
   "end_date": null,
-  "start_time": "12:00",
-  "end_time": "14:00",
+  "start_time": "10:00",
+  "end_time": "11:00",
   "timezone": "Asia/Bangkok",
   "country": "TH",
   "city": null,
@@ -20,9 +20,9 @@
     "zh": "Shopee直播：Binto โกดังของดี"
   },
   "notes": {
-    "en": "Join Bint for MAHIRA Skin Talk Live during the Shopee 10.10 campaign on the Binto โกดังของดี channel, from 12:00 to 14:00 Thailand time (GMT+7).",
-    "th": "พบกับบิ๊นท์ในไลฟ์ MAHIRA Skin Talk กับแคมเปญ Shopee 10.10 ทางช่อง Binto โกดังของดี เวลา 12:00–14:00 น. ตามเวลาประเทศไทย (GMT+7)",
-    "zh": "Bint将参加MAHIRA Skin Talk直播，为Shopee 10.10活动助阵。通过Binto โกดังของดี频道观看，时间为泰国时间12:00–14:00（GMT+7）。"
+    "en": "Join Bint for MAHIRA Skin Talk Live during the Shopee 10.10 campaign on the Binto โกดังของดี channel. Updated time: 10:00–11:00 Thailand time (GMT+7), replacing the previously announced 12:00–14:00 slot.",
+    "th": "พบกับบิ๊นท์ในไลฟ์ MAHIRA Skin Talk กับแคมเปญ Shopee 10.10 ทางช่อง Binto โกดังของดี อัปเดตเวลาเป็น 10:00–11:00 น. ตามเวลาประเทศไทย (GMT+7) จากเดิม 12:00–14:00 น.",
+    "zh": "Bint将参加MAHIRA Skin Talk直播，为Shopee 10.10活动助阵，通过Binto โกดังของดี频道观看。时间已调整为泰国时间10:00–11:00（GMT+7），取代原定的12:00–14:00。"
   },
   "access": "online",
   "status": "confirmed",
