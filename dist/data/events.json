@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-06-all-about-you-beautrium",
+  "date": "2026-11-06",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "ALL ABOUT YOU × BEAUTRIUM: Curated for You | Puinoon–Bint",
+    "th": "ALL ABOUT YOU × BEAUTRIUM: Curated for You | ปุยนุ่น–บิ๊นท์",
+    "zh": "ALL ABOUT YOU × BEAUTRIUM：Curated for You | Puinoon–Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Siam Square, Bangkok",
+    "th": "สยามสแควร์ กรุงเทพฯ",
+    "zh": "曼谷暹罗广场"
+  },
+  "notes": {
+    "en": "Event with Puinoon and Bint on 6 November 2026 at Siam Square. Time and exact event location have not been announced. Purchase THB 699 of participating products to receive one lucky-draw entry through BEAUTRIUM branches or BEAUTRIUM Online. Participating brands: Kraam, JUV and AXIS-Y, with 10 event places per brand, totalling 30. Winners No. 1–30 receive event admission, a signed 2:1 Polaroid photo and an exclusive ALL ABOUT YOU gift set. An event-day draw selects 10 attendees for a one-minute Mini Talk. Winners No. 31–50 receive a signed postcard and an exclusive gift set, without event admission. Winners announced on 27 October 2026. The campaign closes on 25 October; posters show different start dates of 9 and 10 October, so confirm purchase eligibility with the organiser.",
+    "th": "งานร่วมกับปุยนุ่นและบิ๊นท์ วันที่ 6 พฤศจิกายน 2569 ณ สยามสแควร์ ยังไม่ประกาศเวลาและจุดจัดงานที่แน่นอน ซื้อสินค้าที่ร่วมรายการครบ 699 บาท รับ 1 สิทธิ์ลุ้น ผ่าน BEAUTRIUM ทุกสาขาและ BEAUTRIUM Online แบรนด์ที่ร่วมรายการ ได้แก่ Kraam, JUV และ AXIS-Y แบรนด์ละ 10 สิทธิ์ รวมผู้เข้าร่วมงาน 30 คน ผู้โชคดีลำดับ 1–30 ได้เข้าร่วมงาน ถ่ายภาพ Polaroid 2:1 พร้อมลายเซ็น และรับ Exclusive Gift Set จาก ALL ABOUT YOU ในวันงานจะจับรางวัลผู้เข้าร่วม 10 คน เพื่อรับสิทธิ์ Mini Talk 1 นาที ผู้โชคดีลำดับ 31–50 ได้รับโปสการ์ดพร้อมลายเซ็นและชุดของขวัญ แต่ไม่ได้สิทธิ์เข้าร่วมงาน ประกาศผลวันที่ 27 ตุลาคม 2569 สิ้นสุดกิจกรรมวันที่ 25 ตุลาคม โดยโปสเตอร์ระบุวันเริ่มต้นต่างกันเป็นวันที่ 9 และ 10 ตุลาคม กรุณาสอบถามผู้จัดเพื่อยืนยันช่วงเวลาซื้อสินค้าที่ได้รับสิทธิ์",
+    "zh": "Puinoon与Bint将于2026年11月6日在曼谷暹罗广场出席活动。时间及具体活动地点尚未公布。在BEAUTRIUM各分店或BEAUTRIUM Online购买指定产品满699泰铢，可获得一次抽奖机会。参与品牌为Kraam、JUV及AXIS-Y，每个品牌提供10个入场名额，共30名。第1–30名幸运粉丝可入场、拍摄附签名的2:1拍立得合照并获得ALL ABOUT YOU专属礼品套装。活动当天另抽选10名到场粉丝，获得一分钟Mini Talk机会。第31–50名可获得签名明信片及专属礼品套装，但不含入场资格。获奖名单于2026年10月27日公布。活动报名购买期于10月25日结束；海报分别标注10月9日及10日开始，购买资格日期请向主办方确认。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-11-07-photopia-florals-of-enchante",
   "date": "2026-11-07",
   "end_date": null,
