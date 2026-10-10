@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-11-07-photopia-florals-of-enchante",
+  "date": "2026-11-07",
+  "end_date": null,
+  "start_time": "10:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "PHOTOPIA The Florals of Enchante × Puinoon–Bint",
+    "th": "PHOTOPIA The Florals of Enchante × ปุยนุ่น–บิ๊นท์",
+    "zh": "PHOTOPIA The Florals of Enchante × Puinoon–Bint"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Venue to be announced",
+    "th": "รอประกาศสถานที่",
+    "zh": "地点待公布"
+  },
+  "notes": {
+    "en": "Exclusive event with Puinoon and Bint, starting at 10:00 Thailand time (GMT+7). Premium Set: THB 19,900, limited to 40 sets. Benefits include event admission, a workshop with the artists, a one-minute private talk, a 2:1 photobooth photo, a 2:1 digital photo, Hi-Bye and Hi-Touch, a merchandise set and a signed Polaroid. Merchandise includes a mystery bag and 40 photo coupons for 2.5 × 6-inch prints, valued at THB 10,000, valid from 7 November to 31 December 2026. Sales opened on 9 October at 10:00, with eligible purchasers announced at 12:00. Payment was due by 23:59 on 9 October through LINE Official @photopia. Unpaid allocations pass to the waiting list in order. Benefits are non-transferable and cannot be exchanged for cash. Merchandise and event details are subject to change.",
+    "th": "งานเอ็กซ์คลูซีฟกับปุยนุ่นและบิ๊นท์ เริ่มเวลา 10:00 น. ตามเวลาประเทศไทย (GMT+7) Premium Set ราคา 19,900 บาท จำกัด 40 เซ็ต สิทธิประโยชน์ ได้แก่ เข้าร่วมงาน เวิร์กช็อปกับศิลปิน ไพรเวททอล์ค 1 นาที ถ่ายภาพ Photobooth 2:1 ถ่ายภาพ Digital 2:1 Hi-Bye และ Hi-Touch ชุดของที่ระลึก และโพลารอยด์พร้อมลายเซ็น ชุดของที่ระลึกประกอบด้วย Mystery Bag และคูปองถ่ายรูปขนาด 2.5 × 6 นิ้ว จำนวน 40 ใบ มูลค่า 10,000 บาท ใช้ได้ตั้งแต่วันที่ 7 พฤศจิกายน ถึง 31 ธันวาคม 2569 เปิดขายวันที่ 9 ตุลาคม เวลา 10:00 น. ประกาศรายชื่อผู้มีสิทธิ์สั่งซื้อเวลา 12:00 น. และชำระเงินผ่าน LINE Official @photopia ภายในวันที่ 9 ตุลาคม เวลา 23:59 น. หากไม่ชำระตามกำหนดจะถือว่าสละสิทธิ์และให้สิทธิ์รายชื่อสำรองตามลำดับ สิทธิ์ไม่สามารถโอนหรือแลกเป็นเงินสดได้ ของที่ระลึกและรายละเอียดอาจเปลี่ยนแปลงได้",
+    "zh": "Puinoon与Bint专属活动，泰国时间10:00开始（GMT+7）。Premium Set售价19,900泰铢，限量40套。权益包括入场、与艺人参加工作坊、一分钟私人交流、2:1照相亭合照、2:1数码合照、Hi-Bye及Hi-Touch、周边套装和签名拍立得。周边包括神秘礼包及40张2.5 × 6英寸照片券，总值10,000泰铢，有效期为2026年11月7日至12月31日。10月9日10:00开售，12:00公布获得购买资格的名单，须于当天23:59前通过LINE官方账号@photopia付款。逾期未付款视为放弃资格，名额将按候补顺序递补。权益不可转让或兑换现金。周边及活动详情可能调整。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
 {
   "id": "bint-2026-10-10-mahira-shopee-skin-talk",
   "date": "2026-10-10",
