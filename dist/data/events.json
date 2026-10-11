@@ -1,5 +1,35 @@
 [
   {
+  "id": "unseen-2026-10-30-premiere",
+  "date": "2026-10-30",
+  "end_date": null,
+  "start_time": "22:30",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "UNSEEN | Series Premiere",
+    "th": "UNSEEN | ออกอากาศตอนแรก",
+    "zh": "UNSEEN | 首播"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Channel 3 HD; uncut version on WeTV",
+    "th": "ช่อง 3 HD และเวอร์ชัน UNCUT ทาง WeTV",
+    "zh": "泰国Channel 3 HD；完整版在WeTV播出"
+  },
+  "notes": {
+    "en": "UNSEEN premieres on 30 October 2026. Episodes air every Friday at 22:30 Thailand time (GMT+7) on Channel 3 HD. The uncut version is available exclusively on WeTV; its release time is not specified in the teaser. This entry marks the series premiere. The supplied teaser does not confirm whether Bint appears in the first episode.",
+    "th": "UNSEEN เริ่มตอนแรกวันที่ 30 ตุลาคม 2569 ออกอากาศทุกวันศุกร์ เวลา 22:30 น. ตามเวลาประเทศไทย (GMT+7) ทางช่อง 3 HD รับชมเวอร์ชัน UNCUT ได้ทาง WeTV เท่านั้น โดยทีเซอร์ไม่ได้ระบุเวลาเผยแพร่บน WeTV รายการนี้บันทึกวันออกอากาศตอนแรกของซีรีส์ และทีเซอร์ที่ได้รับไม่ได้ยืนยันว่าบิ๊นท์ปรากฏตัวในตอนแรกหรือไม่",
+    "zh": "UNSEEN于2026年10月30日首播，每周五泰国时间22:30（GMT+7）在Channel 3 HD播出。完整版仅在WeTV上线，预告未注明WeTV的具体更新时间。此条目为剧集首播，并非确认Bint在第一集登场；所提供的预告未说明这一点。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "Channel 3 HD / WeTV",
+  "source": null
+},
+  {
   "id": "bint-2026-11-06-all-about-you-beautrium",
   "date": "2026-11-06",
   "end_date": null,
