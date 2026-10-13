@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-25-arn-book-expo",
+  "date": "2026-10-25",
+  "end_date": null,
+  "start_time": "20:00",
+  "end_time": "20:50",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Book Expo Thailand | Khom Khlang with Bint, Puinoon and Luxurious.W",
+    "th": "มหกรรมหนังสือระดับชาติ | ข่มขลังกับบิ๊นท์ ปุยนุ่น และ Luxurious.W",
+    "zh": "泰国图书博览会 | Khom Khlang：Bint、Puinoon与Luxurious.W"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Central stage, Queen Sirikit National Convention Center, Bangkok",
+    "th": "เวทีกลาง ศูนย์การประชุมแห่งชาติสิริกิติ์ กรุงเทพฯ",
+    "zh": "曼谷诗丽吉王后国家会议中心，中央舞台"
+  },
+  "notes": {
+    "en": "Meet Bint and Puinoon, the leads of Khom Khlang The Series, alongside original author Luxurious.W at a central-stage event presented by ARN Application during the 31st Book Expo Thailand. Scheduled for 25 October 2026 from 20:00 to 20:50 Thailand time (GMT+7). Participation details will be announced separately through ARN Application's official Facebook and X accounts. The book fair runs from 23 October to 1 November 2026; Bint and Puinoon's announced appearance is on 25 October only.",
+    "th": "พบกับบิ๊นท์และปุยนุ่น นักแสดงนำจากซีรีส์ข่มขลัง พร้อมคุณ Luxurious.W เจ้าของบทประพันธ์ ในกิจกรรมเวทีกลางโดย ARN Application ภายในงานมหกรรมหนังสือระดับชาติ ครั้งที่ 31 วันที่ 25 ตุลาคม 2569 เวลา 20:00–20:50 น. ตามเวลาประเทศไทย (GMT+7) ทีมงานจะประกาศรายละเอียดการเข้าร่วมกิจกรรมอีกครั้งทาง Facebook และ X ของ ARN Application งานหนังสือจัดระหว่างวันที่ 23 ตุลาคม ถึง 1 พฤศจิกายน 2569 โดยกำหนดการของบิ๊นท์และปุยนุ่นที่ประกาศคือวันที่ 25 ตุลาคมเท่านั้น",
+    "zh": "Bint与Puinoon将以Khom Khlang The Series主演身份，与原著作者Luxurious.W共同参加ARN Application在第31届泰国图书博览会举办的中央舞台活动。时间为2026年10月25日泰国时间20:00–20:50（GMT+7）。参与方式将通过ARN Application官方Facebook及X账号另行公布。书展举办日期为2026年10月23日至11月1日，已公布的Bint与Puinoon出席日期仅为10月25日。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/ArnBook_App"
+},
+  {
   "id": "2026-10-15-bintohouse-mae-kru-bulan-fan-activity",
   "date": "2026-10-15",
   "end_date": null,
