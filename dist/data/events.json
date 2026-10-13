@@ -1,5 +1,35 @@
 [
   {
+  "id": "2026-10-15-bintohouse-mae-kru-bulan-fan-activity",
+  "date": "2026-10-15",
+  "end_date": null,
+  "start_time": "21:00",
+  "end_time": "22:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Bintohouse | Mae Kru Bulan VJ Fan Activity",
+    "th": "Bintohouse | กิจกรรมวีเจแต่งเป็นแม่ครูบุหลัน",
+    "zh": "Bintohouse | Mae Kru Bulan主播角色扮演活动"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "TikTok LIVE, livestream account to be confirmed",
+    "th": "TikTok LIVE รอยืนยันบัญชีที่ถ่ายทอดสด",
+    "zh": "TikTok直播，直播账号待确认"
+  },
+  "notes": {
+    "en": "Fan activity organised by @bintohouse on 15 October 2026, from 21:00 to 22:00 Thailand time (GMT+7). VJs dress as Mae Kru Bulan in red or white costumes, with outfits and make-up completed before joining the livestream. Each participant has five minutes to perform, such as singing, dancing or playing an instrument, or interact with fans. After all performances, a final five-minute gifting round takes place. Virtual gift totals determine the prize rankings. The gift names and icons indicate TikTok LIVE, but the livestream account is not specified. Bint's attendance is not announced; this is a character-themed fan activity.",
+    "th": "กิจกรรมโดย @bintohouse วันที่ 15 ตุลาคม 2569 เวลา 21:00–22:00 น. ตามเวลาประเทศไทย (GMT+7) ให้เหล่าวีเจแต่งกายเลียนแบบแม่ครูบุหลันในชุดสีแดงหรือสีขาว โดยแต่งตัวและแต่งหน้าให้เรียบร้อยก่อนขึ้นห้องจอ ผู้เข้าร่วมแต่ละคนมีเวลา 5 นาทีในการแสดงความสามารถ เช่น ร้องเพลง รำ เล่นดนตรี หรืออ้อนแฟนคลับ หลังแสดงครบทุกคนจะมีรอบส่งของขวัญสุดท้ายอีก 5 นาที ยอดของขวัญเป็นตัวกำหนดอันดับรางวัล ชื่อและรูปของขวัญบ่งชี้ว่าเป็น TikTok LIVE แต่ยังไม่ระบุบัญชีที่ถ่ายทอดสด ยังไม่มีการประกาศว่าบิ๊นท์จะเข้าร่วม กิจกรรมนี้เป็นกิจกรรมแฟนคลับในธีมตัวละคร",
+    "zh": "由@bintohouse举办的粉丝活动，时间为2026年10月15日泰国时间21:00–22:00（GMT+7）。主播穿红色或白色服装扮演Mae Kru Bulan，并须在上麦前完成服装及妆容。每人有五分钟表演唱歌、舞蹈、乐器或与粉丝互动。所有表演结束后，设有最后五分钟的送礼环节，按虚拟礼物总额决定获奖排名。礼物名称及图标显示平台为TikTok LIVE，但直播账号尚未注明。未宣布Bint本人出席，此活动为角色主题粉丝活动。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "TikTok",
+  "source": "https://www.instagram.com/bintohouse/"
+},
+  {
   "id": "bint-2026-10-20-nation-forum",
   "date": "2026-10-20",
   "end_date": null,
