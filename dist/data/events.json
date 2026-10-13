@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-20-nation-forum",
+  "date": "2026-10-20",
+  "end_date": null,
+  "start_time": "15:00",
+  "end_time": "16:30",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Nation Forum 2027 | Bint & Puinoon",
+    "th": "Nation Forum 2027 | บิ๊นท์และปุยนุ่น",
+    "zh": "Nation Forum 2027 | Bint与Puinoon"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Room 2, Paragon Hall, Siam Paragon, Bangkok",
+    "th": "ห้อง 2 พารากอน ฮอลล์ สยามพารากอน กรุงเทพฯ",
+    "zh": "曼谷Siam Paragon，Paragon Hall，2号厅"
+  },
+  "notes": {
+    "en": "Bint and Puinoon are listed as speakers in Session 2: The Global Hub for Content and the Fandom Economy, under the Sawasdee, Thai Rising programme at Nation Forum 2027: Thailand's Agenda. Despite the forum's 2027 branding, the event takes place on 20 October 2026. The Room 2 programme runs from 15:00 to 16:30 Thailand time (GMT+7); their exact session time is not specified. The overall forum runs from 10:00 to 16:30. Fan access and registration details are not stated on this poster.",
+    "th": "บิ๊นท์และปุยนุ่นมีรายชื่อเป็นวิทยากรใน Session 2: The Global Hub for Content and the Fandom Economy ภายใต้หัวข้อ Sawasdee, Thai Rising ในงาน Nation Forum 2027: Thailand's Agenda งานจัดวันที่ 20 ตุลาคม 2569 แม้ชื่อเวทีจะระบุปี 2027 กำหนดการห้อง 2 คือเวลา 15:00–16:30 น. ตามเวลาประเทศไทย (GMT+7) โดยยังไม่ระบุเวลาเฉพาะของช่วงที่ทั้งสองเข้าร่วม งานโดยรวมจัดเวลา 10:00–16:30 น. โปสเตอร์นี้ไม่ได้ระบุรายละเอียดการลงทะเบียนหรือการเข้าร่วมของแฟนคลับ",
+    "zh": "Bint与Puinoon列为Nation Forum 2027: Thailand's Agenda论坛中Sawasdee, Thai Rising单元第二场讨论的嘉宾，主题为The Global Hub for Content and the Fandom Economy（全球内容与粉丝经济中心）。虽然论坛名称含2027，实际举办日期为2026年10月20日。2号厅单元时间为泰国时间15:00–16:30（GMT+7），两人的具体出场时间未注明。整个论坛时间为10:00–16:30。海报未说明粉丝入场及登记安排。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "unseen-2026-10-30-premiere",
   "date": "2026-10-30",
   "end_date": null,
