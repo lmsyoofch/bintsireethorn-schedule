@@ -249,9 +249,9 @@
   "country": "TH",
   "city": "Bangkok",
   "title": {
-    "en": "Katanyu Tonight | Guest confirmation pending",
-    "th": "Katanyu Tonight | รอยืนยันแขกรับเชิญ",
-    "zh": "Katanyu Tonight | 嘉宾待确认"
+    "en": "Katanyu Tonight | Puinoon & Bint",
+    "th": "Katanyu Tonight | ปุยนุ่นและบิ๊นท์",
+    "zh": "Katanyu Tonight | Puinoon与Bint"
   },
   "category": "media",
   "venue": {
@@ -260,14 +260,14 @@
     "zh": "曼谷巴吞旺区朱拉15巷，Katanyu Tonight大楼3楼"
   },
   "notes": {
-    "en": "Show recording on 15 October 2026 from 18:00 to 20:00 Thailand time (GMT+7). Free audience admission with registration. The teaser announces a guest reveal and registration opening on 8 October at 18:00. The supplied announcement does not name the guests, so Bint and Puinoon's attendance remains unconfirmed. Registration details and guest confirmation are available through the organiser's official announcements.",
-    "th": "บันทึกเทปรายการวันที่ 15 ตุลาคม 2569 เวลา 18:00–20:00 น. ตามเวลาประเทศไทย (GMT+7) เข้าชมฟรีโดยต้องลงทะเบียน โพสต์ทีเซอร์ระบุว่าจะเฉลยแขกรับเชิญพร้อมเปิดลงทะเบียนวันที่ 8 ตุลาคม เวลา 18:00 น. ประกาศที่ได้รับยังไม่ระบุชื่อแขกรับเชิญ จึงยังไม่ยืนยันการเข้าร่วมของบิ๊นท์และปุยนุ่น โปรดติดตามการยืนยันแขกรับเชิญและรายละเอียดการลงทะเบียนจากผู้จัด",
-    "zh": "节目录制时间为2026年10月15日18:00–20:00，泰国时间（GMT+7）。观众可免费入场，但须提前登记。预告表示将于10月8日18:00公布嘉宾并开放登记。所提供的公告尚未列出嘉宾姓名，因此Bint与Puinoon的出席仍待确认。嘉宾确认及登记详情请留意主办方官方公告。"
+    "en": "Puinoon and Bint are confirmed for Katanyu Tonight on 15 October 2026 from 18:00 to 20:00 Thailand time (GMT+7). Attendance is restricted to those who have secured admission through the organiser. The updated schedule marks this as a private event.",
+    "th": "ยืนยันปุยนุ่นและบิ๊นท์เข้าร่วมรายการ Katanyu Tonight วันที่ 15 ตุลาคม 2569 เวลา 18:00–20:00 น. ตามเวลาประเทศไทย (GMT+7) สำหรับผู้ที่มีสิทธิ์เข้าร่วมงานจากผู้จัดเท่านั้น ตารางอัปเดตระบุว่าเป็นงานปิด",
+    "zh": "Puinoon与Bint确认参加2026年10月15日的Katanyu Tonight，时间为泰国时间18:00–20:00（GMT+7）。仅限已通过主办方获得入场资格者参加，更新后的日程将其标注为非公开活动。"
   },
-  "access": "tbc",
-  "status": "tentative",
+  "access": "closed",
+  "status": "confirmed",
   "platform": null,
-  "source": "https://x.com/katanyu_tonight/status/2108108887530627410"
+  "source": "https://www.instagram.com/puinoonbinthouse_th/"
 },
   {
   "id": "bint-2026-10-09-big-camera-big-bonus",
