@@ -283,7 +283,7 @@
     "th": "Katanyu Tonight | ปุยนุ่นและบิ๊นท์",
     "zh": "Katanyu Tonight | Puinoon与Bint"
   },
-  "category": "media",
+  "category": "filming",
   "venue": {
     "en": "Katanyu Tonight building, 3rd floor, Soi Chula 15, Pathum Wan, Bangkok",
     "th": "ตึก Katanyu Tonight ชั้น 3 ซอยจุฬา 15 เขตปทุมวัน กรุงเทพฯ",
@@ -422,36 +422,6 @@
 {
   "id": "bint-2026-10-09-confidential-shooting",
   "date": "2026-10-09",
-  "end_date": null,
-  "start_time": null,
-  "end_time": null,
-  "timezone": "Asia/Bangkok",
-  "country": null,
-  "city": null,
-  "title": {
-    "en": "Confidential shooting",
-    "th": "ถ่ายงานที่ยังไม่เปิดเผยรายละเอียด",
-    "zh": "保密拍摄"
-  },
-  "category": "filming",
-  "venue": {
-    "en": "Undisclosed",
-    "th": "ยังไม่เปิดเผย",
-    "zh": "未公开"
-  },
-  "notes": {
-    "en": "Listed as Shooting Confidential in Bint’s updated October schedule. Project, time and location have not been announced. No fan attendance arrangements have been announced.",
-    "th": "ระบุว่า Shooting Confidential ในตารางงานเดือนตุลาคมฉบับอัปเดตของบิ๊นท์ ยังไม่เปิดเผยโปรเจกต์ เวลา และสถานที่ และยังไม่มีประกาศเกี่ยวกับการเข้าร่วมของแฟนคลับ",
-    "zh": "Bint更新的十月行程中标注为保密拍摄。项目、时间及地点尚未公开，也未公布粉丝参与安排。"
-  },
-  "access": "tbc",
-  "status": "confirmed",
-  "platform": null,
-  "source": "https://www.instagram.com/bintoupdate/"
-},
-{
-  "id": "bint-2026-10-15-confidential-shooting",
-  "date": "2026-10-15",
   "end_date": null,
   "start_time": null,
   "end_time": null,
