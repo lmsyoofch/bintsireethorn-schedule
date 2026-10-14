@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-15-shaketer-ep6",
+  "date": "2026-10-15",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "ShakeTer EP.6 | Puinoon & Bint",
+    "th": "ShakeTer EP.6 | ปุยนุ่นและบิ๊นท์",
+    "zh": "ShakeTer 第6期 | Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube: KAZZ CHANNEL",
+    "th": "YouTube: KAZZ CHANNEL",
+    "zh": "YouTube：KAZZ CHANNEL"
+  },
+  "notes": {
+    "en": "Puinoon and Bint feature in ShakeTer EP.6, releasing on 15 October 2026 at 18:00 Thailand time (GMT+7) on YouTube's KAZZ CHANNEL. The programme explores the guests' personalities and perspectives through questions selected by drawing fortune sticks. Hashtag: #ShakeTerxPuinoonBint. This is an online programme release, not an in-person appearance. Duration has not been announced.",
+    "th": "พบกับปุยนุ่นและบิ๊นท์ในรายการ ShakeTer EP.6 วันที่ 15 ตุลาคม 2569 เวลา 18:00 น. ตามเวลาประเทศไทย (GMT+7) ทาง YouTube: KAZZ CHANNEL รายการที่จะพาไปรู้จักตัวตนและมุมมองของแขกรับเชิญผ่านคำถามจากการเสี่ยงเซียมซี แฮชแท็ก: #ShakeTerxPuinoonBint เป็นกำหนดการเผยแพร่รายการออนไลน์ ไม่ใช่งานพบปะแฟนคลับ ยังไม่ประกาศความยาวรายการ",
+    "zh": "Puinoon与Bint出演ShakeTer第6期，于2026年10月15日泰国时间18:00（GMT+7）在YouTube的KAZZ CHANNEL上线。节目通过抽签选出问题，带观众了解嘉宾的个性与观点。话题标签：#ShakeTerxPuinoonBint。此条目为线上节目发布时间，并非线下见面活动。节目时长尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://www.instagram.com/kazzmagazine/"
+},
+  {
   "id": "bint-2026-10-25-arn-book-expo",
   "date": "2026-10-25",
   "end_date": null,
