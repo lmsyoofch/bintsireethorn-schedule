@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-22-elle-fashion-week",
+  "date": "2026-10-22",
+  "end_date": null,
+  "start_time": "16:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "ELLE Fashion Week 2026: FREE TO BE | Puinoon & Bint",
+    "th": "ELLE Fashion Week 2026: FREE TO BE | ปุยนุ่นและบิ๊นท์",
+    "zh": "ELLE Fashion Week 2026: FREE TO BE | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "River Park, ICONSIAM, G Floor, Bangkok",
+    "th": "ริเวอร์พาร์ค ไอคอนสยาม ชั้น G กรุงเทพฯ",
+    "zh": "曼谷ICONSIAM G层 River Park"
+  },
+  "notes": {
+    "en": "Puinoon and Bint will attend FREE TO BE BY ELLE, presented by XPENG Thailand, the opening show of ELLE Fashion Week 2026 at ICONSIAM. Registration starts at 15:00 and the show starts at 16:00, Thailand time. Their exact appearance time, the event end time and fan admission arrangements have not been announced.",
+    "th": "ปุยนุ่นและบิ๊นท์เข้าร่วมงาน FREE TO BE BY ELLE PRESENTED BY XPENG THAILAND โชว์เปิดงาน ELLE Fashion Week 2026 at ICONSIAM ลงทะเบียนเวลา 15:00 น. เริ่มโชว์เวลา 16:00 น. ตามเวลาประเทศไทย ยังไม่ประกาศเวลาออกงานที่แน่นอนของทั้งคู่ เวลาสิ้นสุดงานและรายละเอียดการเข้าร่วมสำหรับแฟนคลับ",
+    "zh": "Puinoon与Bint将出席由XPENG Thailand呈献的FREE TO BE BY ELLE，这是ELLE Fashion Week 2026 at ICONSIAM的开幕秀。泰国时间15:00开始登记，16:00开秀。两人的具体出场时间、活动结束时间及粉丝入场安排尚未公布。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/sombatja/status/2110641443912159468"
+},
+  {
   "id": "bint-2026-10-19-wetv-send-love",
   "date": "2026-10-19",
   "end_date": null,
