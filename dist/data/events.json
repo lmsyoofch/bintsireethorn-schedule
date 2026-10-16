@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-23-elle-fashion-week-tandt",
+  "date": "2026-10-23",
+  "end_date": null,
+  "start_time": "20:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "ELLE Fashion Week 2026: TANDT | Puinoon & Bint",
+    "th": "ELLE Fashion Week 2026: TANDT | ปุยนุ่นและบิ๊นท์",
+    "zh": "ELLE Fashion Week 2026: TANDT | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "River Park, ICONSIAM, G Floor, Bangkok",
+    "th": "ริเวอร์พาร์ค ไอคอนสยาม ชั้น G กรุงเทพฯ",
+    "zh": "曼谷ICONSIAM G层 River Park"
+  },
+  "notes": {
+    "en": "Puinoon and Bint are announced for the TANDT show, presented by MADAME FIN, at ELLE Fashion Week 2026 at ICONSIAM. Registration starts at 19:00 and the show starts at 20:00 on 23 October 2026, Thailand time. Their exact appearance time, the event end time and fan admission arrangements are not specified on the posters.",
+    "th": "ปุยนุ่นและบิ๊นท์มีรายชื่อร่วมโชว์ TANDT PRESENTED BY MADAME FIN ในงาน ELLE Fashion Week 2026 at ICONSIAM วันที่ 23 ตุลาคม 2569 ลงทะเบียนเวลา 19:00 น. เริ่มโชว์เวลา 20:00 น. ตามเวลาประเทศไทย โปสเตอร์ไม่ได้ระบุเวลาปรากฏตัวที่แน่นอนของทั้งคู่ เวลาสิ้นสุดงานและรายละเอียดการเข้าร่วมสำหรับแฟนคลับ",
+    "zh": "Puinoon与Bint获公布将出席ELLE Fashion Week 2026 at ICONSIAM的TANDT时装秀，由MADAME FIN呈献。2026年10月23日泰国时间19:00开始登记，20:00开秀。海报未注明两人的具体出场时间、活动结束时间及粉丝入场安排。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-17-sosat-seoulsay",
   "date": "2026-10-17",
   "end_date": null,
