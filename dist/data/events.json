@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-17-sosat-seoulsay",
+  "date": "2026-10-17",
+  "end_date": null,
+  "start_time": "20:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "SoSat SeoulSay: What's in Your Bag? | Puinoon & Bint",
+    "th": "SoSat SeoulSay ค้นกระเป๋า | ปุยนุ่นและบิ๊นท์",
+    "zh": "SoSat SeoulSay：包里有什么？| Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Online: SoSat SeoulSay, viewing platform TBC",
+    "th": "ออนไลน์: SoSat SeoulSay รอยืนยันช่องทางรับชม",
+    "zh": "线上：SoSat SeoulSay，播放平台待确认"
+  },
+  "notes": {
+    "en": "Puinoon and Bint feature in a SoSat SeoulSay bag-reveal interview promoting Khom Khlang. The episode is announced for 17 October 2026 at 20:00, Thailand time. This is an online video release, not an announced live appearance. The post does not specify the viewing platform or episode duration.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ SoSat SeoulSay ในช่วงค้นกระเป๋า พร้อมพูดคุยเกี่ยวกับซีรีส์ข่มขลัง กำหนดเผยแพร่วันที่ 17 ตุลาคม 2569 เวลา 20:00 น. ตามเวลาประเทศไทย เป็นการเผยแพร่วิดีโอออนไลน์ ไม่ได้ประกาศว่าเป็นรายการสด โพสต์ยังไม่ระบุช่องทางรับชมหรือความยาวของตอน",
+    "zh": "Puinoon与Bint参与SoSat SeoulSay的包包揭秘访谈，宣传《Khom Khlang》。节目定于2026年10月17日泰国时间20:00上线。这是线上视频发布，并非已公布的直播活动。帖子未注明播放平台或节目时长。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/SSeoulsay"
+},
+  {
   "id": "bint-2026-10-19-dear-myself-ep59",
   "date": "2026-10-19",
   "end_date": null,
