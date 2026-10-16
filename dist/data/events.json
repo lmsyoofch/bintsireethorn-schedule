@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-19-dear-myself-ep59",
+  "date": "2026-10-19",
+  "end_date": null,
+  "start_time": "19:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Dear Myself EP.59 | Puinoon & Bint",
+    "th": "Dear Myself EP.59 | ปุยนุ่นและบิ๊นท์",
+    "zh": "Dear Myself 第59期 | Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube: PRAEW MAGAZINE / PRAEW PODCAST",
+    "th": "YouTube: PRAEW MAGAZINE / PRAEW PODCAST",
+    "zh": "YouTube：PRAEW MAGAZINE / PRAEW PODCAST"
+  },
+  "notes": {
+    "en": "Puinoon and Bint feature in Dear Myself EP.59, titled 'We met on the day we almost gave up'. Scheduled for release on 19 October 2026 at 19:00, Thailand time. Watch on YouTube: PRAEW MAGAZINE or listen through PRAEW PODCAST on Spotify, Apple Podcasts and SoundCloud. This is an online episode release. The duration is not specified.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ Dear Myself EP.59 ในหัวข้อ 'เราเจอกันในวันที่เกือบยอมแพ้' เผยแพร่วันที่ 19 ตุลาคม 2569 เวลา 19:00 น. ตามเวลาประเทศไทย รับชมทาง YouTube: PRAEW MAGAZINE หรือรับฟังผ่าน PRAEW PODCAST บน Spotify, Apple Podcasts และ SoundCloud เป็นการเผยแพร่รายการออนไลน์ ยังไม่ระบุความยาวของตอน",
+    "zh": "Puinoon与Bint出演Dear Myself第59期，主题为“我们在几乎放弃的那一天相遇”。节目定于2026年10月19日泰国时间19:00上线。可通过YouTube频道PRAEW MAGAZINE观看，或在Spotify、Apple Podcasts及SoundCloud收听PRAEW PODCAST。这是线上节目发布，时长尚未注明。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube / Spotify / Apple Podcasts / SoundCloud",
+  "source": null
+},
+  {
   "id": "bint-2026-10-17-the-ghost-radio",
   "date": "2026-10-17",
   "end_date": null,
