@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-17-superstar-pa-talui",
+  "date": "2026-10-17",
+  "end_date": null,
+  "start_time": "17:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Superstar Pa Talui | Puinoon & Bint",
+    "th": "ซุปตาร์พาตะลุย | ปุยนุ่นและบิ๊นท์",
+    "zh": "Superstar Pa Talui | Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Amarin TV",
+    "th": "อมรินทร์ทีวี",
+    "zh": "Amarin TV"
+  },
+  "notes": {
+    "en": "Puinoon and Bint feature in Superstar Pa Talui (ซุปตาร์พาตะลุย), airing on Amarin TV on 17 October 2026 at 17:00, Thailand time. This entry is for the programme broadcast, not an in-person event. The end time and online release time are not specified in the teaser.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการซุปตาร์พาตะลุย ออกอากาศทางอมรินทร์ทีวี วันที่ 17 ตุลาคม 2569 เวลา 17:00 น. ตามเวลาประเทศไทย รายการนี้เป็นกำหนดการออกอากาศ ไม่ใช่กิจกรรมให้เข้าร่วม ณ สถานที่ถ่ายทำ ทีเซอร์ไม่ได้ระบุเวลาสิ้นสุดหรือเวลาเผยแพร่ทางออนไลน์",
+    "zh": "Puinoon与Bint出演《Superstar Pa Talui》（ซุปตาร์พาตะลุย），于2026年10月17日泰国时间17:00在Amarin TV播出。本条目为节目播出安排，并非线下活动。预告未注明结束时间或网络上线时间。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "Amarin TV",
+  "source": null
+},
+  {
   "id": "bint-2026-10-23-elle-fashion-week-tandt",
   "date": "2026-10-23",
   "end_date": null,
