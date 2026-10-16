@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-15-the-wall-song-6-years",
+  "date": "2026-11-15",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "The Wall Song Celebrate 6 Years | Puinoon & Bint",
+    "th": "The Wall Song Celebrate 6 Years | ปุยนุ่นและบิ๊นท์",
+    "zh": "The Wall Song 六周年庆典 | Puinoon与Bint"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Big Hall, Workpoint",
+    "th": "บิ๊กฮอลล์ เวิร์คพอยท์",
+    "zh": "Workpoint Big Hall"
+  },
+  "notes": {
+    "en": "Puinoon and Bint are featured in the announced line-up for The Wall Song Celebrate 6 Years on 15 November 2026. Tickets go on sale through Ticketmelon on 24 October 2026 at 12:00 noon, Thailand time. Ticket prices: THB 2,800, 2,000 and 1,500. The event start time, end time and their appearance time are not specified on the poster. Admission requires a ticket.",
+    "th": "ปุยนุ่นและบิ๊นท์มีรายชื่อร่วมงาน The Wall Song Celebrate 6 Years วันที่ 15 พฤศจิกายน 2569 เปิดจำหน่ายบัตรผ่าน Ticketmelon วันที่ 24 ตุลาคม 2569 เวลา 12:00 น. ตามเวลาประเทศไทย บัตรราคา 2,800 / 2,000 / 1,500 บาท โปสเตอร์ยังไม่ระบุเวลาเริ่มงาน เวลาสิ้นสุดและเวลาปรากฏตัวของทั้งคู่ ต้องมีบัตรเพื่อเข้าร่วมงาน",
+    "zh": "Puinoon与Bint列入2026年11月15日举行的The Wall Song六周年庆典嘉宾阵容。门票于2026年10月24日泰国时间中午12:00通过Ticketmelon开售，票价为2,800、2,000及1,500泰铢。海报未注明活动开始时间、结束时间及两人的出场时间。须持票入场。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-22-elle-fashion-week",
   "date": "2026-10-22",
   "end_date": null,
