@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-17-the-ghost-radio",
+  "date": "2026-10-17",
+  "end_date": null,
+  "start_time": "21:45",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "The Ghost Radio LIVE | Puinoon & Bint",
+    "th": "The Ghost Radio ไลฟ์สด | ปุยนุ่นและบิ๊นท์",
+    "zh": "The Ghost Radio 直播 | Puinoon与Bint"
+  },
+  "category": "live",
+  "venue": {
+    "en": "YouTube: TheghostradioOfficial",
+    "th": "YouTube: TheghostradioOfficial",
+    "zh": "YouTube：TheghostradioOfficial"
+  },
+  "notes": {
+    "en": "Puinoon and Bint join The Ghost Radio live from the studio to share their personal spooky experiences and eerie stories from filming Khom Khlang. Watch on YouTube: TheghostradioOfficial on 17 October 2026 from 21:45, Thailand time. The end time has not been announced. In-person fan attendance has not been announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ The Ghost Radio แบบสด ๆ ในห้องจัดรายการ เพื่อเล่าประสบการณ์หลอนที่เคยพบเจอ รวมถึงเรื่องสยองในกองถ่ายซีรีส์ข่มขลัง รับชมทาง YouTube: TheghostradioOfficial วันที่ 17 ตุลาคม 2569 เวลา 21:45 น. เป็นต้นไป ตามเวลาประเทศไทย ยังไม่ประกาศเวลาสิ้นสุดและการเปิดให้แฟนคลับเข้าร่วม ณ สถานที่จัดรายการ",
+    "zh": "Puinoon与Bint将来到The Ghost Radio直播间，分享亲身经历的灵异故事及拍摄《Khom Khlang》期间的惊悚经历。2026年10月17日泰国时间21:45起，通过YouTube频道TheghostradioOfficial观看。结束时间及粉丝现场参与安排尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://x.com/TheGhostRadio"
+},
+  {
   "id": "bint-2026-11-15-the-wall-song-6-years",
   "date": "2026-11-15",
   "end_date": null,
