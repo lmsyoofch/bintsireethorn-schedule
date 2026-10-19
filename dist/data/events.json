@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-30-siam-center-halloween",
+  "date": "2026-10-30",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": "19:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "KHOM KHLANG × SIAM CENTER: The Enchanted Space | Puinoon & Bint",
+    "th": "KHOM KHLANG × SIAM CENTER: The Enchanted Space | ปุยนุ่นและบิ๊นท์",
+    "zh": "KHOM KHLANG × SIAM CENTER: The Enchanted Space | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Atrium 2, G Floor, Siam Center, Bangkok",
+    "th": "Atrium 2 ชั้น G สยามเซ็นเตอร์ กรุงเทพฯ",
+    "zh": "曼谷Siam Center G层 Atrium 2"
+  },
+  "notes": {
+    "en": "Puinoon and Bint appear on 30 October 2026 from 18:00 to 19:00, Thailand time, as part of Siam Center Halloween 2026. Special artist interaction is limited to 20 selected entries for this session. To enter, submit a shopping receipt of at least THB 500 with a written impression of Khom Khlang and specify Puinoon and Bint as the artists you wish to meet. Place the entry in the box at the G Floor Information Counter, Siam Center, from 21 to 27 October 2026, 10:00–22:00. Selected participants will be announced on Siam Center's X account on 28 October 2026 at 18:00. The wider themed event runs from 29 October to 1 November 2026. General viewing arrangements for the artist appearance are not specified.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมงานสยามเซ็นเตอร์ฮาโลวีน 2569 วันที่ 30 ตุลาคม 2569 เวลา 18:00–19:00 น. ตามเวลาประเทศไทย กิจกรรมใกล้ชิดศิลปินสำหรับรอบนี้คัดเลือก 20 ข้อความ เพียงนำใบเสร็จช็อปครบ 500 บาทขึ้นไป พร้อมเขียนความประทับใจที่มีต่อซีรีส์ข่มขลัง และระบุว่าต้องการร่วมกิจกรรมกับปุยนุ่นและบิ๊นท์ ส่งที่กล่อง ณ Information Counter ชั้น G สยามเซ็นเตอร์ วันที่ 21–27 ตุลาคม 2569 เวลา 10:00–22:00 น. ประกาศรายชื่อผู้ได้รับคัดเลือกทาง X ของสยามเซ็นเตอร์ วันที่ 28 ตุลาคม 2569 เวลา 18:00 น. งานฮาโลวีนโดยรวมจัดวันที่ 29 ตุลาคมถึง 1 พฤศจิกายน 2569 ยังไม่ระบุรายละเอียดการรับชมสำหรับบุคคลทั่วไปในช่วงที่ศิลปินร่วมงาน",
+    "zh": "Puinoon与Bint将于2026年10月30日泰国时间18:00–19:00出席Siam Center万圣节活动。本场特别艺人互动将选出20份留言。参与方式：凭至少500泰铢的购物收据，写下对《Khom Khlang》的感想，并注明希望与Puinoon及Bint见面，于2026年10月21日至27日每日10:00–22:00投入Siam Center G层服务台的收集箱。入选名单将于10月28日18:00在Siam Center的X账号公布。整体万圣节主题活动于10月29日至11月1日举行。艺人出席时段的一般观众观看安排未注明。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-23-apple-sheep-shin-chan",
   "date": "2026-10-23",
   "end_date": null,
