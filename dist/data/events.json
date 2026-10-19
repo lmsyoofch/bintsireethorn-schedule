@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-23-apple-sheep-shin-chan",
+  "date": "2026-10-23",
+  "end_date": null,
+  "start_time": "15:30",
+  "end_time": "16:30",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Apple SHEEP × Crayon Shin-chan Fan Screening | Bint",
+    "th": "Apple SHEEP × Crayon Shin-chan Fan Screening | บิ๊นท์",
+    "zh": "Apple SHEEP × 蜡笔小新粉丝观影活动 | Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Cinema 3, Bangkapi Cineplex, The Mall Lifestore Bangkapi",
+    "th": "โรงภาพยนตร์ 3 บางกะปิ ซีนีเพล็กซ์ เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
+    "zh": "The Mall Lifestore Bangkapi 商场，Bangkapi Cineplex 3号影厅"
+  },
+  "notes": {
+    "en": "Bint's schedule lists Apple SHEEP × Crayon Shin-chan Fan Screening and TikTok Live on 23 October 2026 from 15:30 to 16:30, Thailand time. In-person attendance is restricted to eligible participants. The TikTok account and a separate livestream timetable are not specified.",
+    "th": "ตารางงานของบิ๊นท์ระบุงาน Apple SHEEP × Crayon Shin-chan Fan Screening และ TikTok Live วันที่ 23 ตุลาคม 2569 เวลา 15:30–16:30 น. ตามเวลาประเทศไทย งานปิดเฉพาะผู้มีสิทธิ์ร่วมงานเท่านั้น ยังไม่ระบุบัญชี TikTok หรือตารางเวลาไลฟ์แยกต่างหาก",
+    "zh": "Bint的行程列出Apple SHEEP × 蜡笔小新粉丝观影活动及TikTok直播，时间为2026年10月23日泰国时间15:30–16:30。现场仅限获得参与资格者入场。TikTok账号及单独的直播时间安排尚未注明。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": "TikTok",
+  "source": null
+},
+  {
   "id": "bint-2026-10-17-superstar-pa-talui",
   "date": "2026-10-17",
   "end_date": null,
