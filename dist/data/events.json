@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-27-y-kitchen",
+  "date": "2026-10-27",
+  "end_date": null,
+  "start_time": "19:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Y! Kitchen | Puinoon & Bint",
+    "th": "ว้าย! Kitchen | ปุยนุ่นและบิ๊นท์",
+    "zh": "Y! Kitchen | Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube: High Zone Kitchen",
+    "th": "YouTube: ครัวชั้นสูง - High Zone Kitchen",
+    "zh": "YouTube：High Zone Kitchen"
+  },
+  "notes": {
+    "en": "Puinoon and Bint join Chef Pom on ว้าย! Kitchen. Watch the episode on 27 October 2026 at 19:00 Thailand time (20:00 Malaysia time) on YouTube: ครัวชั้นสูง - High Zone Kitchen. Episode duration has not been announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ ว้าย! Kitchen กับเชฟป้อม รับชมวันที่ 27 ตุลาคม 2569 เวลา 19:00 น. ทาง YouTube: ครัวชั้นสูง - High Zone Kitchen ยังไม่ประกาศความยาวของตอน",
+    "zh": "Puinoon与Bint携手Chef Pom亮相《ว้าย! Kitchen》。节目将于2026年10月27日泰国时间19:00（马来西亚时间20:00）在YouTube频道 ครัวชั้นสูง - High Zone Kitchen 上线。节目时长尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://x.com/Y_Kitchen101"
+},
+  {
   "id": "bint-2026-10-26-eveandboy-beauty-reborn",
   "date": "2026-10-26",
   "end_date": null,
