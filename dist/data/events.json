@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-21-confidential-shoot",
+  "date": "2026-10-21",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Confidential shooting | Bint",
+    "th": "ถ่ายงานลับ | บิ๊นท์",
+    "zh": "保密拍摄 | Bint"
+  },
+  "category": "filming",
+  "venue": {
+    "en": "Undisclosed",
+    "th": "ไม่เปิดเผยสถานที่",
+    "zh": "地点未公开"
+  },
+  "notes": {
+    "en": "Confidential shooting listed in Bint's October schedule. Time, location and project details have not been disclosed.",
+    "th": "งานถ่ายทำลับตามตารางงานเดือนตุลาคมของบิ๊นท์ ยังไม่เปิดเผยเวลา สถานที่และรายละเอียดโปรเจกต์",
+    "zh": "Bint十月行程中公布的保密拍摄。时间、地点及项目详情尚未公开。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-27-y-kitchen",
   "date": "2026-10-27",
   "end_date": null,
