@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-10-26-eveandboy-beauty-reborn",
+  "date": "2026-10-26",
+  "end_date": null,
+  "start_time": "16:00",
+  "end_time": "19:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "EVEANDBOY THE UNDERGROUND: BEAUTY REBORN | Puinoon & Bint",
+    "th": "EVEANDBOY THE UNDERGROUND: BEAUTY REBORN | ปุยนุ่นและบิ๊นท์",
+    "zh": "EVEANDBOY THE UNDERGROUND: BEAUTY REBORN | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Siam Square One, Bangkok",
+    "th": "สยามสแควร์วัน กรุงเทพฯ",
+    "zh": "曼谷Siam Square One"
+  },
+  "notes": {
+    "en": "Puinoon and Bint attend EVEANDBOY THE UNDERGROUND: BEAUTY REBORN on 26 October 2026 from 16:00 to 19:00, Thailand time. Fans are welcome to attend and show their support. No post-event gathering and no gifts accepted. The exact floor is not specified.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมงาน EVEANDBOY THE UNDERGROUND: BEAUTY REBORN วันที่ 26 ตุลาคม 2569 เวลา 16:00–19:00 น. ตามเวลาประเทศไทย แฟนคลับสามารถไปให้กำลังใจได้ ไม่มีรวมพลหลังจบงานและไม่รับของขวัญ ยังไม่ระบุชั้นที่จัดงาน",
+    "zh": "Puinoon与Bint将于2026年10月26日泰国时间16:00–19:00出席EVEANDBOY THE UNDERGROUND: BEAUTY REBORN。欢迎粉丝到场支持。活动结束后不设粉丝集合，也不接收礼物。具体楼层未注明。"
+  },
+  "access": "public",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-10-30-siam-center-halloween",
   "date": "2026-10-30",
   "end_date": null,
