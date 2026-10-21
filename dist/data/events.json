@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-18-pareun-close-up-scent",
+  "date": "2026-11-18",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "PAREUN Close Up Scent with PuinoonBint",
+    "th": "PAREUN Close Up Scent with PuinoonBint | ปุยนุ่นและบิ๊นท์",
+    "zh": "PAREUN Close Up Scent with PuinoonBint | 香氛互动活动"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "TikTok LIVE: @pareun.official | Physical venue TBA",
+    "th": "TikTok LIVE: @pareun.official | สถานที่จัดงานรอประกาศ",
+    "zh": "TikTok直播：@pareun.official | 线下地点待公布"
+  },
+  "notes": {
+    "en": "Starts at 18:00 Thailand time (19:00 Malaysia time). Watch on TikTok @pareun.official. Exclusive Set: THB 18,900, limited to 30 participants, includes attendance at the livestream event, a one-minute private talk, a 2:1 digital photo, a personalised signed 2:1 selfie Polaroid and hi-bye. Video Call Set: THB 10,900, limited to 10 participants, includes a one-minute video call and a signed artist Polaroid. Both sets include perfume products. Google Forms registration opens on 23 October 2026 at 13:00 for the Exclusive Set and 13:30 for the Video Call Set, Thailand time. Participants are selected in submission order, with the first list announced at 18:00 that day. Payment is required within three hours of the announcement. Purchases during the livestream also offer a draw for 10 signed Polaroids. Physical attendance is restricted to eligible participants. The venue, end time and individual video call times have not been announced.",
+    "th": "เริ่มเวลา 18:00 น. ตามเวลาประเทศไทย รับชมทาง TikTok @pareun.official ชุด Exclusive ราคา 18,900 บาท จำนวน 30 สิทธิ์ รับสิทธิ์เข้าร่วมงานไลฟ์ พูดคุยส่วนตัว 1 นาที ถ่ายภาพดิจิทัล 2:1 ถ่ายเซลฟี่โพลารอยด์ 2:1 พร้อมลายเซ็นระบุชื่อและไฮบาย ชุด Video Call ราคา 10,900 บาท จำนวน 10 สิทธิ์ รับสิทธิ์วิดีโอคอล 1 นาทีและโพลารอยด์ศิลปินพร้อมลายเซ็น ทั้งสองชุดมีผลิตภัณฑ์น้ำหอม เปิดลงทะเบียนผ่าน Google Forms วันที่ 23 ตุลาคม 2569 ชุด Exclusive เวลา 13:00 น. และชุด Video Call เวลา 13:30 น. เรียงสิทธิ์ตามลำดับการส่งฟอร์ม ประกาศรายชื่อรอบแรกเวลา 18:00 น. ในวันเดียวกัน ต้องชำระเงินภายใน 3 ชั่วโมงหลังประกาศรายชื่อ ผู้ซื้อสินค้าในไลฟ์ยังมีสิทธิ์ลุ้นโพลารอยด์พร้อมลายเซ็น 10 รางวัล เข้าร่วมงาน ณ สถานที่จริงได้เฉพาะผู้ได้รับสิทธิ์ ยังไม่ประกาศสถานที่ เวลาสิ้นสุดและเวลาวิดีโอคอลรายบุคคล",
+    "zh": "泰国时间18:00开始（马来西亚时间19:00），可通过TikTok @pareun.official观看。Exclusive套装售价18,900泰铢，限30人，包含现场参与直播活动、1分钟私人交流、2:1数码合照、附指定姓名签名的2:1自拍拍立得及hi-bye。Video Call套装售价10,900泰铢，限10人，包含1分钟视频通话及艺人签名拍立得。两款套装均包含香水产品。2026年10月23日通过Google Forms开放报名，Exclusive套装于泰国时间13:00开放，Video Call套装于13:30开放。名额按提交表格顺序分配，首批名单于当天18:00公布，须在公布后3小时内付款。直播期间购买商品另有机会抽取10份签名拍立得。线下活动仅限获资格者参加。地点、结束时间及个人视频通话时间尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "TikTok",
+  "source": "https://x.com/pareunofficial"
+},
+  {
   "id": "bint-2026-10-21-confidential-shoot",
   "date": "2026-10-21",
   "end_date": null,
