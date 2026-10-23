@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-22-case-of-fate-macau",
+  "date": "2026-11-22",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Macau",
+  "country": "MO",
+  "city": "Macau",
+  "title": {
+    "en": "PuinoonBint Case of Fate | 1st Fan Meeting in Macau",
+    "th": "PuinoonBint Case of Fate | แฟนมีตติ้งครั้งแรกในมาเก๊า",
+    "zh": "PuinoonBint Case of Fate | 澳门首场粉丝见面会"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "4F Theatre, Macau Tower Convention & Entertainment Centre",
+    "th": "โรงละครชั้น 4 ศูนย์ประชุมและบันเทิงมาเก๊าทาวเวอร์",
+    "zh": "澳门旅游塔会展娱乐中心4楼剧院"
+  },
+  "notes": {
+    "en": "Puinoon and Bint's first fan meeting in Macau. Starts at 18:00 Macau and Malaysia time (17:00 Thailand time). A two-hour show is advertised, with additional fan benefits depending on ticket tier. Tickets: SVIP HKD 1,888, VIP HKD 1,388 and Regular HKD 988. Ticket sales open on 27 October 2026 at 20:00 (UTC+8) via UUTIX. All tiers include a five-minute soundcheck and group photos: SVIP 2:1, VIP 2:4 and Regular 2:6. SVIP and VIP include hi-touch, while Regular includes hi-bye. Signed posters, signed Polaroids, photocards and on-stage games vary by tier and draw allocation. The final finishing time, including fan benefits, has not been announced.",
+    "th": "แฟนมีตติ้งครั้งแรกในมาเก๊าของปุยนุ่นและบิ๊นท์ เริ่มเวลา 18:00 น. ตามเวลามาเก๊าและมาเลเซีย (17:00 น. ตามเวลาประเทศไทย) ระบุการแสดง 2 ชั่วโมง พร้อมสิทธิประโยชน์ตามประเภทบัตร ราคาบัตร SVIP 1,888 ดอลลาร์ฮ่องกง, VIP 1,388 ดอลลาร์ฮ่องกงและ Regular 988 ดอลลาร์ฮ่องกง เปิดขายวันที่ 27 ตุลาคม 2569 เวลา 20:00 น. (UTC+8) ผ่าน UUTIX บัตรทุกประเภทได้รับสิทธิ์ชมซาวด์เช็ก 5 นาทีและถ่ายภาพกลุ่ม โดย SVIP 2:1, VIP 2:4 และ Regular 2:6 บัตร SVIP และ VIP ได้รับสิทธิ์ไฮทัช ส่วน Regular ได้รับสิทธิ์ไฮบาย โปสเตอร์พร้อมลายเซ็น โพลารอยด์พร้อมลายเซ็น โฟโต้การ์ดและเกมบนเวทีขึ้นอยู่กับประเภทบัตรและการสุ่ม ยังไม่ประกาศเวลาสิ้นสุดรวมกิจกรรมสิทธิประโยชน์",
+    "zh": "Puinoon与Bint的澳门首场粉丝见面会，于澳门及马来西亚时间18:00开始（泰国时间17:00）。海报注明演出时长为2小时，另有各票档专属福利。票价：SVIP港币1,888元、VIP港币1,388元及Regular港币988元。2026年10月27日20:00（UTC+8）通过UUTIX开售。所有票档均含5分钟彩排及合照：SVIP为2:1、VIP为2:4、Regular为2:6。SVIP及VIP含Hi-Touch，Regular含Hi-Bye。签名海报、签名拍立得、小卡及上台游戏名额按票档及抽选安排分配。包含福利环节的最终结束时间尚未公布。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://uutix.com/detail?pId=4017"
+},
+  {
   "id": "bint-2026-11-18-pareun-close-up-scent",
   "date": "2026-11-18",
   "end_date": null,
