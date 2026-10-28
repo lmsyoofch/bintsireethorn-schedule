@@ -1,5 +1,5 @@
 [
-  {
+{
   "id": "bint-2026-11-05-dr-dh-livestream",
   "date": "2026-11-05",
   "end_date": null,
@@ -9,16 +9,26 @@
   "country": "CN",
   "city": null,
   "title": {
-    "en": "Dr.DH Livestream | Puinoon & Bint",
-    "th": "ไลฟ์ Dr.DH 达肤妍 | ปุยนุ่นและบิ๊นท์",
-    "zh": "达肤妍直播 | Puinoon与Bint"
+    "en": "Dr.DH Douyin Livestream | Puinoon & Bint",
+    "th": "ไลฟ์ Dr.DH ทาง Douyin | ปุยนุ่นและบิ๊นท์",
+    "zh": "达肤妍抖音直播 | Puinoon与Bint"
   },
   "category": "live",
   "venue": {
-    "en": "Online | Streaming platform TBA",
-    "th": "ออนไลน์ | รอประกาศแพลตฟอร์ม",
-    "zh": "线上直播 | 平台待公布"
+    "en": "Douyin livestream | Account TBA",
+    "th": "ไลฟ์ทาง Douyin (抖音) | รอประกาศบัญชี",
+    "zh": "抖音直播 | 直播账号待公布"
   },
+  "notes": {
+    "en": "Puinoon and Bint join the Dr.DH (达肤妍) brand livestream on 5 November 2026. The advertised start time is 20:00, interpreted as China time (20:00 Malaysia, 19:00 Thailand). The shared fan post identifies the platform as Douyin. The promotion features exclusive merchandise and signed items, with new photocards and tarot-style cards shown for the Starlight Set. The exact livestream account, purchase conditions and end time have not been specified.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์กับแบรนด์ Dr.DH (达肤妍) วันที่ 5 พฤศจิกายน 2569 โปสเตอร์ระบุเวลา 20:00 น. โดยตีความว่าเป็นเวลาจีน (20:00 น. เวลามาเลเซีย และ 19:00 น. เวลาไทย) โพสต์ของแฟนคลับระบุว่าไลฟ์ทาง Douyin มีการประชาสัมพันธ์ของที่ระลึกและของพร้อมลายเซ็น พร้อมแสดงโฟโต้การ์ดใหม่และการ์ดสไตล์ไพ่ทาโรต์สำหรับชุด Starlight ยังไม่ระบุบัญชีไลฟ์ เงื่อนไขการซื้อและเวลาสิ้นสุด",
+    "zh": "Puinoon与Bint将于2026年11月5日亮相达肤妍直播间。海报标注20:00，此处按中国时间记录（马来西亚20:00、泰国19:00）。所分享的粉丝帖文注明直播平台为抖音。活动宣传专属周边及亲签，并展示星光套组的全新小卡与塔罗牌风格卡片。具体直播账号、购买条件及结束时间尚未注明。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "Douyin",
+  "source": null
+},
   "notes": {
     "en": "Puinoon and Bint join the Dr.DH (达肤妍) brand livestream on 5 November 2026 at 20:00, assumed to be China time (20:00 Malaysia, 19:00 Thailand). The poster promotes exclusive merchandise and signed items, with new photocards and tarot-style cards shown for the Starlight Set. Purchase conditions, streaming platform and end time are not specified in the supplied posters.",
     "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์กับแบรนด์ Dr.DH (达肤妍) วันที่ 5 พฤศจิกายน 2569 เวลา 20:00 น. โดยตีความว่าเป็นเวลาจีน (19:00 น. เวลาไทย) โปสเตอร์ประชาสัมพันธ์ของที่ระลึกและของพร้อมลายเซ็น พร้อมแสดงโฟโต้การ์ดใหม่และการ์ดสไตล์ไพ่ทาโรต์สำหรับชุด Starlight ยังไม่ระบุเงื่อนไขการซื้อ แพลตฟอร์มและเวลาสิ้นสุดในโปสเตอร์ที่ให้มา",
