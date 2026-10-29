@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-12-03-daiplus-light-up-your-luck",
+  "date": "2026-12-03",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "DAiPLUS Light Up Your Luck with Bint",
+    "th": "DAiPLUS Light Up Your Luck with Bint | บิ๊นท์",
+    "zh": "DAiPLUS Light Up Your Luck with Bint | 粉丝签名活动"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "MBK Center, Bangkok | Exact location TBA",
+    "th": "เอ็มบีเค เซ็นเตอร์ กรุงเทพฯ | รอประกาศจุดจัดงาน",
+    "zh": "曼谷MBK Center | 具体活动区域待公布"
+  },
+  "notes": {
+    "en": "Special fan signing with Bint, starting at 18:00 Thailand time (19:00 Malaysia). Campaign purchases run from 1 to 21 November 2026 via LINE SHOPPING @daiplusshop. Sales open on 1 November at 12:00, with double draw entries until 23:59 that day. Winners are announced on 25 November. Light Up Set: THB 4,999, with 15 lucky fans receiving Zone A seats, a one-minute fansign, a 1:1 selfie, a 1:1 photo, a signed 1:1 Polaroid and hi-bye. Aura Set: THB 999, with 15 lucky fans receiving Zone B seats, a 45-second fansign, a 1:1 photo and hi-bye. Video Call Set: THB 2,999, with 10 lucky fans receiving a two-minute video call and a signed Polaroid. The first 150 Light Up Set purchasers receive Zone C seating. Unsuccessful Light Up Set and Aura Set participants may register from 25 November for 100 Zone D standing places, allocated in registration order. Shipping costs THB 100 per set within Thailand only. Fan zones and benefits require eligibility. General public viewing, the end time and individual video call times have not been specified.",
+    "th": "กิจกรรมแฟนไซน์พิเศษกับบิ๊นท์ เริ่มเวลา 18:00 น. ตามเวลาประเทศไทย ซื้อสินค้าร่วมกิจกรรมวันที่ 1–21 พฤศจิกายน 2569 ผ่าน LINE SHOPPING @daiplusshop เปิดขายวันที่ 1 พฤศจิกายน เวลา 12:00 น. รับสิทธิ์ลุ้นสองเท่าสำหรับการซื้อวันแรกถึง 23:59 น. ประกาศผู้โชคดีวันที่ 25 พฤศจิกายน ชุด Light Up ราคา 4,999 บาท สุ่มผู้โชคดี 15 คน รับที่นั่งโซน A แฟนไซน์ 1 นาที เซลฟี่ 1:1 ภาพถ่าย 1:1 โพลารอยด์ 1:1 พร้อมลายเซ็นและไฮบาย ชุด Aura ราคา 999 บาท สุ่มผู้โชคดี 15 คน รับที่นั่งโซน B แฟนไซน์ 45 วินาที ภาพถ่าย 1:1 และไฮบาย ชุด Video Call ราคา 2,999 บาท สุ่มผู้โชคดี 10 คน รับวิดีโอคอล 2 นาทีและโพลารอยด์พร้อมลายเซ็น ผู้ซื้อชุด Light Up 150 คนแรกได้รับที่นั่งโซน C ผู้ซื้อชุด Light Up และ Aura ที่พลาดสิทธิ์ Lucky Fan สามารถลงทะเบียนโซน D แบบยืนตั้งแต่วันที่ 25 พฤศจิกายน จำกัดผู้ลงทะเบียน 100 คนแรก ค่าจัดส่งชุดละ 100 บาท จัดส่งเฉพาะในประเทศไทย แฟนโซนและสิทธิประโยชน์จำกัดเฉพาะผู้มีสิทธิ์ ยังไม่ระบุการเข้าชมของบุคคลทั่วไป เวลาสิ้นสุดและเวลาวิดีโอคอลรายบุคคล",
+    "zh": "Bint特别签名活动于泰国时间18:00开始（马来西亚19:00）。活动购买期为2026年11月1日至21日，通过LINE SHOPPING @daiplusshop下单。11月1日12:00开售，当天至23:59购买可获双倍抽选机会。11月25日公布名单。Light Up套装售价4,999泰铢，抽选15人获得A区座位、1分钟签名互动、1:1自拍、1:1合照、1:1签名拍立得及Hi-Bye。Aura套装售价999泰铢，抽选15人获得B区座位、45秒签名互动、1:1合照及Hi-Bye。Video Call套装售价2,999泰铢，抽选10人获得2分钟视频通话及签名拍立得。首150名Light Up套装买家可获得C区座位。未抽中Lucky Fan的Light Up及Aura套装买家可于11月25日起登记D区站位，限首100名登记者。每套运费100泰铢，仅限泰国境内配送。粉丝专区及福利仅限符合资格者。普通公众观看安排、结束时间及个人视频通话时间尚未注明。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/daiplusofficial"
+},
 {
   "id": "bint-2026-11-05-dr-dh-livestream",
   "date": "2026-11-05",
