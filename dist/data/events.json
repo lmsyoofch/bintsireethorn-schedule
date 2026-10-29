@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-13-golden-zebra-jeans",
+  "date": "2026-11-13",
+  "end_date": null,
+  "start_time": "17:30",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "Golden Zebra Jeans Grand Opening | Puinoon & Bint",
+    "th": "เปิดตัว Golden Zebra Jeans | ปุยนุ่นและบิ๊นท์",
+    "zh": "Golden Zebra Jeans 盛大开幕 | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Promotion Area, Floor 1, Central Rama 9, Bangkok",
+    "th": "ลานโปรโมชั่น ชั้น 1 เซ็นทรัล พระราม 9 กรุงเทพฯ",
+    "zh": "曼谷Central Rama 9一楼推广活动区"
+  },
+  "notes": {
+    "en": "Golden Zebra Jeans grand opening on 13 November 2026 at 17:30 Thailand time (18:30 Malaysia). The poster announces a special fashion show featuring Bint, Puinoon and Bella Ranee. Fan access arrangements and the event end time have not been specified.",
+    "th": "งานเปิดตัว Golden Zebra Jeans วันที่ 13 พฤศจิกายน 2569 เวลา 17:30 น. ณ ลานโปรโมชั่น ชั้น 1 เซ็นทรัล พระราม 9 พบกับแฟชั่นโชว์สุดพิเศษจากบิ๊นท์ ปุยนุ่นและเบลล่า ราณี ยังไม่ระบุเงื่อนไขการเข้าร่วมสำหรับแฟนคลับและเวลาสิ้นสุดงาน",
+    "zh": "Golden Zebra Jeans开幕活动将于2026年11月13日泰国时间17:30（马来西亚18:30）举行。海报公布Bint、Puinoon及Bella Ranee将参与特别时装秀。粉丝入场安排及活动结束时间尚未注明。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-12-03-daiplus-light-up-your-luck",
   "date": "2026-12-03",
   "end_date": null,
