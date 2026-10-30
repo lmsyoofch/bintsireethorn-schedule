@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-01-happy-noz-presenter-reveal",
+  "date": "2026-11-01",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Happy Noz New Presenter Reveal | Bint",
+    "th": "Happy Noz เปิดตัวพรีเซ็นเตอร์คนใหม่ | บิ๊นท์",
+    "zh": "Happy Noz 新代言人揭晓 | Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Happy Noz social media",
+    "th": "ช่องทางโซเชียลมีเดียของ Happy Noz",
+    "zh": "Happy Noz 社交媒体"
+  },
+  "notes": {
+    "en": "Happy Noz has teased its new presenter reveal for 1 November 2026. The name clues point to Bint Sireethorn, with the formal reveal still pending. No release time, physical appearance or livestream has been announced.",
+    "th": "Happy Noz เตรียมเฉลยพรีเซ็นเตอร์คนใหม่วันที่ 1 พฤศจิกายน 2569 คำใบ้ชื่อชี้ไปที่บิ๊นท์ สิรีธร โดยยังรอการเปิดตัวอย่างเป็นทางการ ยังไม่ประกาศเวลาเผยแพร่ งานปรากฏตัวหรือไลฟ์สด",
+    "zh": "Happy Noz预告将于2026年11月1日揭晓新代言人。姓名线索指向Bint Sireethorn，正式揭晓尚待公布。目前未公布发布时间、线下出席活动或直播安排。"
+  },
+  "access": "online",
+  "status": "details_tbc",
+  "platform": "Instagram",
+  "source": "https://www.instagram.com/happynoz/"
+},
+  {
   "id": "bint-2026-11-13-golden-zebra-jeans",
   "date": "2026-11-13",
   "end_date": null,
