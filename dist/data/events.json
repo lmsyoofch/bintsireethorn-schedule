@@ -165,13 +165,20 @@
   },
   "category": "live",
   "venue": {
-    "en": "Douyin: Dr.DH (达肤妍)",
-    "th": "Douyin: Dr.DH (达肤妍)",
-    "zh": "抖音：Dr.DH达肤妍官方账号"
+    "en": "Douyin: Dr.DH official account (达肤妍棉片官方直播间)",
+    "th": "Douyin: บัญชีทางการ Dr.DH (达肤妍棉片官方直播间)",
+    "zh": "抖音：达肤妍棉片官方直播间"
   },
   "notes": {
-    "en": "Puinoon and Bint join the Dr.DH livestream from Thailand via the brand’s Douyin account. Starts at 19:00 Thailand time, equivalent to 20:00 in Malaysia and China. Promotional materials feature merchandise, signed items, new photocards and tarot-style cards with the Starlight Set. Check the brand’s announcements for purchase conditions. The end time has not been announced.",
-    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์ Dr.DH จากประเทศไทย ผ่านบัญชี Douyin ของแบรนด์ เริ่มเวลา 19:00 น. ตามเวลาประเทศไทย ตรงกับ 20:00 น. ในมาเลเซียและจีน สื่อประชาสัมพันธ์,
+    "en": "Puinoon and Bint participate from Thailand via Dr.DH’s official Douyin account. Starts at 19:00 Thailand time, equivalent to 20:00 in Malaysia and China. The official schedule marks the physical event as private. Fans can watch online. Promotional materials feature merchandise, signed items, new photocards and tarot-style cards with the Starlight Set. Check the brand’s announcements for purchase conditions. The end time has not been announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์จากประเทศไทย ผ่านบัญชีทางการของ Dr.DH บน Douyin เริ่มเวลา 19:00 น. ตามเวลาประเทศไทย ตรงกับ 20:00 น. ในมาเลเซียและจีน ตารางงานระบุว่าเป็นงานปิด แฟน ๆ สามารถรับชมทางออนไลน์ได้ สื่อประชาสัมพันธ์มีของที่ระลึก ของพร้อมลายเซ็น โฟโต้การ์ดใหม่และการ์ดสไตล์ไพ่ทาโรต์ในเซ็ต Starlight โปรดติดตามเงื่อนไขการซื้อจากแบรนด์ ยังไม่ประกาศเวลาสิ้นสุด",
+    "zh": "Puinoon与Bint在泰国通过Dr.DH达肤妍官方抖音账号参与直播。泰国时间19:00开始，即中国及马来西亚时间20:00。官方行程将线下活动标注为非公开活动，粉丝可在线观看。宣传内容包括周边、签名物品及星光套组中的全新小卡和塔罗风格卡片。购买条件请以品牌公告为准，结束时间尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "Douyin",
+  "source": null
+},
   {
   "id": "bint-2026-11-22-case-of-fate-macau",
   "date": "2026-11-22",
