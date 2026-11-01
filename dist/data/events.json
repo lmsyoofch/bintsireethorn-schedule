@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-19-efm-fandom-live",
+  "date": "2026-11-19",
+  "end_date": null,
+  "start_time": "21:00",
+  "end_time": "22:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "EFM Fandom Live | Puinoon & Bint",
+    "th": "EFM Fandom Live | ปุยนุ่นและบิ๊นท์",
+    "zh": "EFM Fandom Live | Puinoon与Bint"
+  },
+  "category": "live",
+  "venue": {
+    "en": "EFM Studio, 38th floor",
+    "th": "สตูดิโอ EFM ชั้น 38",
+    "zh": "EFM演播室，38楼"
+  },
+  "notes": {
+    "en": "Puinoon and Bint appear on EFM Fandom Live from 21:00 to 22:00 Thailand time. Fans may support the artists around the event area. This does not confirm admission to the studio. No gathering after the event and no gifts accepted. The broadcast platform has not been specified.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ EFM Fandom Live เวลา 21:00–22:00 น. สามารถให้กำลังใจบริเวณรอบงานได้ แต่ไม่ได้ระบุว่าสามารถเข้าชมภายในสตูดิโอได้ ไม่มีการรวมพลหลังเลิกงานและไม่รับของขวัญ ยังไม่ระบุช่องทางการรับชม",
+    "zh": "Puinoon与Bint将于泰国时间21:00至22:00参加EFM Fandom Live。粉丝可在活动周边为艺人应援，但不代表可以进入演播室。活动结束后不聚集，不收礼物。播出平台尚未注明。"
+  },
+  "access": "perimeter",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
   "id": "bint-2026-11-29-sineha-the-charm-redefined",
   "date": "2026-11-29",
   "end_date": null,
