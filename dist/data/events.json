@@ -153,32 +153,25 @@
   "id": "bint-2026-11-05-dr-dh-livestream",
   "date": "2026-11-05",
   "end_date": null,
-  "start_time": "20:00",
+  "start_time": "19:00",
   "end_time": null,
-  "timezone": "Asia/Shanghai",
-  "country": "CN",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
   "city": null,
   "title": {
     "en": "Dr.DH Douyin Livestream | Puinoon & Bint",
     "th": "ไลฟ์ Dr.DH ทาง Douyin | ปุยนุ่นและบิ๊นท์",
-    "zh": "达肤妍抖音直播 | Puinoon与Bint"
+    "zh": "Dr.DH达肤妍抖音直播 | Puinoon与Bint"
   },
   "category": "live",
   "venue": {
     "en": "Douyin: Dr.DH (达肤妍)",
     "th": "Douyin: Dr.DH (达肤妍)",
-    "zh": "抖音：达肤妍"
+    "zh": "抖音：Dr.DH达肤妍官方账号"
   },
   "notes": {
-    "en": "Puinoon and Bint join the Dr.DH (达肤妍) livestream on its Douyin account on 5 November 2026. The advertised start time is 20:00, interpreted as China time (20:00 Malaysia, 19:00 Thailand). The promotion features exclusive merchandise and signed items, with new photocards and tarot-style cards shown for the Starlight Set. Purchase conditions and end time have not been specified.",
-    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์ผ่านบัญชี Douyin ของ Dr.DH (达肤妍) วันที่ 5 พฤศจิกายน 2569 โปสเตอร์ระบุเวลา 20:00 น. โดยตีความว่าเป็นเวลาจีน (20:00 น. เวลามาเลเซีย และ 19:00 น. เวลาไทย) มีการประชาสัมพันธ์ของที่ระลึกและของพร้อมลายเซ็น พร้อมแสดงโฟโต้การ์ดใหม่และการ์ดสไตล์ไพ่ทาโรต์สำหรับชุด Starlight ยังไม่ระบุเงื่อนไขการซื้อและเวลาสิ้นสุด",
-    "zh": "Puinoon与Bint将于2026年11月5日亮相达肤妍抖音直播间。海报标注20:00，此处按中国时间记录（马来西亚20:00、泰国19:00）。活动宣传专属周边及亲签，并展示星光套组的全新小卡与塔罗牌风格卡片。具体购买条件及结束时间尚未注明。"
-  },
-  "access": "online",
-  "status": "confirmed",
-  "platform": "Douyin",
-  "source": null
-},
+    "en": "Puinoon and Bint join the Dr.DH livestream from Thailand via the brand’s Douyin account. Starts at 19:00 Thailand time, equivalent to 20:00 in Malaysia and China. Promotional materials feature merchandise, signed items, new photocards and tarot-style cards with the Starlight Set. Check the brand’s announcements for purchase conditions. The end time has not been announced.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมไลฟ์ Dr.DH จากประเทศไทย ผ่านบัญชี Douyin ของแบรนด์ เริ่มเวลา 19:00 น. ตามเวลาประเทศไทย ตรงกับ 20:00 น. ในมาเลเซียและจีน สื่อประชาสัมพันธ์,
   {
   "id": "bint-2026-11-22-case-of-fate-macau",
   "date": "2026-11-22",
