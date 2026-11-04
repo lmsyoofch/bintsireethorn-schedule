@@ -1,4 +1,96 @@
 [
+  [
+  {
+    "id": "bint-2026-11-09-khom-khlang-final-ep",
+    "date": "2026-11-09",
+    "end_date": null,
+    "start_time": "11:00",
+    "end_time": "22:00",
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "title": {
+      "en": "Khom Khlang The Series Final Episode | Puinoon & Bint",
+      "th": "ข่มขลัง The Series Final Episode | ปุยนุ่นและบิ๊นท์",
+      "zh": "Khom Khlang The Series 大结局活动 | Puinoon与Bint"
+    },
+    "category": "fan",
+    "venue": {
+      "en": "MGI Hall, BRAVO BKK",
+      "th": "MGI Hall, BRAVO BKK",
+      "zh": "MGI Hall，BRAVO BKK"
+    },
+    "notes": {
+      "en": "Final episode event with Puinoon and Bint. The schedule lists 11:00–22:00 Thailand time for the event, not a specific screening start time. This is a closed event for eligible attendees only.",
+      "th": "งาน Final Episode กับปุยนุ่นและบิ๊นท์ ตารางระบุช่วงเวลางาน 11:00–22:00 น. ไม่ใช่เวลาเริ่มฉายโดยเฉพาะ เป็นงานปิดสำหรับผู้มีสิทธิ์เข้าร่วมเท่านั้น",
+      "zh": "Puinoon与Bint参加的大结局活动。行程列出的泰国时间11:00至22:00为活动时段，并非具体放映开始时间。活动仅限持有参与资格者入场。"
+    },
+    "access": "closed",
+    "status": "confirmed",
+    "platform": null,
+    "source": null
+  },
+  {
+    "id": "bint-2026-11-28-livestream-tbc",
+    "date": "2026-11-28",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Bint Livestream (TBC)",
+      "th": "ไลฟ์บิ๊นท์ (รอยืนยัน)",
+      "zh": "Bint直播（待确认）"
+    },
+    "category": "live",
+    "venue": {
+      "en": "Online, platform TBC",
+      "th": "ออนไลน์ รอยืนยันแพลตฟอร์ม",
+      "zh": "线上，平台待确认"
+    },
+    "notes": {
+      "en": "A livestream is provisionally listed in Bint’s schedule for 28 November 2026. The time, platform, brand and other participants have not been announced.",
+      "th": "ตารางงานบิ๊นท์ระบุไลฟ์วันที่ 28 พฤศจิกายน 2569 โดยยังรอยืนยัน ยังไม่ประกาศเวลา แพลตฟอร์ม แบรนด์และผู้ร่วมรายการ",
+      "zh": "Bint的行程暂列2026年11月28日直播，尚待确认。时间、平台、品牌及其他参与者尚未公布。"
+    },
+    "access": "online",
+    "status": "tentative",
+    "platform": null,
+    "source": null
+  },
+  {
+    "id": "bint-2026-11-30-livestream-tbc",
+    "date": "2026-11-30",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "timezone": "Asia/Bangkok",
+    "country": "TH",
+    "city": null,
+    "title": {
+      "en": "Bint Livestream (TBC)",
+      "th": "ไลฟ์บิ๊นท์ (รอยืนยัน)",
+      "zh": "Bint直播（待确认）"
+    },
+    "category": "live",
+    "venue": {
+      "en": "Online, platform TBC",
+      "th": "ออนไลน์ รอยืนยันแพลตฟอร์ม",
+      "zh": "线上，平台待确认"
+    },
+    "notes": {
+      "en": "A livestream is provisionally listed in Bint’s schedule for 30 November 2026. The time, platform, brand and other participants have not been announced.",
+      "th": "ตารางงานบิ๊นท์ระบุไลฟ์วันที่ 30 พฤศจิกายน 2569 โดยยังรอยืนยัน ยังไม่ประกาศเวลา แพลตฟอร์ม แบรนด์และผู้ร่วมรายการ",
+      "zh": "Bint的行程暂列2026年11月30日直播，尚待确认。时间、平台、品牌及其他参与者尚未公布。"
+    },
+    "access": "online",
+    "status": "tentative",
+    "platform": null,
+    "source": null
+  }
+],
   {
   "id": "bint-2026-11-04-katanyu-tonight-on-air",
   "date": "2026-11-04",
