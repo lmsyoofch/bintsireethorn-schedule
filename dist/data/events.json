@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-04-katanyu-tonight-on-air",
+  "date": "2026-11-04",
+  "end_date": null,
+  "start_time": "19:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Katanyu Tonight On Air | Puinoon & Bint",
+    "th": "Katanyu Tonight ออนแอร์ | ปุยนุ่นและบิ๊นท์",
+    "zh": "Katanyu Tonight 节目播出 | Puinoon与Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "YouTube: Katanyu Tonight",
+    "th": "YouTube: Katanyu Tonight",
+    "zh": "YouTube：Katanyu Tonight"
+  },
+  "notes": {
+    "en": "The Katanyu Tonight episode featuring Puinoon and Bint airs on YouTube at 19:00 Thailand time, equivalent to 20:00 in Malaysia. This entry is for the episode broadcast, separate from the earlier recording session. The end time has not been announced.",
+    "th": "รายการ Katanyu Tonight ตอนที่มีปุยนุ่นและบิ๊นท์ ออกอากาศทาง YouTube เวลา 19:00 น. ตามเวลาประเทศไทย ตรงกับ 20:00 น. ในมาเลเซีย รายการนี้เป็นกำหนดการออกอากาศ แยกจากวันบันทึกเทปก่อนหน้านี้ ยังไม่ประกาศเวลาสิ้นสุด",
+    "zh": "Puinoon与Bint参与的Katanyu Tonight节目将于泰国时间19:00，即马来西亚时间20:00，在YouTube播出。此条目为节目播出安排，与此前的录制活动分开。结束时间尚未公布。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "YouTube",
+  "source": "https://www.youtube.com/@Katanyutonight"
+},
+  {
   "id": "bint-2026-11-19-efm-fandom-live",
   "date": "2026-11-19",
   "end_date": null,
