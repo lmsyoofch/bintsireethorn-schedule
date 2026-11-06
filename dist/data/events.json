@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-11-06-all-about-you-curated-for-you",
+  "date": "2026-11-06",
+  "end_date": null,
+  "start_time": "13:00",
+  "end_time": "15:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "ALL ABOUT YOU × BEAUTRIUM: Curated for You | Puinoon & Bint",
+    "th": "ALL ABOUT YOU × BEAUTRIUM: Curated for You | ปุยนุ่นและบิ๊นท์",
+    "zh": "ALL ABOUT YOU × BEAUTRIUM: Curated for You | Puinoon与Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Siam Square Walking Street",
+    "th": "สยามสแควร์ วอล์กกิ้งสตรีท",
+    "zh": "暹罗广场步行街"
+  },
+  "notes": {
+    "en": "Exclusive activity with Puinoon and Bint for 30 selected lucky fans, scheduled for 13:00–15:00 Thailand time. The campaign also offers 10 video call places, with the call date and time not specified in the supplied materials. Spend THB 699 net per receipt on participating JUV, Kraam and AXIS-Y products to receive one draw entry. Eligible purchases are available at all BEAUTRIUM branches and BEAUTRIUM Online channels. Campaign closed on 25 October 2026. The lucky fan activity is separate from the BEAUTRIUM anniversary red carpet at 16:00.",
+    "th": "กิจกรรมพิเศษกับปุยนุ่นและบิ๊นท์สำหรับผู้โชคดี 30 คน เวลา 13:00–15:00 น. แคมเปญยังมีสิทธิ์ Video Call สำหรับผู้โชคดี 10 คน โดยข้อมูลที่ให้มายังไม่ระบุวันและเวลาวิดีโอคอล ซื้อสินค้าที่ร่วมรายการจาก JUV, Kraam และ AXIS-Y ครบ 699 บาทสุทธิต่อใบเสร็จ รับ 1 สิทธิ์ลุ้น ผ่าน BEAUTRIUM ทุกสาขาและ BEAUTRIUM Online ทุกช่องทาง สิ้นสุดแคมเปญวันที่ 25 ตุลาคม 2569 กิจกรรม Lucky Fan แยกจากงานพรมแดงครบรอบ BEAUTRIUM เวลา 16:00 น.",
+    "zh": "Puinoon与Bint的30名幸运粉丝专属活动，泰国时间13:00至15:00举行。活动另设10个视频通话名额，所提供资料未注明视频通话日期及时间。购买指定JUV、Kraam及AXIS-Y产品，单张收据实付满699泰铢可获一次抽奖机会，适用于BEAUTRIUM所有分店及官方线上渠道。抽奖活动于2026年10月25日截止。幸运粉丝活动与16:00的BEAUTRIUM周年庆红毯分开举行。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
+  {
     "id": "bint-2026-11-09-khom-khlang-final-ep",
     "date": "2026-11-09",
     "end_date": null,
