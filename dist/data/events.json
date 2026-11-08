@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-11-10-rad-hunting-heart-sales",
+  "date": "2026-11-10",
+  "end_date": null,
+  "start_time": "12:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "RAD Hunting Heart | Special Sets Sales Opening",
+    "th": "RAD Hunting Heart | เปิดจำหน่ายเซ็ตพิเศษ",
+    "zh": "RAD Hunting Heart | 特别套装开售"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Online at radcosmetics.co",
+    "th": "ออนไลน์ทาง radcosmetics.co",
+    "zh": "线上：radcosmetics.co"
+  },
+  "notes": {
+    "en": "Special sets go on sale on 10 November 2026 at 12:00 Thailand time through www.radcosmetics.co. RAD announces an exclusive event for 50 participants under the Hunting Heart campaign. This entry marks the sales opening only. The announcement does not specify the actual event date, time, venue, set prices, benefits or participant selection method. The artists’ names are not explicitly stated in the supplied teaser text.",
+    "th": "เปิดจำหน่ายเซ็ตพิเศษวันที่ 10 พฤศจิกายน 2569 เวลา 12:00 น. ผ่าน www.radcosmetics.co โดย RAD ประกาศกิจกรรม Exclusive Event สำหรับ 50 คน ภายใต้แคมเปญ Hunting Heart รายการนี้เป็นกำหนดการเปิดจำหน่ายเท่านั้น ประกาศยังไม่ระบุวัน เวลา สถานที่จัดงานจริง ราคาเซ็ต สิทธิประโยชน์ หรือวิธีคัดเลือกผู้เข้าร่วม และข้อความทีเซอร์ที่ให้มายังไม่ได้ระบุชื่อศิลปินอย่างชัดเจน",
+    "zh": "特别套装将于2026年11月10日泰国时间12:00通过 www.radcosmetics.co 开售。RAD 宣布 Hunting Heart 活动将设50个专属活动名额。本条目仅记录开售时间，并非艺人出席活动的日期。公告尚未说明实际活动日期、时间、地点、套装价格、福利或参加者选拔方式。所提供的预告文字亦未明确列出艺人姓名。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "RAD Cosmetics website",
+  "source": "https://x.com/RADCosmeticsTH"
+},
 {
   "id": "bint-2026-11-14-aum-aum-central-westgate",
   "date": "2026-11-14",
