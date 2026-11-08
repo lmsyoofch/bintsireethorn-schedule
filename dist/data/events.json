@@ -1,17 +1,17 @@
 [
-  {
+{
   "id": "bint-2026-11-14-aum-aum-central-westgate",
   "date": "2026-11-14",
   "end_date": null,
-  "start_time": null,
+  "start_time": "17:30",
   "end_time": null,
   "timezone": "Asia/Bangkok",
   "country": "TH",
   "city": "Nonthaburi",
   "title": {
-    "en": "Aum Aum at Central Westgate | Puinoon & Bint",
-    "th": "อั้มอั้ม ที่เซ็นทรัล เวสต์เกต | ปุยนุ่น & บิ๊นท์",
-    "zh": "Aum Aum Central Westgate 活动 | Puinoon & Bint"
+    "en": "Aum Aum Market at Central Westgate | Puinoon & Bint",
+    "th": "AumAum Market ที่เซ็นทรัล เวสต์เกต | ปุยนุ่น & บิ๊นท์",
+    "zh": "Aum Aum Market Central Westgate 活动 | Puinoon & Bint"
   },
   "category": "brand",
   "venue": {
@@ -20,14 +20,14 @@
     "zh": "Central Westgate 购物中心"
   },
   "notes": {
-    "en": "Puinoon and Bint will appear at the Aum Aum event at Central Westgate on 14 November 2026. The poster does not specify the event time, floor, activity area or admission arrangements. Further details are to be announced.",
-    "th": "พบกับปุยนุ่นและบิ๊นท์ในงานอั้มอั้ม ณ เซ็นทรัล เวสต์เกต วันที่ 14 พฤศจิกายน 2569 โปสเตอร์ยังไม่ระบุเวลา ชั้น พื้นที่จัดกิจกรรม หรือเงื่อนไขการเข้าร่วมงาน รอประกาศรายละเอียดเพิ่มเติม",
-    "zh": "Puinoon 与 Bint 将于2026年11月14日出席 Central Westgate 的 Aum Aum 活动。海报尚未注明活动时间、楼层、具体活动区域或入场安排，更多详情待公布。"
+    "en": "Puinoon and Bint will join P’Aum at Aum Aum Market at Central Westgate on 14 November 2026 at 17:30 Thailand time, as announced by STAR HUNTER ENTERTAINMENT. The finishing time, floor, specific activity area and admission arrangements have not been announced.",
+    "th": "พบกับปุยนุ่นและบิ๊นท์ ร่วมสร้างความสนุกกับพี่อั้มในงาน AumAum Market ณ เซ็นทรัล เวสต์เกต วันที่ 14 พฤศจิกายน 2569 เวลา 17:30 น. ตามประกาศของ STAR HUNTER ENTERTAINMENT ยังไม่ระบุเวลาสิ้นสุด ชั้น พื้นที่จัดกิจกรรมที่แน่นอน หรือเงื่อนไขการเข้าร่วมงาน",
+    "zh": "根据 STAR HUNTER ENTERTAINMENT 的公告，Puinoon 与 Bint 将于2026年11月14日泰国时间17:30，与 P’Aum 一同出席 Central Westgate 的 Aum Aum Market 活动。结束时间、楼层、具体活动区域及入场安排尚未公布。"
   },
   "access": "tbc",
-  "status": "details_tbc",
+  "status": "confirmed",
   "platform": null,
-  "source": null
+  "source": "https://www.instagram.com/starhunter_entertainment/"
 },
   {
     "id": "bint-2027-01-21-laurier-big-c",
