@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-12-09-today-bizview-lovenomics",
+  "date": "2026-12-09",
+  "end_date": null,
+  "start_time": "13:00",
+  "end_time": "17:00",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "TODAY Bizview: LOVENOMICS | Puinoon & Bint",
+    "th": "TODAY Bizview: LOVENOMICS การตลาดคู่จิ้น | ปุยนุ่น–บิ๊นท์",
+    "zh": "TODAY Bizview：LOVENOMICS CP营销 | Puinoon & Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "SCBX NEXT TECH, 4th Floor, Siam Paragon",
+    "th": "SCBX NEXT TECH ชั้น 4 สยามพารากอน",
+    "zh": "SCBX NEXT TECH，暹罗百丽宫4楼"
+  },
+  "notes": {
+    "en": "Puinoon and Bint will participate in TODAY Bizview’s LOVENOMICS event exploring CP marketing and the fandom economy. The announced event runs from 13:00 to 17:00 (GMT+7). Their individual appearance time has not been specified.\n\nClosed event for confirmed participants only. Advance registration is required and walk-ins are not accepted. Registration opens on 13 November 2026 at 18:00 (GMT+7) through a Google Form to be shared on the TODAY Bizview Facebook page. Admission fees, capacity and selection arrangements are not specified in the supplied announcement.",
+    "th": "ปุยนุ่นและบิ๊นท์เข้าร่วมงาน LOVENOMICS การตลาดคู่จิ้น โดย TODAY Bizview ว่าด้วยการตลาดคู่จิ้นและเศรษฐกิจแฟนด้อม งานจัดเวลา 13.00–17.00 น. ตามเวลาประเทศไทย โดยยังไม่ระบุช่วงเวลาปรากฏตัวของทั้งสองโดยเฉพาะ\n\nงานปิดสำหรับผู้ได้รับสิทธิ์เข้าร่วมเท่านั้น ต้องลงทะเบียนล่วงหน้า ไม่รับ Walk-in เปิดลงทะเบียนวันที่ 13 พฤศจิกายน 2569 เวลา 18.00 น. ผ่าน Google Form ที่จะเผยแพร่ทาง Facebook: TODAY Bizview ประกาศที่ให้มายังไม่ระบุค่าเข้าร่วม จำนวนผู้เข้าร่วม และวิธีคัดเลือก",
+    "zh": "Puinoon与Bint将参加TODAY Bizview举办的LOVENOMICS活动，探讨CP营销及粉丝经济。公布的整体活动时间为13:00至17:00（GMT+7），两人的具体出场时段尚未注明。\n\n活动仅限获得参与资格的人士，必须提前报名，不接受现场直接入场。报名将于2026年11月13日18:00（GMT+7）开放，Google Form链接将在TODAY Bizview的Facebook页面公布。所提供的公告尚未说明入场费用、名额及筛选方式。"
+  },
+  "access": "closed",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/todaybizview"
+},
+  {
   "id": "bint-2026-11-17-grabfood-mega-gale",
   "date": "2026-11-17",
   "end_date": null,
