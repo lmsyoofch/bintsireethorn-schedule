@@ -329,34 +329,34 @@
   "platform": "YouTube",
   "source": "https://www.youtube.com/@Katanyutonight"
 },
-  {
+{
   "id": "bint-2026-11-19-efm-fandom-live",
   "date": "2026-11-19",
   "end_date": null,
-  "start_time": "21:00",
+  "start_time": "20:30",
   "end_time": "22:00",
   "timezone": "Asia/Bangkok",
   "country": "TH",
   "city": "Bangkok",
   "title": {
-    "en": "EFM Fandom Live | Puinoon & Bint",
-    "th": "EFM Fandom Live | ปุยนุ่นและบิ๊นท์",
-    "zh": "EFM Fandom Live | Puinoon与Bint"
+    "en": "EFM Fandom Fanfiction | Puinoon & Bint",
+    "th": "EFM Fandom Fanfiction | ปุยนุ่น–บิ๊นท์",
+    "zh": "EFM Fandom Fanfiction | Puinoon & Bint"
   },
   "category": "live",
   "venue": {
-    "en": "EFM Studio, 38th floor",
-    "th": "สตูดิโอ EFM ชั้น 38",
-    "zh": "EFM演播室，38楼"
+    "en": "GMM Grammy Place Building",
+    "th": "อาคาร GMM Grammy Place",
+    "zh": "GMM Grammy Place大厦"
   },
   "notes": {
-    "en": "Puinoon and Bint appear on EFM Fandom Live from 21:00 to 22:00 Thailand time. Fans may support the artists around the event area. This does not confirm admission to the studio. No gathering after the event and no gifts accepted. The broadcast platform has not been specified.",
-    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ EFM Fandom Live เวลา 21:00–22:00 น. สามารถให้กำลังใจบริเวณรอบงานได้ แต่ไม่ได้ระบุว่าสามารถเข้าชมภายในสตูดิโอได้ ไม่มีการรวมพลหลังเลิกงานและไม่รับของขวัญ ยังไม่ระบุช่องทางการรับชม",
-    "zh": "Puinoon与Bint将于泰国时间21:00至22:00参加EFM Fandom Live。粉丝可在活动周边为艺人应援，但不代表可以进入演播室。活动结束后不聚集，不收礼物。播出平台尚未注明。"
+    "en": "Puinoon and Bint join EFM Fandom Fanfiction on 19 November 2026 from 20:30 to 22:00 (GMT+7), equivalent to 21:30–23:00 in Malaysia and Singapore.\n\nWatch live on Facebook: EFM station, TikTok: efmstation and YouTube: ATIME.\n\nThe updated Star Hunter announcement confirms a fan gathering after the event at GMM Grammy Place. Fans are asked to maintain order and follow staff instructions. The exact gathering time, meeting point and studio audience arrangements are not specified. Gift acceptance is not stated in this update.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการ EFM Fandom Fanfiction วันที่ 19 พฤศจิกายน 2569 เวลา 20.30–22.00 น. ตามเวลาประเทศไทย\n\nรับชมสดทาง Facebook: EFM station, TikTok: efmstation และ YouTube: ATIME\n\nประกาศล่าสุดจาก Star Hunter ยืนยันว่ามีรวมพลหลังจบงาน ณ อาคาร GMM Grammy Place ขอความร่วมมือแฟน ๆ รักษาความเป็นระเบียบและปฏิบัติตามคำแนะนำของทีมงาน ยังไม่ระบุเวลารวมพล จุดนัดพบ และรายละเอียดการเข้าชมภายในสตูดิโอ ประกาศนี้ไม่ได้ระบุเรื่องการรับของขวัญ",
+    "zh": "Puinoon与Bint将于2026年11月19日泰国时间20:30至22:00参加EFM Fandom Fanfiction，即马来西亚及新加坡时间21:30至23:00。\n\n直播平台：Facebook的EFM station、TikTok的efmstation及YouTube的ATIME。\n\nStar Hunter最新公告确认活动结束后将在GMM Grammy Place大厦举行粉丝集合活动。请粉丝保持秩序并遵从工作人员指示。具体集合时间、地点及演播室观众安排尚未说明。本次公告未说明是否接受礼物。"
   },
-  "access": "perimeter",
+  "access": "after",
   "status": "confirmed",
-  "platform": null,
+  "platform": "Facebook: EFM station / TikTok: efmstation / YouTube: ATIME",
   "source": null
 },
 {
