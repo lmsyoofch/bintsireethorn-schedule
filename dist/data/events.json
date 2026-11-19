@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-12-27-the-spicy-of-bint",
+  "date": "2026-12-27",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": null,
+  "city": null,
+  "title": {
+    "en": "The Spicy of Bint | Birthday Party",
+    "th": "The Spicy of Bint | งานวันเกิดบิ๊นท์ สิรีธร",
+    "zh": "The Spicy of Bint | Bint生日派对"
+  },
+  "category": "fan",
+  "venue": {
+    "en": "Venue TBC",
+    "th": "รอประกาศสถานที่",
+    "zh": "地点待公布"
+  },
+  "notes": {
+    "en": "Star Hunter Entertainment announced Bint Sireethorn’s birthday party, The Spicy of Bint, for Sunday, 27 December 2026. The announcement did not specify the venue, event time or admission arrangements. Follow Star Hunter Entertainment for further details.",
+    "th": "Star Hunter Entertainment ประกาศจัดงานวันเกิดบิ๊นท์ สิรีธร ในชื่อ The Spicy of Bint วันอาทิตย์ที่ 27 ธันวาคม 2569 ประกาศยังไม่ระบุสถานที่ เวลา หรือเงื่อนไขการเข้าร่วมงาน ติดตามรายละเอียดเพิ่มเติมได้ทาง Star Hunter Entertainment",
+    "zh": "Star Hunter Entertainment宣布，Bint Sireethorn的生日派对The Spicy of Bint将于2026年12月27日（星期日）举行。公告尚未公布地点、活动时间或入场安排。更多详情请关注Star Hunter Entertainment。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": "https://x.com/starhunter_ent"
+},
 {
   "id": "bint-2026-11-26-wetv-always-more-2027",
   "date": "2026-11-26",
