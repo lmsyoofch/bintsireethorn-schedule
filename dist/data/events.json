@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-12-01-centralworld-the-world-unfolds",
+  "date": "2026-12-01",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Bangkok",
+  "title": {
+    "en": "The World Unfolds | centralwOrld Bangkok Countdown 2027 Press Conference",
+    "th": "The World Unfolds | งานแถลงข่าว centralwOrld Bangkok Countdown 2027",
+    "zh": "The World Unfolds | centralwOrld曼谷2027跨年倒数新闻发布会"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Eden, Level 1, centralwOrld",
+    "th": "ลาน Eden ชั้น 1 เซ็นทรัลเวิลด์",
+    "zh": "centralwOrld购物中心1楼Eden广场"
+  },
+  "notes": {
+    "en": "This is the press conference for centralwOrld Bangkok Countdown 2027. The official teaser hints at a duo who play a police lieutenant and Mae Kru, pointing to Puinoon and Bint from Khom Khlang. The announcement does not name them, so their appearance remains tentative. The event time and admission arrangements are TBC.",
+    "th": "งานแถลงข่าว centralwOrld Bangkok Countdown 2027 โพสต์ทางการให้คำใบ้ถึงคู่ที่รับบทเป็นหมวดและแม่ครู ซึ่งสื่อถึงปุยนุ่นและบิ๊นท์จากเรื่องข่มขลัง แต่ยังไม่ได้ระบุชื่อทั้งสอง จึงยังรอยืนยันการร่วมงาน ส่วนเวลาและรายละเอียดการเข้าร่วมงานยังไม่ประกาศ",
+    "zh": "这是centralwOrld曼谷2027跨年倒数活动的新闻发布会。官方预告以警官和Mae Kru两个角色为线索，指向《Khom Khlang》的Puinoon与Bint。由于公告未点名，两人是否出席仍待确认。活动时间及入场安排待公布。"
+  },
+  "access": "tbc",
+  "status": "tentative",
+  "platform": null,
+  "source": "https://x.com/centralwOrld"
+},
+  {
   "id": "bint-2026-12-02-disney-hexed-special-screening",
   "date": "2026-12-02",
   "end_date": null,
