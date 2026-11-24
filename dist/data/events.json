@@ -30,36 +30,6 @@
   "source": "https://x.com/MajorGroup"
 },
   {
-  "id": "bint-2026-12-10-a-fair-fashion-island",
-  "date": "2026-12-10",
-  "end_date": null,
-  "start_time": null,
-  "end_time": null,
-  "timezone": "Asia/Bangkok",
-  "country": "TH",
-  "city": "Bangkok",
-  "title": {
-    "en": "A Fair at Fashion Island | Bint Appearance TBC",
-    "th": "A Fair ที่แฟชั่นไอส์แลนด์ | รอยืนยันการร่วมงานของบิ๊นท์",
-    "zh": "A Fair @ Fashion Island | Bint是否出席待确认"
-  },
-  "category": "brand",
-  "venue": {
-    "en": "Fashion Island",
-    "th": "แฟชั่นไอส์แลนด์",
-    "zh": "Fashion Island购物中心"
-  },
-  "notes": {
-    "en": "A Supachai teased a mystery guest for the A Fair opening on 10 December. Bint liked the Instagram post, but the teaser does not identify the guest. The opening time, exact location within the shopping centre and admission arrangements were not specified.",
-    "th": "เอ ศุภชัยลงโพสต์ทายว่าใครจะมาร่วมงานเปิด A Fair วันที่ 10 ธันวาคม บิ๊นท์กดไลก์โพสต์บน Instagram แต่โพสต์ยังไม่เปิดเผยชื่อแขกรับเชิญ ยังไม่ระบุเวลาเปิดงาน จุดจัดงานภายในศูนย์การค้า และรายละเอียดการเข้าร่วม",
-    "zh": "A Supachai预告12月10日A Fair开幕活动将有神秘嘉宾。Bint点赞了这则Instagram帖文，但帖文并未公布嘉宾身份。开幕时间、商场内的具体地点及入场安排尚未注明。"
-  },
-  "access": "tbc",
-  "status": "tentative",
-  "platform": null,
-  "source": "https://www.instagram.com/a_supachai1/"
-},
-  {
   "id": "bint-2026-12-27-the-spicy-of-bint",
   "date": "2026-12-27",
   "end_date": null,
