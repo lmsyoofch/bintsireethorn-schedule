@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-11-29-ko-ma-de-khrap-workpoint",
+  "date": "2026-11-29",
+  "end_date": null,
+  "start_time": "21:30",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": null,
+  "title": {
+    "en": "Ko Ma De Khrap (ก็มาเด้คร้าบ) | Puinoon & Bint",
+    "th": "ก็มาเด้คร้าบ | ปุยนุ่น–บิ๊นท์",
+    "zh": "泰国综艺《ก็มาเด้คร้าบ》| Puinoon & Bint"
+  },
+  "category": "media",
+  "venue": {
+    "en": "Workpoint 23 TV",
+    "th": "ช่องเวิร์คพอยท์ 23",
+    "zh": "Workpoint 23电视台"
+  },
+  "notes": {
+    "en": "Puinoon and Bint appear on the Thai variety show Ko Ma De Khrap (ก็มาเด้คร้าบ). The episode airs at 21:30 Thailand time (22:30 in Malaysia and Singapore). Watch on Workpoint 23, workpointtv.com or the Workpoint app. The broadcast end time is not listed.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมรายการวาไรตี้ ก็มาเด้คร้าบ ออกอากาศเวลา 21.30 น. ตามเวลาประเทศไทย หรือ 22.30 น. ตามเวลามาเลเซียและสิงคโปร์ รับชมทางช่องเวิร์คพอยท์ 23 เว็บไซต์ workpointtv.com หรือแอป Workpoint ยังไม่ระบุเวลาสิ้นสุดการออกอากาศ",
+    "zh": "Puinoon与Bint将亮相泰国综艺《ก็มาเด้คร้าบ》。节目于泰国时间21:30播出，马来西亚及新加坡时间为22:30。可通过Workpoint 23电视台、workpointtv.com或Workpoint应用观看。播出结束时间未注明。"
+  },
+  "access": "online",
+  "status": "confirmed",
+  "platform": "Workpoint 23 / Workpoint TV website / Workpoint app",
+  "source": "https://www.workpointtv.com/"
+},
 {
   "id": "bint-2026-12-19-same-hour-china",
   "date": "2026-12-19",
