@@ -1,5 +1,35 @@
 [
   {
+  "id": "bint-2026-12-16-taokaenoi-swap-my-life",
+  "date": "2026-12-16",
+  "end_date": null,
+  "start_time": null,
+  "end_time": null,
+  "timezone": "Asia/Shanghai",
+  "country": "CN",
+  "city": null,
+  "title": {
+    "en": "Taokaenoi: Swap My Life, Steal My Heart",
+    "th": "เถ้าแก่น้อย: Swap My Life, Steal My Heart",
+    "zh": "老板仔：心动交换人生"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Online",
+    "th": "ออนไลน์",
+    "zh": "线上"
+  },
+  "notes": {
+    "en": "Puinoon and Bint are the speculated guests. Taokaenoi has yet to name them or announce a start time. The surprise gift pack launches on 30 November 2026.",
+    "th": "คาดว่าปุยนุ่นและบิ๊นท์จะเป็นแขกรับเชิญ เถ้าแก่น้อยยังไม่ประกาศรายชื่อแขกหรือเวลาเริ่มไลฟ์ ชุดของขวัญเซอร์ไพรส์เปิดตัววันที่ 30 พฤศจิกายน 2569",
+    "zh": "猜测嘉宾为 Puinoon 和 Bint，老板仔尚未公布嘉宾名单及直播开始时间。惊喜礼包将于2026年11月30日上线。"
+  },
+  "access": "tbc",
+  "status": "tentative",
+  "platform": "Tmall / Douyin",
+  "source": null
+}，
+  {
   "id": "bint-2026-11-29-ko-ma-de-khrap-workpoint",
   "date": "2026-11-29",
   "end_date": null,
