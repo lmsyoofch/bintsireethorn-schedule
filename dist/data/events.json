@@ -1,12 +1,12 @@
 [
-  {
+{
   "id": "bint-2026-12-16-taokaenoi-swap-my-life",
   "date": "2026-12-16",
   "end_date": null,
   "start_time": null,
   "end_time": null,
-  "timezone": "Asia/Shanghai",
-  "country": "CN",
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
   "city": null,
   "title": {
     "en": "Taokaenoi: Swap My Life, Steal My Heart",
@@ -20,9 +20,9 @@
     "zh": "线上"
   },
   "notes": {
-    "en": "Puinoon and Bint are the speculated guests. Taokaenoi has yet to name them or announce a start time. The surprise gift pack launches on 30 November 2026.",
-    "th": "คาดว่าปุยนุ่นและบิ๊นท์จะเป็นแขกรับเชิญ เถ้าแก่น้อยยังไม่ประกาศรายชื่อแขกหรือเวลาเริ่มไลฟ์ ชุดของขวัญเซอร์ไพรส์เปิดตัววันที่ 30 พฤศจิกายน 2569",
-    "zh": "猜测嘉宾为 Puinoon 和 Bint，老板仔尚未公布嘉宾名单及直播开始时间。惊喜礼包将于2026年11月30日上线。"
+    "en": "Puinoon and Bint are the expected guests. Taokaenoi has yet to confirm the guest names or announce a start time. The surprise gift pack launches on 30 November 2026.",
+    "th": "คาดว่าปุยนุ่นและบิ๊นท์จะเป็นแขกรับเชิญ เถ้าแก่น้อยยังไม่ยืนยันรายชื่อแขกหรือประกาศเวลาเริ่มไลฟ์ ชุดของขวัญเซอร์ไพรส์เปิดตัววันที่ 30 พฤศจิกายน 2569",
+    "zh": "预计嘉宾为 Puinoon 和 Bint，老板仔尚未确认嘉宾名单或公布直播开始时间。惊喜礼包将于2026年11月30日上线。"
   },
   "access": "tbc",
   "status": "tentative",
