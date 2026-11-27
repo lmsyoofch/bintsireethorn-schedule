@@ -1,30 +1,4 @@
 [
-  {
-  "id": "bint-2026-11-29-ko-ma-de-khrap-workpoint",
-  "date": "2026-11-29",
-  "end_date": null,
-  "start_time": "21:30",
-  "end_time": null,
-  "timezone": "Asia/Bangkok",
-  "country": "TH",
-  "city": null,
-  "title": {
-    "en": "Ko Ma De Khrap | Puinoon & Bint",
-    "th": "ก็มาดิคร้าบ | ปุยนุ่นและบิ๊นท์",
-    "zh": "《ก็มาดิคร้าบ》综艺节目 | Puinoon 与 Bint"
-  },
-  "category": "tv",
-  "venue": null,
-  "notes": {
-    "en": "Puinoon and Bint guest on Workpoint’s comedy variety show in a Khom Khlang-themed segment. Watch on Workpoint 23, workpointtv.com or the Workpoint app.",
-    "th": "ปุยนุ่นและบิ๊นท์เป็นแขกรับเชิญในรายการวาไรตี้ตลกก็มาดิคร้าบ กับช่วงพิเศษธีมข่มขลัง รับชมทางช่องเวิร์คพอยท์ 23 เว็บไซต์ workpointtv.com หรือแอป Workpoint",
-    "zh": "Puinoon 和 Bint 做客 Workpoint 喜剧综艺，参与以《Khom Khlang》为主题的环节。可通过 Workpoint 23、workpointtv.com 或 Workpoint 应用观看。"
-  },
-  "access": "public",
-  "status": "confirmed",
-  "platform": "Workpoint 23 / Workpoint website and app",
-  "source": "https://x.com/starhunter_ent"
-},
 {
   "id": "bint-2026-12-16-taokaenoi-swap-my-life",
   "date": "2026-12-16",
