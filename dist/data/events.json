@@ -1,4 +1,34 @@
 [
+  {
+  "id": "bint-2026-12-10-destiny-wellness-clinic-future-park",
+  "date": "2026-12-10",
+  "end_date": null,
+  "start_time": "18:00",
+  "end_time": null,
+  "timezone": "Asia/Bangkok",
+  "country": "TH",
+  "city": "Rangsit",
+  "title": {
+    "en": "Destiny Wellness Clinic × Puinoon & Bint",
+    "th": "Destiny Wellness Clinic × ปุยนุ่นและบิ๊นท์",
+    "zh": "Destiny Wellness Clinic × Puinoon 与 Bint"
+  },
+  "category": "brand",
+  "venue": {
+    "en": "Cascata Zone, Future Park Rangsit",
+    "th": "โซน Cascata ฟิวเจอร์พาร์ค รังสิต",
+    "zh": "Future Park Rangsit 购物中心 Cascata 区"
+  },
+  "notes": {
+    "en": "Joint appearance by Puinoon and Bint. The poster does not specify admission arrangements or an end time.",
+    "th": "ปุยนุ่นและบิ๊นท์ร่วมงานด้วยกัน โปสเตอร์ไม่ได้ระบุเงื่อนไขการเข้าร่วมหรือเวลาสิ้นสุดงาน",
+    "zh": "Puinoon 与 Bint 将共同出席。海报未注明入场安排或活动结束时间。"
+  },
+  "access": "tbc",
+  "status": "confirmed",
+  "platform": null,
+  "source": null
+},
 {
   "id": "bint-2026-12-16-taokaenoi-swap-my-life",
   "date": "2026-12-16",
